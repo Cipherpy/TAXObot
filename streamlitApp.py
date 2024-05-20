@@ -1,13 +1,11 @@
 from dotenv import load_dotenv
 import streamlit as st
 from streamlit_chat import message
-from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
-from langchain.document_loaders.csv_loader import CSVLoader
-from langchain.vectorstores import FAISS
-from langchain.document_loaders import DirectoryLoader, TextLoader
-from langchain.text_splitter import CharacterTextSplitter
+from langchain_community.vectorstores import FAISS
+
 import tempfile
 import pdfminer.high_level
 
@@ -21,12 +19,12 @@ load_dotenv()
 DB_FAISS_PATH = 'vectorstore/db_faiss_text'
 
 embeddings = OpenAIEmbeddings()
-vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings)
+vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings,allow_dangerous_deserialization=True)
 
 
 chain = ConversationalRetrievalChain.from_llm(
 llm = ChatOpenAI(temperature=0.0,model_name='gpt-4'),
-retriever=vectorstore.as_retriever(search_kwargs={"k": 1}),return_source_documents=True)
+retriever=vectorstore.as_retriever(search_kwargs={"k": 30}),return_source_documents=True)
 
 
 def conversational_chat(query):
@@ -65,7 +63,7 @@ with container:
         st.session_state['generated'].append(output)
 
 if st.session_state['generated']:
-    print(st.session_state['generated'])
+    
     with response_container:
         for i in range(len(st.session_state['generated'])):
             message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', avatar_style="big-smile")

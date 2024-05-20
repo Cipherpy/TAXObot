@@ -1,7 +1,7 @@
-from langchain.vectorstores import FAISS
-from langchain.document_loaders import PyPDFLoader, DirectoryLoader
+from langchain_community.vectorstores import FAISS
+from langchain_community.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter,CharacterTextSplitter
-from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
 
 DATA_PATH = "D:/CMLRE/LanguageModel/Paper_Sahu/text/"
@@ -13,7 +13,7 @@ def create_vector_db():
                              glob='*.txt')
 
     documents = loader.load()
-    text_splitter = RecursiveCharacterTextSplitter(separators = "\n\n",chunk_size=500, chunk_overlap=300)
+    text_splitter = RecursiveCharacterTextSplitter(separators = "\n\n",chunk_size=600, chunk_overlap=300)
     texts = text_splitter.split_documents(documents)
     print("Number of chunks:", len(texts))
     for index, chunk in enumerate(texts):
