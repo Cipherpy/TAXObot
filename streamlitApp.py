@@ -5,6 +5,7 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.vectorstores import FAISS
+import os
 
 # import tempfile
 # import pdfminer.high_level
@@ -14,7 +15,7 @@ from core.ui import (
     is_query_valid,
 )
 
-load_dotenv()
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 DB_FAISS_PATH = 'vectorstore/db_faiss_text'
 
