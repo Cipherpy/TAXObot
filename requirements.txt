@@ -77,7 +77,6 @@ ordered-set==4.1.0
 orjson==3.10.3
 packaging==23.2
 pandas==2.2.2
-pdfminer
 pdfminer.six
 pillow==10.3.0
 protobuf==4.25.3
