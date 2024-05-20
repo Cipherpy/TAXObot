@@ -6,8 +6,8 @@ from langchain_openai import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.vectorstores import FAISS
 
-import tempfile
-import pdfminer.high_level
+# import tempfile
+# import pdfminer.high_level
 
 
 from core.ui import (
