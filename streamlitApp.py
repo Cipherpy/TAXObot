@@ -15,7 +15,7 @@ from core.ui import (
     is_query_valid,
 )
 
-os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+os.environ["OPENAI_API_KEY"] = st.secrets['openai']["OPENAI_API_KEY"]
 
 DB_FAISS_PATH = 'vectorstore/db_faiss_text'
 
