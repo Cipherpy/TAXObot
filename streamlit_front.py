@@ -12,11 +12,13 @@ from core.ui import is_query_valid
 st.set_page_config(layout="wide")
 
 os.environ["OPENAI_API_KEY"] = st.secrets['openai']["OPENAI_API_KEY"]
+load_dotenv()
 
 DB_FAISS_PATH = 'vectorstore/db_faiss_text'
 
 embeddings = OpenAIEmbeddings()
 vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings)
+vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings,allow_dangerous_deserialization=True)
 
 chain = ConversationalRetrievalChain.from_llm(
     llm=ChatOpenAI(temperature=0.0, model_name='gpt-4'),
