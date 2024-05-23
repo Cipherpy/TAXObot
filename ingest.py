@@ -3,17 +3,18 @@ from langchain_community.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter,CharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
+import os
 
 DATA_PATH = "D:/CMLRE/LanguageModel/Paper_Sahu/text/"
 DB_FAISS_PATH = 'vectorstore/db_faiss_text'
-load_dotenv()
+os.environ["OPENAI_API_KEY"] = st.secrets['openai']["OPENAI_API_KEY"]
 # Create vector database
 def create_vector_db():
     loader = DirectoryLoader(DATA_PATH,
                              glob='*.txt')
 
     documents = loader.load()
-    text_splitter = RecursiveCharacterTextSplitter(separators = "\n\n",chunk_size=600, chunk_overlap=300)
+    text_splitter = RecursiveCharacterTextSplitter(separators = ["\n\n"],chunk_size=2000, chunk_overlap=100)
     texts = text_splitter.split_documents(documents)
     print("Number of chunks:", len(texts))
     for index, chunk in enumerate(texts):
