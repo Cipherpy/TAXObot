@@ -19,4 +19,5 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 
 ## Installation
 ### 1. Clone the repository:
-``` git clone https://github.com/Cipherpy/TAXObot.git ```
+
+``git clone https://github.com/Cipherpy/TAXObot.git ``
