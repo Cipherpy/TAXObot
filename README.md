@@ -49,10 +49,10 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 The knowledge base is a collection of information that TAXObot uses to answer your questions. It's like a library that contains detailed taxonomic information on Glyceridae. When you ask a question, the RAG model searches through this knowledge base to find relevant information and then uses it to generate a precise and accurate answer.
 
 * **PDF Data**
-* 
+ 
     - One part of the knowledge base consists of PDF documents that contain extensive taxonomic information on Glyceridae. These PDFs have been processed and indexed to allow the RAG model to retrieve relevant sections based on your queries.
 * **TEXT Data**
-* 
+  
     - Another part of the knowledge base consists of custom-created text data files. These files contain detailed descriptions and taxonomic keys specifically tailored by our team to enhance the accuracy and relevance of the information provided by TAXObot. This bespoke text data ensures that the model has access to the most precise and up-to-date information
 
 The knowledge bases for the RAG model are stored in the **pdf/** and **text/** folders, respectively.
