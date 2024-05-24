@@ -55,7 +55,19 @@ The knowledge base is a collection of information that TAXObot uses to answer yo
   
     - Another part of the knowledge base consists of custom-created text data files. These files contain detailed descriptions and taxonomic keys specifically tailored by our team to enhance the accuracy and relevance of the information provided by TAXObot. This bespoke text data ensures that the model has access to the most precise and up-to-date information
 
-The knowledge bases for the RAG model are stored in the **pdf/** and **text/** folders, respectively.
+The knowledge bases for the RAG model are stored in the `pdf/` and `text/` folders, respectively.
+
+## Data Ingestion
+To ingest data into the RAG model, use the ingest.py script. This script processes the data files and indexes them for retrieval by the model.
+
+### Running the Ingest Script
+1. Ensure your data is placed in the appropriate folders:
+
+    - PDF documents should be placed in `pdf/`.
+    - Custom text data files should be placed in `text/`
+2. Run the ingestion script:
+   
+        python ingest.py
 
 ## Sample Questions and Answers
 The **samples/** folder contains a set of sample questions and answers to help you get started with the kinds of queries you can ask TAXObot. Here are a few examples:
