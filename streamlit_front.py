@@ -18,7 +18,7 @@ DB_FAISS_PATH = 'vectorstore/db_faiss_text'
 
 embeddings = OpenAIEmbeddings()
 # vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings)
-vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings,allow_dangerous_deserialization=True)
+vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
 
 chain = ConversationalRetrievalChain.from_llm(
     llm=ChatOpenAI(temperature=0.0, model_name='gpt-4'),
@@ -48,7 +48,7 @@ col1, col2 = st.columns([1, 3])
 
 # CSS to style the col1 container
 st.markdown(
-   """
+    """
     <style>
     .col1-container {
         background-color: #f0f0f0;
@@ -130,7 +130,6 @@ with col2:
                 st.markdown(user_message_html, unsafe_allow_html=True)
                 bot_message_html = f'''
                 <div class="custom-message bot-message">
-                    
                     <div class="message-avatar">
                         <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png">
                     </div>
