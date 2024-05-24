@@ -6,6 +6,7 @@ TAXObot is an AI assistant designed for Marine Taxonomists, particularly focusin
 Conversational AI: Interact with TAXObot using natural language to get detailed taxonomic information.
 RAG Implementation: Combines language generation and retrieval for precise and contextually accurate answers.
 User-Friendly Interface: Clean and intuitive interface built with Streamlit.
-Demo
-Installation
+
+## Demo
+## Installation
 
