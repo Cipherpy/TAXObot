@@ -66,5 +66,5 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 ## Contact
 ### For questions or issues, please open an issue in this repository or contact the maintainer:
 
-Name: Reshma B, Nosad Sahu
-Email: reshmababuraj89@gmail.com, nosadsahu@gmail.com
+#### Name: Reshma B, Nosad Sahu
+#### Email: reshmababuraj89@gmail.com, nosadsahu@gmail.com
