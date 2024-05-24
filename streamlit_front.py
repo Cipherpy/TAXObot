@@ -73,10 +73,10 @@ st.markdown(
         border-radius: 5px;
     }
     .user-message {
-        justify-content: flex-start;
+        justify-content: flex-end;
     }
     .bot-message {
-        justify-content: flex-end;
+        justify-content: flex-start;
     }
     </style>
     """,
