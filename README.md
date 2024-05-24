@@ -2,7 +2,7 @@
 TAXObot is an AI assistant designed for Marine Taxonomists, particularly focusing on the taxonomic information of Glyceridae, a family of Polychaeta found in Indian waters. This Streamlit application leverages Retrieval-Augmented Generation (RAG) to provide accurate and detailed taxonomic information based on user queries.
 
 
-https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843bc9052957
+
 
 
 
@@ -15,5 +15,6 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 
 
 ## Demo
+https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843bc9052957
 ## Installation
 
