@@ -56,8 +56,8 @@ st.markdown(
         border-radius: 10px;
     }
     .custom-message .message-avatar img {
-        width: 50px;
-        height: 50px;
+        width: 80px;
+        height: 80px;
     }
     .custom-message {
         display: flex;
