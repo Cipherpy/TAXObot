@@ -72,7 +72,7 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
 This will process and index the data, making it available for retrieval by TAXObot.
 
 ## Sample Questions and Answers
-The **Sample/** folder contains a set of sample questions and answers to help you get started with the kinds of queries you can ask TAXObot. Here are a few examples:
+The `Sample/` folder contains a set of sample questions and answers to help you get started with the kinds of queries you can ask TAXObot. Here are a few examples:
 
 1. **Question**: What are the key identifying features of Glyceridae?
    
