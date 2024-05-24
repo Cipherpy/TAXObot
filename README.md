@@ -40,3 +40,15 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 ### 5. Run the Streamlit app
 
         streamlit run streamlit_front.py
+
+## Usage
+* Once the app is running, open your web browser and go to http://localhost:8501.
+* Start interacting with TAXObot by typing your queries related to marine polychaetes in the input box.
+
+## Project Structure
+- app.py: Main application script.
+- core/: Core functions and utilities.
+- vectorstore/: Directory for storing vector database.
+- requirements.txt: List of dependencies.
+- README.md: This file.
+- .env: Environment variables file (not included, must be created manually).
