@@ -131,6 +131,9 @@ with col2:
                 bot_message_html = f'''
                 <div class="custom-message bot-message">
                     <div class="message-content">{st.session_state["generated"][i]}</div>
+                    <div class="message-avatar">
+                        <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png">
+                    </div>
                 </div>
                 '''
                 st.markdown(bot_message_html, unsafe_allow_html=True)
