@@ -46,7 +46,7 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 * Start interacting with TAXObot by typing your queries related to marine polychaetes in the input box.
 
 ## Knowledge Base
-### The knowledge base is a collection of information that TAXObot uses to answer your questions. It's like a library that contains detailed taxonomic information on Glyceridae. When you ask a question, the RAG model searches through this knowledge base to find relevant information and then uses it to generate a precise and accurate answer.
+The knowledge base is a collection of information that TAXObot uses to answer your questions. It's like a library that contains detailed taxonomic information on Glyceridae. When you ask a question, the RAG model searches through this knowledge base to find relevant information and then uses it to generate a precise and accurate answer.
 
 * pdf/: PDF data
 * text/: TEXT data 
