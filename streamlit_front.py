@@ -68,7 +68,7 @@ st.markdown(
         margin-right: 10px;
     }
     .message-content {
-        background-color: #e0e0e0;
+        background-color: #f8f9fa;
         padding: 10px;
         border-radius: 5px;
         max-width: 45%;
