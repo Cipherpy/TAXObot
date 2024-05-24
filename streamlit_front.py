@@ -56,8 +56,27 @@ st.markdown(
         border-radius: 10px;
     }
     .custom-message .message-avatar img {
-        width: 30px;
-        height: 30px;
+        width: 50px;
+        height: 50px;
+    }
+    .custom-message {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .message-avatar {
+        margin-right: 10px;
+    }
+    .message-content {
+        background-color: #e0e0e0;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    .user-message {
+        justify-content: flex-start;
+    }
+    .bot-message {
+        justify-content: flex-end;
     }
     </style>
     """,
@@ -102,7 +121,7 @@ with col2:
         with response_container:
             for i in range(len(st.session_state['generated'])):
                 user_message_html = f'''
-                <div class="custom-message">
+                <div class="custom-message user-message">
                     <div class="message-avatar">
                         <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png">
                     </div>
@@ -110,6 +129,11 @@ with col2:
                 </div>
                 '''
                 st.markdown(user_message_html, unsafe_allow_html=True)
+                bot_message_html = f'''
+                <div class="custom-message bot-message">
+                    <div class="message-content">{st.session_state["generated"][i]}</div>
+                </div>
+                '''
                 message(st.session_state["generated"][i], key=str(i), avatar_style="thumbs")
 # with st.chat_message('assistant', avatar='https://raw.githubusercontent.com/dataprofessor/streamlit-chat-avatar/master/bot-icon.png'):
 #   st.write('Hello world!')
