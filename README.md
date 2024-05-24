@@ -46,7 +46,7 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 * Start interacting with TAXObot by typing your queries related to marine polychaetes in the input box.
 
 ## Project Structure
-- app.py: Main application script.
+- streamlit_front.py: Main application script.
 - core/: Core functions and utilities.
 - vectorstore/: Directory for storing vector database.
 - requirements.txt: List of dependencies.
