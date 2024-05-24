@@ -46,10 +46,11 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 * Start interacting with TAXObot by typing your queries related to marine polychaetes in the input box.
 
 ## Knowledge Base
-The knowledge base for the RAG model contains detailed taxonomic information on Glyceridae.
-* PDF data in *pdf/* 
-* TEXT data in *text/* 
-* The knowledge base for the RAG model is stored in the knowledge_base folder. It contains detailed taxonomic information on Glyceridae.
+
+* pdf/: PDF data
+* text/: TEXT data 
+
+### The knowledge base for the RAG model contains detailed taxonomic information on Glyceridae.
 
 ## Project Structure
 - streamlit_front.py: Main application script.
