@@ -8,9 +8,11 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 
 ## Features
 
-Conversational AI: Interact with TAXObot using natural language to get detailed taxonomic information.
-RAG Implementation: Combines language generation and retrieval for precise and contextually accurate answers.
-User-Friendly Interface: Clean and intuitive interface built with Streamlit.
+* Conversational AI: Interact with TAXObot using natural language to get detailed taxonomic information.
+* RAG Implementation: Combines language generation and retrieval for precise and contextually accurate answers.
+* User-Friendly Interface: Clean and intuitive interface built with Streamlit.
+
+
 
 ## Demo
 ## Installation
