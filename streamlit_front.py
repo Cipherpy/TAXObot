@@ -48,12 +48,35 @@ col1, col2 = st.columns([1, 3])
 
 # CSS to style the col1 container
 st.markdown(
-    """
+   """
     <style>
     .col1-container {
         background-color: #f0f0f0;
         padding: 20px;
         border-radius: 10px;
+    }
+    .custom-message .message-avatar img {
+        width: 50px;
+        height: 50px;
+    }
+    .custom-message {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .message-avatar {
+        margin-right: 10px;
+    }
+    .message-content {
+        background-color: #e0e0e0;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    .user-message {
+        justify-content: flex-start;
+    }
+    .bot-message {
+        justify-content: flex-end;
     }
     </style>
     """,
@@ -96,8 +119,18 @@ with col2:
     if st.session_state['generated']:
         with response_container:
             for i in range(len(st.session_state['generated'])):
-                message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', avatar_style="big-smile")
-                # message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', logo="https://raw.githubusercontent.com/Cipherpy/yolo_objectdetection/main/answer.png")
-                message(st.session_state["generated"][i], key=str(i), avatar_style="thumbs")
-# with st.chat_message('assistant', avatar='https://raw.githubusercontent.com/dataprofessor/streamlit-chat-avatar/master/bot-icon.png'):
-#   st.write('Hello world!')
+                user_message_html = f'''
+                <div class="custom-message user-message">
+                    <div class="message-avatar">
+                        <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png">
+                    </div>
+                    <div class="message-content">{st.session_state["past"][i]}</div>
+                </div>
+                '''
+                st.markdown(user_message_html, unsafe_allow_html=True)
+                bot_message_html = f'''
+                <div class="custom-message bot-message">
+                    <div class="message-content">{st.session_state["generated"][i]}</div>
+                </div>
+                '''
+                st.markdown(bot_message_html, unsafe_allow_html=True)
