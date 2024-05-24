@@ -71,6 +71,7 @@ st.markdown(
         background-color: #e0e0e0;
         padding: 10px;
         border-radius: 5px;
+        max-width: 45%;
     }
     .user-message {
         justify-content: flex-end;
