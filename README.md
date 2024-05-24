@@ -56,6 +56,14 @@ The knowledge base is a collection of information that TAXObot uses to answer yo
 
 The knowledge bases for the RAG model are stored in the **pdf/** and **text/** folders, respectively.
 
+## Sample Questions and Answers
+The **samples/** folder contains a set of sample questions and answers to help you get started with the kinds of queries you can ask TAXObot. Here are a few examples:
+
+1. Question: What are the key identifying features of Glyceridae?
+    -Answer: Glyceridae are identified by their elongated, segmented bodies with numerous bristles (chaetae) on each segment. They also possess a distinct head with sensory appendages.
+2. Question: Where can Glyceridae be found?
+    -Answer: Glyceridae are commonly found in marine environments, particularly in sandy or muddy substrates where they burrow and hunt for prey.
+
 ## Project Structure
 - streamlit_front.py: Main application script.
 - core/: Core functions and utilities.
