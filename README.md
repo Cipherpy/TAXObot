@@ -36,3 +36,7 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 - Add your OpenAI API key in the `.env` file
 
           OPENAI_API_KEY=your_openai_api_key
+
+### 5. Run the Streamlit app
+
+        streamlit run streamlit_front.py
