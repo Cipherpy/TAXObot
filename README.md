@@ -52,3 +52,13 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 - requirements.txt: List of dependencies.
 - README.md: This file.
 - .env: Environment variables file (not included, must be created manually).
+
+## Contributing
+### We welcome contributions to enhance TAXObot. To contribute:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes.
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request.
