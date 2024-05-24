@@ -140,7 +140,7 @@ with col2:
                 <div class="custom-message bot-message">
                     <div class="message-content">{st.session_state["generated"][i]}</div>
                     <div class="message-avatar">
-                        <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png">
+                        <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/icon_chatbot.png">
                     </div>
                 </div>
                 '''
