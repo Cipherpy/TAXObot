@@ -78,12 +78,12 @@ st.markdown(
     .bot-message {
         justify-content: flex-start;
     }
-    .bot-message .message-avatar {
+    .user-message .message-avatar {
         order: 2;
         margin-left: 10px;
         margin-right: 0;
     }
-    .bot-message .message-content {
+    .user-message .message-content {
         order: 1;
     }
     </style>
@@ -129,19 +129,21 @@ with col2:
             for i in range(len(st.session_state['generated'])):
                 user_message_html = f'''
                 <div class="custom-message user-message">
+                    
+                    <div class="message-content">{st.session_state["past"][i]}</div>
                     <div class="message-avatar">
                         <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png">
                     </div>
-                    <div class="message-content">{st.session_state["past"][i]}</div>
                 </div>
                 '''
                 st.markdown(user_message_html, unsafe_allow_html=True)
                 bot_message_html = f'''
                 <div class="custom-message bot-message">
-                    <div class="message-content">{st.session_state["generated"][i]}</div>
+                    
                     <div class="message-avatar">
                         <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png">
                     </div>
+                    <div class="message-content">{st.session_state["generated"][i]}</div>
                 </div>
                 '''
                 st.markdown(bot_message_html, unsafe_allow_html=True)
