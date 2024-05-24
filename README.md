@@ -58,7 +58,7 @@ The knowledge base is a collection of information that TAXObot uses to answer yo
 The knowledge bases for the RAG model are stored in the `pdf/` and `text/` folders, respectively.
 
 ## Data Ingestion
-To ingest data into the RAG model, use the ingest.py script. This script processes the data files and indexes them for retrieval by the model.
+To ingest data into the RAG model, use the `ingest.py` script. This script processes the data files and indexes them for retrieval by the model.
 
 ### Running the Ingest Script
 1. Ensure your data is placed in the appropriate folders:
@@ -98,10 +98,10 @@ The **samples/** folder contains a set of sample questions and answers to help y
 ### We welcome contributions to enhance TAXObot. To contribute:
 
 1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
+2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes.
-4. Commit your changes (git commit -m 'Add some feature').
-5. Push to the branch (git push origin feature-branch).
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
 ## Contact
