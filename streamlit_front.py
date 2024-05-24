@@ -64,8 +64,8 @@ with col1:
     st.markdown(
         """
         <div class="col1-container">
-            <h1  style='justify-content: center></h1>
-            <p>TAXObot is an AI assistant designed for Marine Taxonomists! In its initial phase, it has assimilated the taxonomic keys of Glyceridae, 
+            <h1></h1>
+            <p style='justify-content: center>TAXObot is an AI assistant designed for Marine Taxonomists! In its initial phase, it has assimilated the taxonomic keys of Glyceridae, 
             Polychaeta, found in Indian waters. Additional taxonomic keys for various species and groups will be incorporated soon. 
             This resource facilitates the identification of organisms by providing their taxonomic characters or vice versa. Furthermore, 
             it encompasses general information about Polychaeta. Please feel free to submit any taxonomic inquiries pertaining to Glyceridae in Indian waters</p>
