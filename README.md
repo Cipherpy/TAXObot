@@ -23,4 +23,4 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
     git clone https://github.com/Cipherpy/TAXObot.git 
     
 ### 2. Create and activate a virtual environment
-        (https://www.tensorflow.org/install/pip)
+(https://www.tensorflow.org/install/pip)
