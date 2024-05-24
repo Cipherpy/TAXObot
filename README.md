@@ -63,7 +63,7 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
 ### Running the Ingest Script
 1. Ensure your data is placed in the appropriate folders:
 
-    - PDF documents should be placed in `pdf/`.
+    - PDF documents should be placed in `pdf/`
     - Custom text data files should be placed in `text/`
 2. Run the ingestion script:
    
