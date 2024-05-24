@@ -96,7 +96,7 @@ with col2:
     if st.session_state['generated']:
         with response_container:
             for i in range(len(st.session_state['generated'])):
-                 message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', avatar_style="croodles")
+                message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', avatar_style="croodles")
                 # message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', logo="https://raw.githubusercontent.com/Cipherpy/yolo_objectdetection/main/answer.png")
                 message(st.session_state["generated"][i], key=str(i), avatar_style="thumbs")
 # with st.chat_message('assistant', avatar='https://raw.githubusercontent.com/dataprofessor/streamlit-chat-avatar/master/bot-icon.png'):
