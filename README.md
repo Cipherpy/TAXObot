@@ -68,12 +68,17 @@ The **samples/** folder contains a set of sample questions and answers to help y
     - **Answer**: Glyceridae are commonly found in marine environments, particularly in sandy or muddy substrates where they burrow and hunt for prey.
 
 ## Project Structure
-- streamlit_front.py: Main application script.
-- core/: Core functions and utilities.
+- `streamlit_front.py`: Main application script.
+- `core/`: Core functions and utilities.
+- `knowledge_base/`: Contains the knowledge bases for the RAG model.
+    - `pdf_data/`: Contains PDF documents.
+    - `text_data/`: Contains custom-created text data files.
+- `samples/`: Contains sample questions and answers.
 - vectorstore/: Directory for storing vector database.
-- requirements.txt: List of dependencies.
-- README.md: This file.
-- .env: Environment variables file (not included, must be created manually).
+- `ingest.py`: Script to ingest data into the RAG model.
+- `requirements.txt`: List of dependencies.
+- `README.md`: This file.
+- `.env`: Environment variables file (not included, must be created manually).
 
 ## Contributing
 ### We welcome contributions to enhance TAXObot. To contribute:
