@@ -86,6 +86,14 @@ st.markdown(
     .user-message .message-content {
         order: 1;
     }
+    .bot-message .message-avatar {
+        order: 1;
+        margin-left: 10px;
+        margin-right: 0;
+    }
+    .bot-message .message-content {
+        order: 2;
+    }
     </style>
     """,
     unsafe_allow_html=True
@@ -138,11 +146,10 @@ with col2:
                 st.markdown(user_message_html, unsafe_allow_html=True)
                 bot_message_html = f'''
                 <div class="custom-message bot-message">
-                    
+                    <div class="message-content">{st.session_state["generated"][i]}</div>
                     <div class="message-avatar">
                         <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/icon_polychaete.png">
                     </div>
-                    <div class="message-content">{st.session_state["generated"][i]}</div>
                 </div>
                 '''
                 st.markdown(bot_message_html, unsafe_allow_html=True)
