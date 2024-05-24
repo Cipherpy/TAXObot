@@ -69,6 +69,8 @@ To ingest data into the RAG model, use the ingest.py script. This script process
    
         python ingest.py
 
+This will process and index the data, making it available for retrieval by TAXObot.
+
 ## Sample Questions and Answers
 The **samples/** folder contains a set of sample questions and answers to help you get started with the kinds of queries you can ask TAXObot. Here are a few examples:
 
@@ -86,7 +88,7 @@ The **samples/** folder contains a set of sample questions and answers to help y
     - `pdf_data/`: Contains PDF documents.
     - `text_data/`: Contains custom-created text data files.
 - `samples/`: Contains sample questions and answers.
-- vectorstore/: Directory for storing vector database.
+- `vectorstore/`: Directory for storing vector database.
 - `ingest.py`: Script to ingest data into the RAG model.
 - `requirements.txt`: List of dependencies.
 - `README.md`: This file.
