@@ -16,5 +16,7 @@ TAXObot is an AI assistant designed for Marine Taxonomists, particularly focusin
 
 ## Demo
 https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843bc9052957
-## Installation
 
+## Installation
+1. Clone the repository:
+``` git clone https://github.com/Cipherpy/TAXObot.git ```
