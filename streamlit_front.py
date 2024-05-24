@@ -55,8 +55,13 @@ st.markdown(
         padding: 20px;
         border-radius: 10px;
     }
+    .custom-message .message-avatar img {
+        width: 50px;
+        height: 50px;
+    }
     </style>
     """,
+    
     unsafe_allow_html=True
 )
 
@@ -96,7 +101,15 @@ with col2:
     if st.session_state['generated']:
         with response_container:
             for i in range(len(st.session_state['generated'])):
-                message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', logo="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png")
+                user_message_html = f'''
+                <div class="custom-message">
+                    <div class="message-avatar">
+                        <img src="https://raw.githubusercontent.com/Cipherpy/TAXObot/main/chat_avatar.png">
+                    </div>
+                    <div class="message-content">{st.session_state["past"][i]}</div>
+                </div>
+                '''
+                st.markdown(user_message_html, unsafe_allow_html=True)
                 message(st.session_state["generated"][i], key=str(i), avatar_style="thumbs")
 # with st.chat_message('assistant', avatar='https://raw.githubusercontent.com/dataprofessor/streamlit-chat-avatar/master/bot-icon.png'):
 #   st.write('Hello world!')
