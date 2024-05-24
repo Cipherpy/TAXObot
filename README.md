@@ -33,4 +33,6 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 
 ### 4. Set up environment variables
 - Create a `.env` file in the root directory of the project.
-- 
+- Add your OpenAI API key in the `.env` file
+
+          OPENAI_API_KEY=your_openai_api_key
