@@ -1,4 +1,5 @@
 # TAXObot
+
 TAXObot is an AI assistant designed for Marine Taxonomists, particularly focusing on the taxonomic information of Glyceridae, a family of Polychaeta found in Indian waters. This Streamlit application leverages Retrieval-Augmented Generation (RAG) to provide accurate and detailed taxonomic information based on user queries.
 
 
@@ -8,13 +9,15 @@ TAXObot is an AI assistant designed for Marine Taxonomists, particularly focusin
 
 ## Features
 
-* Conversational AI: Interact with TAXObot using natural language to get detailed taxonomic information.
-* RAG Implementation: Combines language generation and retrieval for precise and contextually accurate answers.
-* User-Friendly Interface: Clean and intuitive interface built with Streamlit.
+* **Conversational AI**: Interact with TAXObot using natural language to get detailed taxonomic information.
+* **RAG Implementation**: Combines language generation and retrieval for precise and contextually accurate answers.
+* **User-Friendly Interface**: Clean and intuitive interface built with Streamlit.
 
 
 
-## Demo
+## Demo 
+( https://taxobot-citvryrvrvqrrk4t8hrupo.streamlit.app/)
+
 https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843bc9052957
 
 ## Installation
@@ -63,7 +66,7 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
 ### Running the Ingest Script
 1. Ensure your data is placed in the appropriate folders:
 
-    - PDF documents should be placed in `pdf/`.
+    - PDF documents should be placed in `pdf/`
     - Custom text data files should be placed in `text/`
 2. Run the ingestion script:
    
@@ -72,7 +75,7 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
 This will process and index the data, making it available for retrieval by TAXObot.
 
 ## Sample Questions and Answers
-The **samples/** folder contains a set of sample questions and answers to help you get started with the kinds of queries you can ask TAXObot. Here are a few examples:
+The `Sample/` folder contains a set of sample questions and answers to help you get started with the kinds of queries you can ask TAXObot. Here are a few examples:
 
 1. **Question**: What are the key identifying features of Glyceridae?
    
@@ -105,7 +108,7 @@ The **samples/** folder contains a set of sample questions and answers to help y
 6. Open a pull request.
 
 ## Contact
-### For questions or issues, please open an issue in this repository or contact the maintainers:
+For questions or issues, please open an issue in this repository or contact the maintainers
 
 #### Name: Reshma B, Nosad Sahu
 #### Email: reshmababuraj89@gmail.com, nosadsahu@gmail.com
