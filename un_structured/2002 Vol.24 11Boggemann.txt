@@ -1,0 +1,282 @@
+THE GLYCERIDAE AND GONIADIDAE (ANNELIDA: POLYCHAETA) OF THE BIOSHELF PROJECT, ANDAMAN SEA, THAILAND
+Markus Böggemann  and Danny Eibye-Jacobsen
+University of Osnabrück, Osnabrück 49069, Germany (mboeggem@sng.uni-frankfurt.de)
+Zoological Museum, Copenhagen 2100, Denmark (dejacobsen@zmuc.ku.dk)
+
+
+ABSTRACT
+A total of 243 specimens of Glyceridae and 186 specimens of Goniadidae were collected during the Thai–Danish BIOSHELF Project in the Andaman Sea portion of Thai national waters in 1996 and 1997. Eleven species of Glyceridae were found, of which Glycera macrobranchia (Moore, 1911), G. onomichiensis Izuka, 1912, G. posterobranchia Hoagland, 1920 and Hemipodia simplex (Grube, 1857) are newly reported for the Indian Ocean; Glycera brevicirris Grube, 1870, G. lapidum Quatrefages,1866 and G. sphyrabrancha Schmarda, 1861 are new reports for the Andaman Sea; G. oxycephala Ehlers, 1887 is new for Thailand. Twelve species of Goniadidae (ten named) were found, of which Goniadides carolinae Day, 1973 (sensu Gilbert 1984) and Ophioglycera lyra Granados-Barba and Solís- Weiss, 1997 are newly reported for the Indian Ocean. Glycinde anuwati n. sp., Goniada apisiti n. sp., Goniada hexadentes n. sp. and Goniada amacrognatha n. sp. are newly described. The last-mentioned species is unique among goniadids in lacking macrognaths on the proboscis. Scanning electron micrographs of the proboscidial papillae and other proboscidial organs are presented for ten species of goniadids. Keys are provided to the Glyceridae and Goniadidae that are known from the Andaman Sea.
+
+
+INTRODUCTION
+
+There is very little information in the literature on the Glyceridae and Goniadidae of the Andaman Sea. Prior to the Thai–Danish BIOSHELF Project local workers have had to rely on species lists, descriptions and illustrations provided in papers based on material from neighbouring regions in South and Southeast Asia (e.g., Day 1973a; Fauvel
+1932, 1933, 1939, 1953; Gallardo 1968; Grube
+1874, 1878; Hartman 1974; Hoagland 1920; Michaelsen 1892, Silva 1965; Southern 1921). A notable exception is the species list published by Phasuk (1992) on material collected during the Fifth Thai–Danish Expedition along the Andaman Sea coast of Thailand. This list provides no details, apart from a tabulation of the stations at which each species was collected, but much of Phasuk’s original material is available for study at the Marine Biodiversity Unit of the Phuket Marine Biological Center (PMBC).
+The Glyceridae and Goniadidae are slender, cylindrical polychaetes that can reach considerable sizes (probably up to 1 m long). They are widely distributed endopsammal benthic organisms and occur from intertidal to abyssal depths. The body is elongated, tapering at both ends and consists of numerous segments. Both families are easily recognized by their long, muscular, eversible proboscis and the pointed, usually annulated prostomium. The anteriormost annulus of the prostomium bears four appendages and the posteriormost annulus one pair of nuchal organs; in some species of the goniadids a subdistal and/ or basal pair of subdermal eyes is present, whereas the glycerids have no eyes. The characteristic red- dish colour and the four dark jaws with ailerons, arranged in a cross and situated terminally on the proboscis, separate the glycerids from the closely related goniadids with their more iridescent integument and a proboscis that bears a terminal ring of macro- and micrognaths and in several genera also a lateral row of chevrons on each side (macrognaths may be absent, see Goniada amacrognatha n. sp.).
+Glycerids and goniadids are generally considered to be carnivorous (Fauchald and Jumars 1979). Glycerids capture their prey with the four jaws situated at the end of the eversible proboscis, killing it by the injection of venom (Ockelmann and Vahl 1970; Manaranche, Thieffry and Israel 1980), whereas goniadids use their macro- and micrognaths to grasp their prey; chevrons, when present, probably aid in retention of the prey during swallowing. Most species form semi-permanent burrow systems in soft substrates (Ockelmann and Vahl 1970; Mattson 1981), but some species have been encountered living under rocks or crawling on algae (Fauchald and Jumars
+1979). The family Glyceridae was formally established by Grube (1850) as Glycerea, including the two genera Glycera and Goniada. Kinberg (1865) pointed out the distinguishing characters between glycerids and goniadids and established the separate family Goniadidae (as Goniadea). The independence of these two families was controversial for a long time (Ehlers 1868; Fauvel
+1923), until Hartman (1950) underlined the clear differences between them.
+
+
+MATERIALS AND METHODS
+
+Material was fixed in 10% formalin diluted with seawater and later transferred to 80 % ethanol. Observations, drawings and measurements were made using a Leica MS 5 and a Leica MZ APO stereo microscope and a Zeiss Axioskop com- pound microscope. For SEM observations specimens were dehydrated via a graded ethanol and acetone series, critical-point dried using CO2, mounted on aluminium stubs and subsequently sputter-coated with gold. Observations were performed with a JEOL JSM-840 scanning electron microscope.
+The lists of examined material provided for each species include only specimens from BIOSHELF stations; the number of specimens from any given station and information on where they have been deposited follows in parentheses.
+Other, non-BIOSHELF specimens that have been studied are listed in the Remarks sections as appropriate. The descriptions given below are based on the material from the BIOSHELF Project, i.e., specimens from Thailand, unless otherwise stated. A more detailed list of the BIOSHELF stations is provided in Aungtonya and Eibye- Jacobsen (2002).
+The following abbreviations are used for institutions: BMNH (Natural History Museum, London), HZM (Zoologisches Museum und Institut, Hamburg), MNHN (Muséum National d´Histoire Naturelle, Paris), MPUW (Muzeum Przyrodnicze, University of   Wrocław Poland), PMBC (Phuket Marine Biological Center, Phuket, Thailand), SMF (Senckenberg Museum, Frankfurt), SMNH (Swedish Museum of Natural History, Stockholm), USNM (United States National Museum, Smithsonian Institution, Washington, DC), ZMB (Zoologisches Museum, Humboldt University, Berlin), ZMUC (Zoological Museum, Copenhagen) and ZSI (Zoological Survey of India, Calcutta).
+
+SYSTEMATIC SECTION 
+
+Glyceridae Grube, 1850
+Type genus: Glycera Savigny, 1818: 314, by original designation.
+Diagnosis: Body with numerous segments, elongate, tapering at both ends. Segments bi- or triannulate. Prostomium conical, mostly pointed, distinctly annulated; anteriormost annulus with four appendages, anterior pair situated termino- laterally and posterior pair more dorso-laterally; posteriormost annulus with one pair of nuchal organs; eyes absent. Proboscis long, cylindrical to club-shaped, muscular, densely covered with numerous papillae bearing specialized structures on their posterior sides; tip of everted proboscis with four dark, hook-like curved jaws, each with a rod-like, more or less triangular or deeply incised supportive aileron. First two parapodia usually uniramous, consisting of neuropodia, ventral cirri and compound chaetae only; following parapodia uni- or biramous with dorsal and ventral cirri;largest parapodia in mid-body region; in biramous parapodia notopodia and neuropodia indistinctly separated from each other; each parapodium with two prechaetal and one or two postchaetal lobes. Branchiae present or absent, blister-like to simple digitiform or branched, retractile in some species; located on different parts of parapodia. Noto- and neuropodia each with a single acicula; notopodia with simple capillaries, neuropodia usually with spinigerous compound chaetae only. Pygidium with a pair of slender anal cirri.
+Remarks: The Glyceridae have recently been revised (Böggemann and Fiege 2001; Böggemann in press). For this reason, very few figures are provided of glycerids in the present paper. The ultrastructure of the proboscidial papillae in five species of Glycera has recently been described by Böggemann, Fiege and Purschke (2000).
+
+Recognized genera: Glycera Savigny, 1818;
+Glycerella Arwidsson, 1899; Hemipodia Kinberg,
+1865.
+Key to the species of Glyceridae
+
+1.   Median parapodia biramous with two prechaetal and one or two postchaetal lobes; ailerons with more or less triangular or deeply incised bases; notopodia with simple capillaries; branchiae present or absent ..... (Glycera) ........................................................................................... 2
+–    All parapodia uniramous, with one prechaetal and one postchaetal lobe; ailerons rod-like; notopodia absent; branchiae absent ........................................................ Hemipodia simplex (Grube, 1857)
+
+2.   Proboscidial papillae without terminal fingernail structure ....................................................... 3
+–    Proboscidial papillae with terminal fingernail structure ................................................... 9
+
+3.   One postchaetal lobe on all parapodia ................................................................................... 4
+–    Two postchaetal lobes, at least on parapodia of mid-body ........................................................ 6
+
+4.   In mid-body prechaetal lobes of about same length, or notopodial lobes longer; proboscidial papillae and ailerons variable; branchiae present or absent ........................................................ 5
+–    In mid-body notopodial prechaetal lobes distinctly shorter than neuropodial lobes; digitiform proboscidial papillae with undulating ridge; ailerons with slight dent in pointed triangular bases; branchiae absent ................................................................ Glycera lapidum Quatrefages, 1866
+
+5.   Digitiform proboscidial papillae without ridges; ailerons with deeply incised bases; simple digitiform branchiae present .......................................... Glycera sphyrabrancha Schmarda, 1861
+–    Conical proboscidial papillae with 5–20 ridges; ailerons with slightly arched bases; branchiae absent ................................................................................... Glycera oxycephala Ehlers, 1887
+
+6.   Ailerons with deeply incised bases; both postchaetal lobes short, rounded; branchiae absent;
+proboscidial papillae with over 5 transverse ridges or without transverse ridges .......................... 7
+–    Ailerons with interramal plate; parapodia of mid-body with slender triangular notopodial and distinctly shorter, rounded neuropodial postchaetal lobes; retractile branchiae present on anterior
+side of parapodia; conical proboscidial papillae with 3 transverse ridges ..................................... 8
+
+7.   Digitiform proboscidial papillae with 6–20 transverse ridges ........ Glycera brevicirris Grube, 1870
+–    Digitiform proboscidial papillae with longitudinal ridge only ....... Glycera tesselata Grube, 1863 **
+
+8.   Branchiae simple, digitiform, retractile; ailerons with triangular bases; all biramous parapodia with two postchaetal lobes ..................................................... Glycera nicobarica Grube, 1868
+–    Branchiae with 1–6 retractile, digitiform rami; ailerons with rounded triangular bases; in anterior parapodia only one, medially inserted, slender triangular postchaetal lobe .........................
+..................................................................................... Glycera macintoshi Grube, 1877 **
+
+9.   Parapodia of mid-body with two slender triangular postchaetal lobes of about same length;
+proboscidial papillae with long stalk and some longitudinal ridges on nail .................................. 10
+–    Parapodia of mid-body with slender triangular notopodial and shorter, more or less rounded neuropodial postchaetal lobes; proboscidial papillae with stalk of variable length ...................... 11
+
+10. Branchiae absent ................................................................. Glycera onomichiensis Izuka, 1912
+–    Branchiae present, with 1–5 digitiform rami ........................... Glycera cinnamomea Grube, 1874
+
+11. Median and posterior chaetigers with more or less rounded neuropodial postchaetal lobes; simple digitiform branchiae, situated termino-dorsally on parapodia; proboscidial papillae of variable length; ailerons variable ...................................................................................................... 12
+–    Posterior chaetigers with slender, triangular neuropodial postchaetal lobes, as long as notopodial lobes; simple digitiform branchiae, situated medio-dorsally on parapodia; proboscidial papillae with medium-length stalk; ailerons with pointed triangular bases .............................................
+............................................................................. Glycera posterobranchia Hoagland, 1920
+
+12. All biramous parapodia with two postchaetal lobes; proboscidial papillae of variable length;
+ailerons variable ................................................................................................................ 13
+–    Anterior parapodia with only one, medially inserted, slender triangular postchaetal lobe; proboscidial papillae with short stalk; ailerons with triangular bases ........ Glycera macrobranchia Moore, 1911
+
+13. Proboscidial papillae with long stalk ................................................................................ 14
+–    Proboscidial papillae with medium-length or short stalk ......................................................... 15
+
+14. Stalk without ridges; prostomium consisting of 9–11 rings; ailerons with pointed triangular bases .................................................................................. Glycera alba (O.F. Müller, 1776)
+–    Stalk with numerous transverse ridges; prostomium consisting of 16–21 rings; ailerons with triangular bases ..................................................................... Glycera natalensis Day, 1957 *
+
+15. Proboscidial papillae with medium-length stalk; prostomium consisting of 19–28 rings; ailerons with pointed triangular bases ........................................... Glycera africana Arwidsson, 1899 *
+–    Proboscidial papillae with short stalk; prostomium consisting of 12–15 rings; ailerons with triangular bases ........................................................... Glycera tridactyla Schmarda, 1861 **
+
+*     Species recorded from intertidal zone on Andaman coast of Thailand, but not in the BIOSHELF material; will be published separately.
+**   Species not found in BIOSHELF material, but known from neighbouring regions.
+
+
+Glycera Savigny, 1818
+Type species: Glycera unicornis Savigny, 1818:
+315, by monotypy.
+
+Glycera alba (O.F. Müller, 1776) 
+Description: Body up to 25 mm long with up to
+84 segments. Mid-body segments biannulate. Conical prostomium consisting of about 9–11 rings. Proboscis with three types of papillae: 1. numerous papillae with terminal fingernail structure with long stalk and some longitudinal ridges on nail (Fig. 1A); 2. less numerous digitiform papillae with straight, median longitudinal ridge;
+3. isolated, broader, oval to globular papillae without ridges. Ailerons with pointed triangular base. First two parapodia uniramous, following parapodia biramous. Parapodia of mid-body with two slender triangular to digitiform prechaetal lobes of about same length. Two shorter post- chaetal lobes: slender triangular notopodial and shorter, more or less rounded neuropodial lobe. Dorsal cirri from 3rd parapodium, conical to oval, inserted on body wall slightly above parapodial base. Ventral cirri slender, triangular to digitiform, about as long as neuropodial postchaetal lobe; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal
+lobe; situated medio-ventrally on parapodia. Branchiae non-retractile, simple, digitiform; from about parapodium 17–23 to near posterior end; situated termino-dorsally on parapodia; best developed in mid-body region, about as long as prechaetal lobes.
+Remarks: Branchiae may be absent or not fully developed in juvenile specimens. Specimens from the Andaman Sea show no morphological differences, including details of the proboscidial papillae, from European animals (Fiege and Böggemann 1997; Böggemann in press). Animals from the BIOSHELF Project were compared to specimens reported by Wesenberg-Lund (1949) from the Persian Gulf (N of Bushire, N of Qais, Strait of Hormus, Gulf of Oman) and are considered to be identical.
+Glycera alba has previously been reported from the Andaman Sea (Phasuk 1992). The identity of one of these samples (st. 1035, PMBC 12646) was confirmed during this study. Furthermore, one of the 6 lots reported as G. tesselata by Phasuk (st. 1007, PMBC 12545) consisted of one specimen of G. alba; thus, among other characters, the pro- boscidial papillae bear a terminal nail.
+Distribution: Norwegian Sea, North Sea, Atlantic coasts of Europe, Mediterranean Sea, Black Sea, Indian Ocean around Madagascar, Andaman Sea, E and S China Sea; NW Pacific coasts; 9–199 m.
+
+
+Glycera brevicirris Grube, 1870
+Description: Body up to 64 mm long with up to
+143 segments. Mid-body segments biannulate. Conical prostomium consisting of about 12–13 rings. Proboscis with two types of papillae: 1. numerous digitiform papillae with about 6–20 ridges; ridges U-shaped basally and V-shaped apically; 2. isolated, slightly shorter and broader, conical papillae with more or less straight, median longitudinal ridge. Ailerons with deeply incised base. First two parapodia uniramous, following parapodia biramous. Parapodia of mid-body with two slender triangular to digitiform prechaetal lobes: neuropodial lobe usually slightly longer and broader than notopodial lobe. Two shorter, rounded, postchaetal lobes. Dorsal cirri from 3rd parapodium, conical to oval, inserted on body wall slightly above parapodial base. Ventral cirri slender triangular to digitiform, about as long as postchaetal lobes; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal lobe; situated medio- ventrally on parapodia. Branchiae absent.
+Remarks: Regarding the report of Glycera chirori
+Izuka, 1912 from the Andaman Sea (Phasuk
+1992), see Remarks under G. nicobarica Grube,
+1868.
+Distribution: NW and NE Atlantic, Gulf of Mexico, Caribbean Sea, Red Sea, Indian Ocean, Andaman Sea, Indo-Pacific, Central Pacific Basin, E Pacific coasts; intertidal to 1118 m. New record for the Andaman Sea.
+
+
+Glycera cinnamomea Grube, 1874
+Description: Body at least 103 mm long with at least 207 segments. Mid-body segments biannulate. Conical prostomium consisting of about 10–12 rings. Proboscis with three types of papillae: 1. numerous papillae with terminal fingernail structure with long stalk and some longitudinal ridges on nail; 2. less numerous digitiform papillae with straight, median longi- tudinal ridge; 3. isolated, broader, oval to globular papillae without ridges. Ailerons with pointed triangular base. First two parapodia uniramous, following parapodia biramous. Parapodia of mid- body with two slender triangular to digitiform prechaetal lobes of about same length. Two shorter, slender triangular postchaetal lobes of about same length. Dorsal cirri from 3rd parapodium, conical to oval, inserted on body wall slightly above parapodial base. Ventral cirri slender triangular to digitiform, slightly shorter than postchaetal lobes; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal lobe; situated medio-
+ventrally on parapodia. Branchiae non-retractile, with 1–5 digitiform rami; from about parapodium
+21–32 to near posterior end; situated dorsally on parapodial bases; best developed in mid-body region, about as long as prechaetal lobes.
+Remarks: This species (as Glycera prashadi Fauvel, 1932) has previously been reported from the Andaman Sea (Phasuk 1992). However, this report was based on a specimen (st. 1024, PMBC
+13618) that, despite being over 25 mm long, shows no signs of having gills; it is here referred to G. onomichiensis Izuka, 1912.
+Distribution: Indian Ocean, Red Sea, Persian Gulf, Andaman Sea, E and S China Sea, Indo- Pacific; intertidal to 1427 m.
+
+
+Glycera lapidum Quatrefages, 1866
+Description: Body at least 10 mm long with at least 56 segments. Mid-body segments more or less distinctly triannulate. Conical prostomium consisting of about 10–12 rings. Proboscis with two types of papillae: 1. numerous digitiform papillae with undulating ridge; 2. isolated, shorter and broader, conical to oval papillae without ridges. Ailerons with slight dent in pointed triangular base. First two parapodia uniramous, following para- podia biramous. Parapodia of mid-body with two slender triangular to digitiform prechaetal lobes: neuropodial lobe usually more than twice as long as notopodial lobe. One shorter, rounded postchaetal lobe. Dorsal cirri from 3rd para- podium, oval to globular; inserted on body wall far above parapodial base, most clearly on anterior part of body. Ventral cirri slender triangular to digitiform, about as long as postchaetal lobe; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal lobe; situated near parapodial base. Branchiae absent.
+Remarks: The specimens found in the BIOSHELF material were both juveniles, but they display the characteristic morphology of the proboscidial papillae and the parapodial lobes.
+Distribution: Mainly in temperate zones, sometimes in tropical seas; intertidal to 3947 m. New record for the Andaman Sea.
+
+
+Glycera macrobranchia Moore, 1911
+Description: Body at least 40 mm long with at least 99 segments. Mid-body segments biannulate. Conical prostomium consisting of about 13 rings. Proboscis with three types of papillae: 1. numerous papillae with terminal fingernail structure with short stalk and some longitudinal ridges on nail; 2. less numerous conical papillae with straight, median, longitudinal ridge; 3. isolated, broader, oval to globular papillae without ridges. Ailerons with triangular base. First two parapodia uniramous, following parapodia biramous. Parapodia of mid- body with two slender triangular to digitiform prechaetal lobes of about same length. Parapodia on anterior chaetigers with only one, medially inserted, slender triangular lobe; following parapodia with slender triangular notopodial and shorter, rounded neuropodial lobe. Dorsal cirri from 3rd parapodium, conical to oval, inserted on body wall slightly above parapodial base. Ventral cirri slender triangular to digitiform, usually slightly shorter than notopodial postchaetal lobe; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal lobe; situated medio-ventrally on parapodia. Branchiae non-retractile, simple, digitiform; from about parapodium 23 to near posterior end; situated termino-dorsally on parapodia; best developed in mid-body region, extending far beyond prechaetal lobes.
+Distribution: NW and NE coasts of Pacific Ocean, Andaman Sea; intertidal to 73 m. New record for the Indian Ocean.
+
+
+Glycera nicobarica Grube, 1868
+Description: Body at least 58 mm long with at least 166 segments. Mid-body segments biannulate, in smaller specimens sometimes triannulate. Conical prostomium consisting of about 9–11 rings. Proboscis with two types of papillae: 1. numerous conical papillae with 3 U- shaped ridges (Fig. 1B); 2. isolated, broader, oval to globular papillae without ridges. Ailerons with triangular base. First two parapodia uniramous, following parapodia biramous. Parapodia of mid- body with two slender triangular to digitiform prechaetal lobes of about same length. Two shorter postchaetal lobes: slender triangular notopodial and shorter, rounded neuropodial postchaetal lobe. Dorsal cirri from 2nd parapodium, conical to oval, inserted on body wall slightly above parapodial base. Ventral cirri slender triangular to digitiform, about as long as neuropodial postchaetal lobe; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal lobe; situated termino-ventrally on parapodia. Branchiae retractile, simple, digitiform; from about
+parapodium 18–30 to near posterior end; situated medially on anterior side of parapodia; best developed in mid-body region, extending beyond prechaetal lobes.
+Remarks: Phasuk (1992) reported Glycera chirori Izuka, 1912 from the Andaman Sea. Two of the original 6 lots were available for study; one of them (st. 1116, PMBC 13609) contains a typical specimen of G. nicobarica, whereas the other one (st. 1010, PMBC 13610) contains a poorly pre- served  specimen  of  Glycera ,  possibly  G. brevicirris Grube, 1870, as the ailerons are deeply incised, without an interramal plate.
+Phasuk (1992) also reported Glycera gigantea Quatrefages, 1866 from the Andaman Sea; 4 of the original 6 lots were studied and two of these (st. 1020, PMBC 12597 and st. 1027, PMBC 12599) each contain one juvenile specimen in which the dorsal postchaetal lobe is elongate and conical rather than short and rounded as in G. gigantea (= G. fallax Quatrefages, 1850). These specimens are here referred with doubt to G. nicobarica. One of the other lots contains a specimen of G. onomichiensis Izuka, 1912 (q.v.) and the final lot (st. 1006, PMBC 13612) contains a polynoid polychaete, obviously the result of a sorting error.
+Among the 6 lots of Glycera tesselata Grube, 863 reported from the Andaman Sea by Phasuk (1992), one of them (st. 1023, PMBC 12542) contains a specimen of G. nicobarica.
+Distribution: Indian Ocean, Andaman Sea, Indo- Pacific, E and S China Sea, Japan; intertidal to
+143 m.
+
+
+Glycera onomichiensis Izuka, 1912
+Description: Body at least 33 mm long with at least 100 segments. Mid-body segments biannulate. Conical prostomium consisting of about 11–13 rings. Proboscis with three types of papillae: 1. numerous papillae with terminal fingernail structure with long stalk and some longitudinal ridges on nail; 2. less numerous digitiform papillae with straight, median, longitudinal ridge; 3. isolated, broader, oval to globular papillae without ridges. Ailerons with pointed triangular base. First two parapodia uniramous, following parapodia biramous. Parapodia of mid-body with two slender triangular to digitiform prechaetal lobes of about same length; notopodial lobe usually slightly broader than neuropodial lobe. Two shorter, slender triangular postchaetal lobes of about same length. Dorsal cirri from 3rd parapodium, conical to oval, inserted on body wall slightly above parapodial base. Ventral cirri slender triangular to digitiform, slightly shorter than postchaetal lobes; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal lobe; situated medio-ventrally on parapodia. Branchiae absent.
+Remarks: Glycera prashadi Fauvel, 1932 was reported from the Andaman Sea by Phasuk (1992); however, the specimen in question (st. 1024, PMBC 13618) is rather large, over 25 mm long, but shows no signs of gills and is here referred to G. onomichiensis. hasuk (1992) also reported Glycera gigantea Quatrefages, 1866 from the Andaman Sea; of the original 6 lots four were available for study and one of these (st. 1006, PMBC 12598) contains one specimen of G. onomichiensis.
+Distribution: W Pacific, Andaman Sea; intertidal to 301 m. New record for the Indian Ocean.
+
+
+Glycera oxycephala Ehlers, 1887
+Description: Body at least 40 mm long with at least 96 segments. Anterior segments biannulate; mid-body segments triannulate. Long, conical prostomium consisting of about 20–28 rings. Proboscis with two types of papillae: 1. numerous conical papillae with 5–20 ridges; 2. isolated, broader, oval to globular papillae with 4–11 ridges; ridges U-shaped basally and V-shaped apically. Ailerons with slightly arched base. In largest specimen only first two parapodia reduced, otherwise up to 13 parapodia uniramous; following parapodia biramous. Parapodia of mid-body with two slender triangular to digitiform prechaetal lobes of about same length or sometimes with neuropodial lobe slightly longer and broader than notopodial lobe. One shorter, rounded postchaetal lobe. Dorsal cirri from 3rd parapodium, oval to globular, inserted near parapodial base. Ventral cirri slender triangular to digitiform, about as long as postchaetal lobe; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal lobe; situated near para- podial base. Branchiae absent.
+Remarks: The number of anterior uniramous parapodia with only compound chaetae and one acicula seems to be more or less dependent on the size of the specimens.
+Phasuk (1992) reported Glycera tesselata
+Grube, 1863 from the Andaman Sea. Material from
+5 of the 6 stations involved was available for study and the lots from three of them contain specimens of G. oxycephala (st. 1006, PMBC 12544; st.
+1008, PMBC 12543 and PMBC 13617; st. 1019, PMBC 12541). In contrast to G. tesselata, these animals have ailerons with interramal plates, conical proboscidial papillae with numerous transverse ridges, only one large, rounded post- chaetal lobe on the parapodia and, most signi- ficantly, a very elongate prostomium.
+Distribution: In temperate zones and tropical seas;
+intertidal to 2951 m. New record for Thailand.
+
+
+Glycera posterobranchia Hoagland, 1920
+Description: Body at least 34 mm long with at least 124 segments. Mid-body segments biannulate. Conical prostomium consisting of about 10 rings. Proboscis with three types of papillae: 1. numerous papillae with terminal fingernail structure with medium-length stalk and some longitudinal ridges on nail; 2. less numerous, slightly shorter conical papillae with straight, median, longitudinal ridge; 3. isolated, broader, oval to globular papillae without ridges. Ailerons with pointed triangular base. First two parapodia uniramous, following parapodia biramous. Parapodia of mid-body with two slender triangular to digitiform prechaetal lobes of about same length. Two shorter postchaetal lobes; notopodial lobe slender triangular, distinctly longer than rounded neuropodial lobe; in posterior parapodia neuro- podial lobe as long as notopodial lobe, both lobes slender triangular. Dorsal cirri from 3rd parapodium, conical to oval, inserted on body wall
+slightly above parapodial base. Ventral cirri slender triangular to digitiform, about as long as notopodial postchaetal lobe; in posterior parapodia slender and elongated; in last parapodia about as long as neuropodial prechaetal lobe; situated termino- ventrally on parapodia. Branchiae non-retractile, simple, digitiform, from about parapodium 24 to near posterior end; situated medio-dorsally on parapodia; best developed in mid-body region, extending beyond prechaetal lobes.
+Distribution: S China Sea, Vietnam, Andaman
+Sea; 5–196 m. New record for the Indian Ocean.
+
+
+Glycera sphyrabrancha Schmarda, 1861
+Description: Body up to 194 mm long with up to
+390 segments. Mid-body segments biannulate. Conical prostomium consisting of about 11–13 rings. Proboscis with two types of papillae: 1. numerous digitiform papillae without ridges; 2. isolated shorter and broader, oval to globular papillae without ridges. Ailerons with deeply incised base. First two parapodia uniramous, following parapodia biramous. Parapodia of mid-body with two slender triangular to digitiform prechaetal lobes; neuropodial lobe usually slightly longer than notopodial lobe. One shorter, rounded postchaetal lobe. Dorsal cirri from 3rd parapodium, conical to oval, inserted on body wall slightly above parapodial base. Ventral cirri slender triangular to digitiform; in anterior parapodia about as long as postchaetal lobe; in mid-body distinctly longer and wider; in posterior parapodia slender; in last arapodia about as long as neuropodial prechaetal lobe (Fig. 1C); situated termino-ventrally on parapodia. Branchiae non-retractile, simple; from about parapodium 14 to near posterior end, at first as a slight bulge, becoming digitiform from about parapodium 25–45; situated termino-dorsally on parapodia; best developed in mid-body region, extending far beyond prechaetal lobes.
+Remarks: The above description is based on other specimens because only fragments are present in the BIOSHELF material. These fragments could be referred to G. sphyrabrancha on the basis of the unique morphology of the posterior parapodia.
+Distribution: Mainly in tropical seas; intertidal to
+250 m. New record for the Andaman Sea.
+
+
+REFERENCES
+Arwidsson, I. 1899. Studien über die Familien Glyceridæ und Goniadidæ. Bergens Museums Aarbog 11:
+32–63.
+Audouin, J.V. and H. Milne Edwards. 1833. Classification des annélides, et description de celles qui habitent les côtes de la France. Annales des Sciences Naturelles 29: 195–269.
+Augener, H. 1906. Reports on the results of dredging, under the supervision of Alexander Agassiz, in the Gulf of Mexico and the Caribbean Sea and on the east coast of the United States, 1877 to 1880, by the US Coast Survey Steamer “Blake”, Lieut. Commander C.D. Sigsbee, USN and Commander J.R. Bartlett, USN, Commanding. XLII. Westindische Polychaeten. Bulletin of the Museum of Comparative Zoölogy at Harvard College 43: 91–196.
+Augener, H. 1918. Polychaeta. In: W. Michaelsen (ed.), Beiträge zur Kenntnis der Meeresfauna Westafrikas
+2: 67–625.
+Augener, H. 1931. Die bodensässigen Polychäten nebst einer Hirudinee der Meteor-Fahrt. Mitteilungen aus dem Zoologischen Staatsinstitut und Zoologischen Museum in Hamburg 44: 279–313.
+Aungtonya, C. and D. Eibye-Jacobsen. 2002. Introduction to the Thai–Danish BIOSHELF sampling project and the Polychaete Workshop held in Phuket, Thailand, June–August 1997. Phuket Marine Biological Center Special Publication 24: 1–12.
+Böggemann, M. and D. Fiege. 2001. Description of seven new species of the genus Glycera Savigny,
+1818 (Annelida: Polychaeta: Glyceridae). Ophelia 54: 29–49.
+Böggemann, M., D. Fiege and G. Purschke. 2000. Ultrastructure of the proboscidial papillae in some
+Glycera species (Annelida: Polychaeta: Glyceridae). Cahiers de Biologie Marine 41: 143–153.
+Day, J.H. 1973a. Polychaeta collected by U.D. Gaikwad at Ratnagiri, south of Bombay. Zoological
+Journal of the Linnean Society 52: 337–361.
+Day, J.H. 1973b. New Polychaeta from Beaufort, with a key to all species recorded from North Carolina.
+NOAA Technical Report NMFS–CIRC 375: 1–141.
+Ehlers, E. 1864 and 1868. Die Borstenwürmer (Annelida Chaetopoda) nach systematischen und anatomischen Untersuchungen dargestellt. Verlag von Wilhelm Engelmann, Leipzig. Erster Band,
+748 pp., pls. 1–24 (pp. 1–268, pls. 1–11 published in 1864; pp. 269–748, pls. 12–24 in 1868). Ehlers, E. 1887. Reports on the results of dredging, under the direction of L.F. Pourtalès, during the
+years 1868–1870 and of Alexander Agassiz, in the Gulf of Mexico (1877–78) and in the Caribbean Sea (1878–79), in the US Coast Survey Steamer “Blake”, Lieut.-Com. C.D. Sigsbee, USN and Commander J.R. Bartlett, USN, Commanding. XXI. Report on the Annelids. Memoirs of the Museum of Comparative Zoölogy at Harvard College 15: 1–335.
+Fauchald, K. and P.A. Jumars. 1979. The diet of worms: a study of polychaete feeding guilds.
+Oceanography and Marine Biology, An Annual Review 17: 193–284. Fauvel, P. 1923. Polychètes érrantes. Faune de France 5: 1–488.
+Fauvel, P. 1932. Annelida Polychaeta of the Indian Museum, Calcutta. Memoirs of the Indian Museum
+12: 1–262.
+Fauvel, P. 1933. Annélides polychètes du Golf du Pei Tcheu Ly de la collection du Musée Hoang ho Pai ho. Publications du Musée Hoang ho Pai ho de Tien Tsin 15: 1–67.
+Fauvel, P. 1939. Annélides polychètes de l’Indochine recueillies par M.C. Dawydoff. Pontificia Academia
+Scientiarum, Commentationes, Anno III 3: 243–368.
+Fauvel, P. 1953. Annelida Polychaeta. The Fauna of India including Pakistan, Ceylon, Burma and Malaya.
+The Indian Press Ltd., Allahabad. 507 pp.
+Fiege, D. and M. Böggemann. 1997. Scanning electron microscopy of the proboscidial papillae of some
+European Glyceridae. Bulletin of Marine Science 60: 559–563.
+Gallardo, V.A. 1968. Polychaeta from the Bay of Nha Trang, South Viet Nam. Naga Report 4 (3): 35–
+279. [erroneously dated 1967]
+Gilbert, K.M. 1984. Chapter 33: Family Goniadidae Kinberg, 1866b. In: J.M. Uebelacker and P.G.
+Johnson (eds.), Taxonomic Guide to the Polychaetes of the Northern Gulf of Mexico 5. Barry A. Vittor and Associates, Inc., Metairie, Louisiana, pp. 1–19.
+Granados-Barba, A. and V. Solís-Weiss. 1997. The polychaetous annelids from oil platform areas in the southeastern Gulf of Mexico: Phyllodocidae, Glyceridae, Goniadidae, Hesionidae and Pilargidae, with description of Ophioglycera lyra, a new species and comments on Goniada distorta Moore and Scoloplos texana Maciolek and Holland. Proceedings of the Biological Society of Washington
+110: 457–470.
+Gravier, C. 1902. Contribution a l’étude des annélides polychètes de la mer Rouge. Deuxième Partie.
+Nouvelles Archives du Muséum, 4e  série 3: 147–268. [The Zoological Record (1902), Vol. 38 for the year 1901: pp. 147–152, 2 figs. (not concluded); The Zoological Record (1903), Vol. 39 for the year 1902: complete text and plates published in 1902]
+Gravier, C. 1904. Sur les annélides polychètes de la mer Rouge (Nephthydiens et Glycériens). Bulletin du Muséum d’Histoire Naturelle 10: 472–475.
+Gravier, C. 1906. Contribution a l’étude des annélides polychètes de la mer Rouge. Troisième Partie.
+Nouvelles Archives du Muséum, 4e série 8: 123–236, 286–409.
+Grube, A.E. 1850. Die Familien der Anneliden. Archiv für Naturgeschichte, Jahrgang 16, 1: 249–364. Grube, A.E. 1857. Annulata Örstediana. Enumeratio Annulatorum, quae in itinere per Indiam occidentalem et Americam centralem annis 1845–1848 suscepto legit cl. A.S. Örsted, adjectis speciebus nonnullis
+a cl. H. Kröyero in itinere ad Americam meridionalem collectis (Fortsættelse). Videnskabelige
+Meddelelser fra den naturhistoriske Forening i Kjöbenhavn 2: 158–186.
+Grube, A.E. 1863. Beschreibung neuer oder wenig bekannter Anneliden. Archiv für Naturgeschichte, Jahrgang 29, 1: 37–69.
+Grube, A.E. 1868. Anneliden. Reise der Österreichischen Fregatte Novara um die Erde in den Jahren
+1857, 1858 und 1859 unter den Befehlen des Commodore B. von Wüllerstorf-Urbair. Zoologischer
+Theil 2 (3): 1–46.
+Grube, A.E. 1870. Bemerkungen über die Familie der Glycereen. Jahres-Bericht der Schlesischen
+Gesellschaft für vaterländische Cultur 47: 56–68.
+Grube, A.E. 1874. Descriptiones Annulatorum novorum mare Ceylonicum habitantium ab honoratissimo
+Holdsworth collectorum. Proceedings of the Scientific Meetings of the Zoological Society of London,
+1874: 325–329.
+Grube, A.E. 1877. Annelidenausbeute von S.M.S. Gazelle. Monatsbericht der Königlicher Preussischer
+Akademie der Wissenschaften zu Berlin, 1877: 509–554.
+Grube, A.E. 1878. Annulata Semperiana. Beiträge zur Kenntnis der Annelidenfauna der Philippinen nach den von Herrn Prof. Semper mitgebrachten Sammlungen. Mémoires de l’Académie Impériale des Sciences de St.-Pétersbourg 25 (8): 1–300.
+Hartman, O. 1950. Goniadidae, Glyceridae and Nephtyidae. Allan Hancock Pacific Expeditions 15:
+1–181.
+Hartman, O. 1965. Deep-water benthic polychaetous annelids off New England to Bermuda and other
+North Atlantic areas. Allan Hancock Foundation Publications 28: 1–378.
+Hartman, O. 1974. Polychaetous annelids of the Indian Ocean including an account of species collected by members of the International Indian Ocean Expeditions, 1963–’64 and a catalogue and bibliography of the species from India. Journal of the Marine Biological Association of India 16: 191–252.
+Hartmann-Schröder, G. 1960. Polychaeten aus dem Roten Meer. Kieler Meeresforschungen 16: 69–125. Hoagland, R.H. 1920. Polychaetous annelids collected by the United States Fisheries steamer “Albatross” during the Philippine Expedition of 1907–1909. Bulletin of the United States National Museum 100
+(1): 603–635.
+Izuka, A. 1912. The Errantiate Polychæta of Japan. Journal of the College of Science, Imperial University of Tokyo 30 (2): 1–262.
+Kinberg, J.G.H. 1865. Annulata nova. Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 22:
+239–258.
+Manaranche, R., M. Thieffry and M. Israel. 1980. Effect of the venom of Glycera convoluta on the spontaneous quantal release of transmitter. The Journal of Cell Biology 85: 446–458.
+Marenzeller, E. von. 1879. Südjapanische Anneliden. Denkschriften der Kaiserlichen Akademie der
+Wissenschaften, Mathematisch-Naturwissenschaftliche Classe 41: 109–154.
+Mattson, S. 1981. Burrowing and feeding of Goniada maculata Ørsted (Polychaeta). Sarsia 66: 49–51. McIntosh, W.C. 1885. Report on the Annelida Polychæta collected by H.M.S. Challenger during the years 1873–76. Report on the Scientific Results of the Voyage of H.M.S. Challenger during the years 1873–76 under the Command of Captain George S. Nares, R.N., F.R.S. and the late Captain
+Frank Tourle Thomson, R.N., Zoology 12: 1–554.
+Michaelsen, W. 1892. Polychaeten von Ceylon. Jahrbuch der Hamburgischen wissenschaftlichen Anstalten
+9 (2): 1–23.
+Mohammad, M.-B.M. 1973. New species and records of polychaete annelids from Kuwait, Arabian
+Gulf. Zoological Journal of the Linnean Society 52: 23–44.
+Monro, C.C.A. 1937. Polychæta. The John Murray Expedition 1933–34, Scientific Reports, Zoology 4:
+243–321.
+Moore, J.P. 1905. New species of Polychæta from the north Pacific, chiefly from Alaskan waters.
+Proceedings of the Academy of Natural Sciences of Philadelphia 57: 525–554.
+Moore, J.P. 1911. The polychætous annelids dredged by the U.S.S. “Albatross” off the coast of Southern California in 1904: III. Euphrosynidæ to Goniadidæ. Proceedings of the Academy of Natural Sciences of Philadelphia 63: 234–318.
+Müller, F. 1858. Einiges über die Annelidenfauna der Insel Santa Catharina an der brasilianischen Küste.
+Archiv für Naturgeschichte 24: 211–220.
+Müller, O.F. 1776. Zoologiæ Danicæ prodromus, seu Animalium Daniæ et Norvegiæ indigenarum characteres, nomina, et synonyma imprimis popularium. Hafniæ (Copenhagen). 274 pp.
+Ockelmann, K.W. and O. Vahl. 1970. On the biology of the polychaete Glycera alba, especially its burrowing and feeding. Ophelia 8: 275–294.
+Örsted, A.S. 1842. Udtog af en Beskrivelse af Grønlands Annulata dorsibranchiata. Naturhistorisk
+Tidsskrift 4: 109–127.
+Örsted, A.S. 1843. Annulatorum Danicorum Conspectus. Fasc. I. Maricolæ. Hafniæ (Copenhagen). 52 pp. Phasuk, B. 1992. Preliminary report on the polychaetes from the Fifth Thai–Danish Expedition along the
+Andaman Sea coast of Thailand. Phuket Marine Biological Center Research Bulletin 57: 77–87. Quatrefages, A. de. 1866. Histoire naturelle des annelés marins et d’eau douce. Annélides et Géphyriens.
+Librairie Encyclopédique de Roret, 3 vols. and Atlas with pls. 1–20.
+Savigny, J.-C. 1818. Classe Neuvième. Les Annélids (Annelides). In: J.B. de Lamarck (ed.), Histoire
+Naturelle des Animaux sans Vertèbres 5, pp. 274–374.
+Schmarda, L.K. 1861. Neue wirbellose Thiere beobachtet und gesammelt auf einer Reise um die Erde
+1853 bis 1857. 1. Band: Turbellarien, Rotatorien und Anneliden. Verlag von Wilhelm Engelmann, Leipzig. 2nd half, 164 pp., pls. 18–37.
+Silva, P.H.D.H. de. 1965. New species and records of Polychaeta from Ceylon. Proceedings of the
+Zoological Society of London 144: 537–563.
+Smith, L.E., S. Trabanino and R.J. Baerwald. 1995. Scanning electron microscopical observations of the proboscidial papillae of Glycinde armigera (Annelida: Polychaeta). Invertebrate Biology 114: 46–50. Southern, R. 1921. Polychaeta of the Chilka Lake and also of fresh and brackish waters in other parts of
+India. Memoirs of the Indian Museum 5: 563–659.
+Verrill, A.E. 1885. Notice of recent additions to the marine Invertebrata of the northeastern coast of America, with descriptions of new genera and species and critical remarks on others. Part V. Annelida, Echinodermata, Hydroida, Tunicata. Proceedings of the United States National Museum 8: 424–448.
+Wesenberg-Lund, E. 1949. Polychaetes of the Iranian Gulf. Danish Scientific Investigations in Iran 4:
+247–400.

@@ -1,0 +1,824 @@
+Polychaetes (Annelida) of the abyssal SE Atlantic
+Markus  Boggemann
+
+
+Abstract
+
+The DIVA-1 (2000), DIVA-2 (2005) and BIOZAIRE (2001, 2003) expeditions to abyssal zones of three ocean basins (Angola, Cape and Guinea)  in the SE Atlantic  have yielded more than  23,000 specimens or fragments  of Polychaeta. Most of the thirteen collecting areas were sampled with an Agassiz trawl, an epibenthic sledge and repeated box corer and  multicorer  hauls  at depths  between 3945 and  5672 m. Among  the 47 families found,  the best-represented were Acrocirridae,  Ampharetidae,  Chrysopetalidae,  Cirratulidae,  Hesionidae,   Paraonidae,  Spionidae   and   Sabellidae, whereas  Alciopidae,  Aphroditidae, Cossuridae,  Pholoidae,  Sternaspidae, Tomopteridae and  Typhloscolecidae  were rarely found. The present work generally deals with the taxa in Phyllodocida;  the remaining groups are planned  to be treated  in future  publications. The material  was examined  for morphological and  partially  for molecular  characters (18S rDNA,  16S rDNA,  COI, ITS1, ITS2); phylogenetic  reconstructions were performed  using maximum  likelihood and parsimony.
+The  following  new taxa  and  names  and  other  changes  to  nomenclature are  proposed. Family  Amphinomidae: Bathychloeia balloniformis sp. nov.; Chrysopetalidae: Dysponetus hesionides sp. nov., Dysponetus profundus sp. nov., Pseudodysponetus fragmentosus gen. et sp. nov.; Glyceridae: Glycera diva sp. nov., Glycera southeastatlantica sp. nov.; Hesionidae:   Gyptis  incisa  sp.  nov.,   Nereimyra   auripalpa   sp.  nov.,   Sirsoe  hessleri  (Blake,   1991)  comb.   nov.; Lacydoniidae:  Lacydonia elongata Hartmann-Schro¨ der & Rosenfeldt,  1992 syn. nov. of L. papillata  Uschakov,  1958; Nereididae:   Profundilycastis  Hartmann-Schro¨ der,  1977  syn.  nov.  of  Rullierinereis  Pettibone,   1971,  Ruillerinereis profundus  (Hartman, 1965) comb.  nov.;  Phyllodocidae:  Eulalia  meteorensis  sp.  nov.,  Eumida  angolensis sp.  nov., Pseudomystides   bathysiphonicola   (Hartmann-Schro¨ der,   1983)  comb.   nov.,   Pseudomystides   brevicirra   sp.   nov., Pseudomystides  rarica  (Uschakov,   1958) comb.  nov.,  Pterocirrus   remus  sp.  nov.;  Sphaerodoridae:  Sphaerephesia regularis sp. nov., Sphaerodoropsis longianalpapilla sp. nov., Sphaerodoropsis macrotubercula sp. nov., Sphaerodoropsis protuberanca sp. nov. and Sphaerodoropsis rosehipiformis sp. nov.; Syllidae: Guillermogonita abyssicola gen. et sp. nov. Identiﬁcation  keys  to  the  encountered families  of  Polychaeta  as  well as  to  the  species within  each  family  are presented, where applicable. For the new and many previously established species, detailed morphological descriptions
+are given and the respective geographic  distribution is discussed.
+& 2009 Gesellschaft  fu¨ r Biologische Systematik.  Published  by Elsevier GmbH.  All rights reserved.
+
+
+Keywords: Deep sea; Atlantic  Ocean; Phyllodocida;  Molecular  data;  Biodiversity; Phylogeny
+
+
+Introduction
+
+Fortunately, mankind  ignores  this  advice.  However, even today  one of the largest ecosystems on earth  – the deep  sea  –  is still  one  of  the  least  explored.  Due  to darkness, low temperature, high pressure and food shortage,  this  region  was long  considered  as an  azoic desert. Therefore,  the discoveries of hydrothermal vents (1977),  cold  seeps  (1984) and  their  associated  faunas were real sensations, especially because these rich communities  are based  only on chemolithoautotrophic bacteria  and  not  on sunlight  energy (e.g. Corliss  et al.
+1979; Southward 1982; Paull et al. 1984; Jannasch  1985; Jannasch   and  Mottl   1985; Jones  1985; Grassle  1987; Desbruye`res  et al. 2006). Since then,  the deep sea is no longer assumed  to be a completely  monotonous, stable and very sparsely populated habitat. Furthermore, chemosynthetic   ecosystems   are   also   associated   with whale skeletons on the sea ﬂoor (e.g. Smith et al. 2002; Baco and Smith 2003; Smith and Baco 2003; Dahlgren et al. 2004; Rouse et al. 2004; Pleijel et al. 2008; Wiklund et   al.   2009).   However,   little   is  known   about    the biodiversity of the vast realms between these spectacular environments, which are only locally and temporally restricted  oases of life.
+The  multinational Census  of the Diversity  of Abyssal Marine Life (CeDAMar) programme  (a component of the Census  of Marine  Life) was conceived to overcome  this lack of information concerning  the abyssal  plains  of the world oceans. These basins seem to be homogeneous  over hundreds   or  thousands  of  kilometres   and   have  great potential    signiﬁcance   as   a   reservoir   of   biodiversity (Mart´ınez  Arbizu  and  Schminke  2005). The  programme concentrates on the endo-, epi-, and hyperbenthic  organ- isms, i.e., those that  live in, on or directly above  the sea ﬂoor.  CeDAMar also promotes  the testing of hypotheses regarding   potential    barriers   to,   and   mechanisms   of, dispersal of species by morphological and molecular methods.  Within CeDAMar various projects complement each other to obtain a global picture of the diversity of the abyssal  areas  of the world,  and  how it changes  in space and   time.   One   of   these   projects   is   named   DIVA (Latitudinal gradients of deep sea bioDIVersity  in the Atlantic Ocean); it explores the fauna inhabiting  sediments in Atlantic  deep-sea  basins  from  pole to  pole (Mart´ınez Arbizu and Schminke 2005).
+Polychaetes are one of the dominant groups in marine
+environments   worldwide  and  form  an  important food base for many other animals such as ﬁsh and crabs (Hartmann-Schro¨ der 1996; Beesley et al. 2000; Rouse and
+Pleijel 2001). This is also the case in the deep-sea benthic communities  of the  southeast  Atlantic  Ocean  (Kro¨ ncke and  Tu¨ rkay  2003; Tu¨ rkay  2006). However,  only  a  few species found  during  the DIVA-1  expedition  have been described  to  date  (Bo¨ ggemann  2005;  Bo¨ ggemann  and Purschke   2005;  Hilbig  2005).  On  the  other   hand,   a number  of publications  have dealt with crustaceans  (e.g. Brandt    2001,   2002,   2004;   Malyutina   et   al.   2001; Guerrero-Kommritz et al. 2002; Schmid et al. 2002; Guerrero-Kommritz 2003a, 2003b, 2005; Guerrero- Kommritz  and  Heard   2003; Mu¨ hlenhardt-Siegel   2003; Bro¨ keland  and  Wa¨gele 2004; Guerrero-Kommritz and B"az˙ewicz-Paskowycz  2004; Brandt  et al.  2005; Brenke et  al.  2005;  Bro¨ hldick  2005;  Leese  and  Brenke  2005; Mu¨ hlenhardt-Siegel   2005a,  2005b,  2005c;  Veit-Ko¨ hler
+2005;  Willen   2005),  Loricifera   (Gad   2005a,  2005b), sponges (Cristobo  et al. 2005), cephalopods  (Piatkowski and   Diekmann  2005),  and   even  holothurians  (Bohn
+2005).  A  series  of  papers  dealing  especially  with  taxa within   the   Phyllodocida    (see  Appendix   1)   will  ﬁll this knowledge gap. In addition to morphological descriptions,    some   of   the   groups   are   studied   with molecular  methods  to  clarify phylogenetic  relationships and  to  elucidate  whether  some of the  so-called cosmopolitan or otherwise widely distributed species are in  fact  cosmopolites   or  only  complexes  of  cryptic  or sibling species.
+According  to relevant  references (e.g. Westheide  and Hass-Cordes  2001; Westheide  et al. 2003), non-coding regions   of  the   nuclear   DNA,   such   as  the   internal transcribed  spacers  of  the  nuclear  rDNA   (ITS1  and ITS2),  are  variable   areas   in  the  genome  and   allow species differentiation. They can be used for the analysis of phenotypically  identical, widespread populations of a given taxon,  to  clarify whether  the  latter  constitutes  a cosmopolitan species or a complex of cryptic or sibling species.  On   the  other   hand,   the   more   conservative coding regions from the nuclear  ribosomal  subunit  18S rDNA,  the mitochondrial ribosomal  subunit  16S rDNA and  the mitochondrial cytochrome  c oxidase  subunit  I genes  (COI),   are  supposed   to  be  good   markers   to analyse various phylogenetic questions concerning the systematization  of  Annelida   (e.g.  Struck  et  al.  2002; Jo¨ rdens et al. 2004; Bleidorn et al. 2005; Worsaae  et al.
+2005; Halanych  and  Janosik  2006; Aguado  et al. 2007;
+Eklo¨ f et al. 2007; Rousset  et al. 2007; Ruta  et al. 2007; Pleijel et al. 2008; Wiklund  et al. 2008, 2009).
+
+
+Methods and material
+
+Field work
+
+The   DIVA-1   expedition    on   board    the   German research  vessel METEOR (cruise 48 leg 1) took  place
+in July–August  2000 (Tu¨ rkay  2006). It  was one of the pioneering projects embedded in the DIVERSITAS programme as a German  contribution to  the  Interna- tional  Biodiversity  Observation Year  (IBOY).  During the expedition, sampling was done with various types of gear  to  assess  corresponding  sections  of  the  benthos (nano-  to megafauna).  The transect  of about  700 km in the southern  Angola Basin comprised  six working areas separated  by approximately equal distances, with depths between 5148 and 5500 m (Fig. 1, Table 1).
+The DIVA-2 expedition (R/V METEOR cruise 63 leg 2; February–March  2005)  examined  the  Cape  Basin  (one area),  the  northern  Angola  Basin  (one  area),  and  the Guinea  Basin (three areas),  using the same types of gear as  before  at  depths  between  5022 and  5672 m  (Fig.  1, Table 1). The Walvis Ridge and the Guinea  Rise (Fig. 1) are   underwater   ridges   between   the   sampled   basins, which  might  inﬂuence  the  composition and  distribution of  the  species.  The  Walvis  Ridge  is  455 m  deep  and about  3000 km long, whereas the Guinea  Rise is at least
+1280 m deep.
+The equatorial West African margins were studied by the BIOZAIRE project,  which was initiated  by IFRE- MER  and coﬁnanced by the French  oil company  Total. The  project   focused  on  benthic   communities   at  six selected sites ranging  from  400 m to  4000 m in depth. These  areas  are  under  pelagic  and  continental input, under   the  inﬂuence  of  the  Zaire  Canyon,   or  in  the vicinity of cold seeps. The box corer material  from two
+of the deep-sea stations  of the BIOZAIRE 1–3 expedi- tions   (R/V   L’ATALANTE;  January   and   November
+2001, December 2003) is also included in this study (Fig. 1, Table 1).
+The deep-sea benthos  was examined (Fig. 1, Table 1)
+with reference to all size classes (nano-,  meio-, macro-, and megafauna)  using various  types of gear as outlined below (Fig. 2). For additional and more detailed information concerning  the gear, see Tu¨ rkay (2006).
+
+Agassiz trawl (AT)
+A  modiﬁed  Agassiz  trawl  (Fig.  2A)  of  3.5 m  width with a cod end mesh size of 1 cm was used during  the DIVA-1  and  DIVA-2  expeditions  for benthic  epi- and infaunal  megafauna  (Kro¨ ncke  and  Tu¨ rkay  2003). The ocean ﬂoor was trawled  for 1.5–3.5 h at 2 knots,  which resulted in a sampling area of at least 26,300–45,500 m2. Specimens were ﬁxed in 4% formaldehyde-seawater solution  and preserved in 70% ethanol.
+
+Box corer (BC)
+A   50 cm          50 cm   (0.25 m2)   USNEL    box   corer
+(Fig. 2B) was used for macrofaunal organisms  that  live on or just below the sediment  surface.  Specimens were sieved from the sediment (minimum  mesh size 300 mm), ﬁxed in 4%  formaldehyde-seawater solution,  and  later preserved or directly ﬁxed in 70% ethanol.
+
+Epibenthic sledge (ES)
+Meio- and macrofaunal organisms were sampled with an epibenthic  sledge (Fig. 2C) slightly modiﬁed accord- ing  to  the  model  described   by  Brandt   and   Barthel (1995). The  ocean  ﬂoor  was trawled  for  0.25–3 h. The lower  epinet  and  the  upper  supranet  were both  used, with a mesh size of 500 mm in the front and 300 mm in the tail. Specimens were usually ﬁxed in cold 70% (DIVA-1) or 100% ethanol  (DIVA-2) for morphologic  and genetic analyses, respectively. However, a few samples from DIVA-1 were also ﬁxed in a 4% formaldehyde-seawater solution  and later preserved in 70% ethanol.
+
+Multicorer  (MC)
+Nano-  and meiofaunal  organisms were sampled using a multicorer  (Fig. 2D; Barnett  et al. 1984) with 12 cores of   10 cm   diameter.    Each   core   was   ﬁxed   in   4% formaldehyde-seawater  solution   on  board,   and   later sieved  at   40 mm   mesh  size.  Specimens   and   organic material    were   extracted    from   the   remaining    sand particles  by the  differential-ﬂotation method  using the colloidal    silica   gel   Levasil   and    centrifugation at
+4000 rpm (McIntyre  and Warwick 1984), then preserved in 70%  ethanol.  Sorting  of the  DIVA-1  material  was done with the aid of Rose Bengal staining.
+
+General results
+
+Abundance
+
+The studied material  consists of polychaetes from 136 samples  (DIVA-1:  54;  DIVA-2:  66,  BIOZAIRE:  16) from   the   abyssal   zones   of   the   southeast    Atlantic Ocean (Table 1). The altogether  more than 23,000 specimens  or   fragments   (DIVA-1:   49400;   DIVA-2:
+49700, BIOZAIRE: 44000) were found  in all investi- gated  areas  and  represented  47 (DIVA-1:  39; DIVA-2:
+42; BIOZAIRE: 35) different families (Table 4). Most of the latter (36) were present in all three basins, sometimes in  high  abundance  (e.g.  Acrocirridae,  Ampharetidae,
+Chrysopetalidae, Cirratulidae, Hesionidae,  Paraonidae, Spionidae, Sabellidae). Three families (Pilargidae, Poecilochaetidae,  Serpulidae)   were  restricted   to   the Angola  Basin  and  the  Guinea  Basin,  some  others  to only one of the examined regions (Angola Basin: Cossuridae, Pholoidae, Sternaspidae, Tomopteridae, Trichobranchidae;  Cape  Basin:  Aphroditidae; Guinea Basin: Alciopidae, Typhloscolecidae). Cossuridae, Pholoidae  and  Sternaspidae were exclusively present  in the  box  corer  samples  of  the  BIOZAIRE expeditions and might be limited by lower depths  (around  4000 m). The  other  rarely  found  taxa  were either  larger megafauna  forms  like the Aphroditidae or  uncommon by-catch from pelagic groups.
+Overall, the three different  ocean basins are more or less similar  in family-level diversity,  although  some of the thirteen areas are represented with lower abundances (Fig. 3). This may be an artefact  of sampling, however, as  the  number   of  samples  taken   varied  among  sites (Table  1)  and  different  types  of  gear  may  have  had different  collecting efﬁciencies (Bett et al. 1994). Therefore,   the  two  large  underwater  ridges  (Walvis Ridge and Guinea  Rise) between the basins do not seem to  have  exerted  major  inﬂuence  on  the  biodiversity  of the polychaete families, whose species were often distributed by planktonic larval stages.
+So  far,  only  very  small  areas  of  the  large  abyssal basins   have   been   explored.   For   this   reason   it   is not  surprising  that  about   one  third  of  the  examined species  are  new  for  science.  Another   large  part   are taxa previously known from the deep sea in the northern Atlantic  Ocean,  the  Paciﬁc  Ocean  and  the  Antarctic region,    whereas    the   remaining    species   belong   to abyssal   or   sometimes   also   eurybathic    taxa,   which probably  have  a cosmopolitan or  widespread  distribu- tion.  The  latter  morphologically uniform  taxa  are  the more   interesting   ones   with   regard   to   cosmopolitan versus cryptic species and were partially  studied  during this  project  using  molecular  data.  However,  this  was only  possible  and  useful  for  material  ﬁxed directly  in ethanol,  as had  been done  with most  of the epibenthic sledge samples.
+The Agassiz trawl, with a mesh size of 1 cm, seems to be the least effective gear to capture abyssal polychaetes, because only about  700 specimens or fragments representing   14  different   families  were  found   in  the eight available  samples from DIVA-2 (Table 4, Fig. 3). However, two of these taxa were only collected with this equipment.  The  ﬁrst,  specimens of Aphroditidae, were really gigantic epibenthic megafauna organisms with lengths   around    5 cm,   whereas   most   of   the   other investigated    polychaetes    ranged    in   length   between
+1 mm and  1 cm. The  second  of those  taxa,  the  pelagic Alciopidae,  are  represented  by  a  single anterior   frag- ment that might have been picked up during the vertical haul of the gear, which was not provided  with a closing mechanism.  The remaining  groups  also included  larger specimens (e.g. Capitellidae,  Glyceridae, Nephtyidae) or tube-building   forms  which  are  often   colony-forming (e.g. Chaetopteridae, Onuphidae, Terebellidae)  or attached  to hard  substrates  (e.g. Serpulidae).
+Much  more  and  more  diverse  material  was present in  the  63  box-corer   (45500  fragments;   38  families),
+15 epibenthic-sledge (48300 frag.; 40 fam.) and 50 multicorer  samples  (48600 frag.;  36 fam.).  The  latter gear   was  included   to   obtain   smaller   individuals   or especially meiofauna organisms such as Nerillidae. However,  the  subsequent   sieving  of  the  multicorer   as well as the box-corer samples more or less damaged many of the  DIVA  polychaetes  or  at  least  their  mostly  very fragile  appendages   (e.g.  antennae,   palps,  cirri,  elytra, etc.), whereas the usually ethanol-ﬁxed  epibenthic-sledge material was often conserved in acceptable condition  and was also valuable  for  molecular  analysis.  Furthermore, the   epibenthic-sledge   samples   included   some   pelagic groups    (e.g.    Tomopteridae),    in    addition     to    the benthic taxa, that were caught with the box corer (Typhloscolecidae)   or   multicorer   (Lopadorhynchidae) only by chance.
+
+Key to families of Polychaeta  from the abyssal SE Atlantic
+
+This key is limited to taxa present  in the examined material.
+
+1.    Dorsum  more or less covered with series of elytra (scales) ...................................................................................  2
+–     Dorsum  without  elytra or elytral scars ..................................................................................................................  5
+2.    Prostomium with 1–3 antennae;  harpoon-shaped notochaetae absent .................................................................. 3
+–     Prostomium with one median antenna;  some notochaetae harpoon-shaped ..................................... Aphroditidae
+3.    Dorsal  cirri usually absent; neurochaetae compound  ............................................................................................ 4
+–     Dorsal  cirri on non-elytra-bearing segments; all chaetae  simple ........................................................... Polynoidae
+4.    Elytra  alternate  with dorsal  cirri along whole length of body; prostomium usually with one median antenna;
+neurochaetae with short  blades; parapodia without  branchiae  ............................................................... Pholoidae
+–     From  25th or 27th segment backwards  only elytra present; prostomium with two lateral and mostly one median antenna;  neurochaetae with short and long blades; parapodia usually with branchiae........................ Sigalionidae
+5.    Posterior  end without  cuticularised shield ..............................................................................................................  6
+–     Posterior  end ventrally covered by cuticularised  shield ....................................................................... Sternaspidae
+6.    Anterior  end (prostomium and/or some anterior  segments) with at least two appendages  in form of often paired or tuft-like antennae/palps, cirri, tentacles, etc.; or terminating in collar or frilled membrane  ................................. 7
+–     Anterior  end without  such appendages, but prostomium can be laterally pointed,  with one median  antenna  and sometimes additional pairs of branchiae  on some anterior  segments, or with single median  branchia  (tentacle) arising dorsally on one anterior  segment ..............................................................................................................  38
+7.    Anterior  end without  collar or frilled membrane  ................................................................................................... 8
+–     Anterior  end usually terminating in frilled membrane  or more or less developed  collar; notochaetae  simple capillaries and neurochaetae bidentate  hooks  arranged  in low ridges (tori); body enclosed in tube of distinctly overlapping  sediment particles ................................................................................................................. Oweniidae
+8.    Anterior  end with numerous  tentacles arranged  in a tuft or feathery in two halves around mouth  (radiolar  crown)
+................................................................................................................................................................................ 9
+–     Prostomium and/or some anterior  segments with mostly paired appendages  (e.g. antennae,  palps, cirri); often with eversible pharynx  (proboscis) ............................................................................................................................... 13
+9.    Anterior  end with crown of bipinnate  radioles; thorax  region with notopodial simple capillaries and neuropodial uncini, abdominal  region with chaetal inversion .................................................................................................  10
+–     Anterior  end with soft tentacles for deposit  feeding; notochaetae simple capillaries and neurochaetae uncini, without chaetal inversion ...................................................................................................................................... 11
+10.  Usually  one (rarely two or zero) modiﬁed radiole  forms an operculum;  tube calcareous
+................................................................................................................................................................. Serpulidae
+–     Operculum  not present; tube leathery  or of mucus, sand or mud .......................................................... Sabellidae
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428                                                           265
+
+11.  Tentacles not retractile  into mouth;  1–4 pairs of simple to branched  branchiae,  or one single branchial  trunk  or branchiae  absent  .................................................................................................................................................. 12
+–     Tentacles retractile into mouth;  2–4 pairs of usually simple branchiae  ............................................. Ampharetidae
+12.  Thoracic  and abdominal  uncini usually short-handled ....................................................................... Terebellidae
+–     Thoracic  uncini long-handled, abdominal  ones short-handled ................................................... Trichobranchidae
+13.  Prostomium conical, more or less annulated, distally terminating in four appendages  ........................................ 14
+–     Prostomium not as above .................................................................................................................................... 15
+14.  Proboscis  with four jaws arranged  in a cross, each basally supported by an aileron; prostomial  appendages  not articulated .............................................................................................................................................. Glyceridae
+–     Proboscis generally with ring of two macrognaths and variable number of micrognaths, sometimes with additional chevrons; prostomial appendages  usually biarticulated ......................................................................... Goniadidae
+15.  Chaetae of ﬁrst parapodium elongated,  forming a cephalic cage .......................................................................... 16
+–     Cephalic cage absent ............................................................................................................................................ 17
+16.  Body papillated,  often with thick covering of sediment or gelatinous  sheath;  parapodial lobes generally reduced; anterior  end retractable, usually with branchiae;  capillary  and compound  chaetae  mostly with distinctive cross- barring  .............................................................................................................................................. Flabelligeridae
+–     Body surface usually smooth;  parapodial lobes well developed,  sometimes ﬂask- or spindle shaped;  anterior  end not retractable;  branchiae,  if present, only in middle or posterior  part of body; various forms of capillary chaetae and spines, without cross-barring  ................................................................................................... Poecilochaetidae
+17.  Body with numerous  pairs of ﬁliform branchiae  or only some pairs on a few anterior  segments ........................... 18
+–     Branchiae, if present, not ﬁliform and arranged  in various ways ........................................................................... 19
+18.  Body covered with epidermal papillae; anterior  end with two palps; notochaetae capillary, neuropodia with compound falcate chaetae .................................................................................................................................................. Acrocirridae
+–     Body surface smooth; one pair of palps or groups of palps (tentacular ﬁlaments) arise in front of ﬁrst chaetiger; all chaetae simple ....................................................................................................................................... Cirratulidae
+19.  Acicula and/or  chaetae  present in most segments ...............................................................................................  20
+–     Second segment with one pair of prolonged  parapodial lobes with internal  aciculae, other acicula and/or  chaetae absent; biramous  parapodia with paddle-like pinnules ....................................................................... Tomopteridae
+20.  Body surface usually smooth, only with some papillae of various sizes ................................................................. 21
+–     Body surface more or less densely covered with symmetrically or randomly  arranged  large spherical tubercles and papillae; prostomium indistinct,  with three antennae  and two palps ............................................ Sphaerodoridae
+21.  Fourth chaetiger without large spines, other chaetigers can have modiﬁed chaetae .............................................. 22
+–     Anterior  end with one pair of short or long palps; fourth  chaetiger with large spines; some median parapodia can be modiﬁed,  sometimes fan-shaped;  posterior  part  with biramous  parapodia .............................. Chaetopteridae
+22.  Prostomium without  appendages  (dorsal median or ‘occipital’ antenna  can be present),  sometimes expanded  to form ‘horns’; one pair of elongated  peristomial  palps (often broken  off) ........................................................... 23
+–     Prostomium with at least two appendages  and/or 1–4 anterior  segments with modiﬁed cirri ............................ 24
+23.  Prostomium ﬂattened and spatulate;  palps papillose; branchiae  always absent ................................... Magelonidae
+–     Prostomium not ﬂattened;  palps usually grooved; branchiae  often present ............................................. Spionidae
+24.  Proboscis  usually with distinct,  complex jaw apparatus comprising  mandibles  and variable  number  of maxillary elements ................................................................................................................................................................ 25
+–     Pharyngeal  region with much simpler jaws, stylets or teeth or without such structures  ......................................... 26
+25.  First  two segments without  chaetae  or cirri; prostomium with up to four antennae/
+palps ..................................................................................................................................................... Dorvilleidae
+–     First  segment without  chaetae,  sometimes with one pair of cirri; prostomium with seven appendages  (three antennae, two palps, and two short  frontal  lips) ..................................................................................  Onuphidae
+26.  Parapodia well developed,  usually with noto-  and/or neuropodial lobes, chaetae  and generally additional
+appendages  (e.g. cirri, branchiae)  ........................................................................................................................  27
+–     Parapodial lobes absent or only indistinctly developed, with two chaetal bundles separated  by 1–2 interramal  cirri;
+prostomium with 0–3 antennae  and/or  two palps (or lateral  horns);  minute  interstitial
+forms .........................................................................................................................................................Nerillidae
+27.  First  segment with biramous  parapodia and chaetae  ..........................................................................................  28
+–     First  segment achaetous,  only with 0–2 pairs of cirri ..........................................................................................  29
+28.  Prostomium with three antennae  and two palps, usually continuing posteriorly into conspicuous caruncle; branchiae, if present, inserted behind dorsal  cirri or above notopodia; body circular or oval in cross
+section .................................................................................................................................................... Amphinomidae
+266
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428
+
+–     Prostomium with 0–2 antennae  and two palps, caruncle  absent;  interramal  cirri (branchiae)  inserted together with dorsal  cirri on lower side of notopodia, rarely absent;  body rectangular in cross
+section .................................................................................................................................................... Nephtyidae
+29.  Dorsal  cirri usually ﬂattened,  foliose or more or less globular;  parapodia generally uniramous ..............................
+.............................................................................................................................................................................. 30
+–     Dorsal  cirri not foliose or globular;  parapodia uni-, bi- or subbiramous ........................................................... 32
+30.  Prostomium with 2–3 antennae  and two palps (note: palps antenna-shaped) ....................................................... 31
+–     Prostomium without appendages  or ending with one median antenna/papilla .............................. Typhloscolecidae
+31.  Prostomium laterally with two large, complex spherical eyes with internal  globular  lenses; pelagic forms
+................................................................................................................................................................. Alciopidae
+–     Eyes, if present, usually much smaller pigmented spots; benthic forms ............................................. Phyllodocidae
+32.  Compound chaetae present, especially in neuropodia .......................................................................................... 33
+–     All chaetae  simple, reduced notopodia sometimes with few hooks  or spines; prostomium with 2–3 antennae  and two palps; ﬁrst segment usually with two pairs of cirri ............................................................................. Pilargidae
+33.  Notochaetae, if present,  simple and neurochaetae mostly compound ................................................................ 34
+–     All noto-  and neurochaetae generally compound;  proboscis  with large pair of jaws and sometimes additional paragnaths or papillae; prostomium usually with two antennae  (rarely zero or three) and two biarticulated palps; ﬁrst segments with four (rarely two) pairs of cirri .................................................................................... Nereididae
+34.  First  (rarely also second) segment achaetous,  with 0–2 pairs of cirri ................................................................. 35
+–     Anterior  2–4 segments achaetous,  with 4–8 pairs of usually elongated  cirri; prostomium with 2–3 antennae  and mostly two biarticulated palps; proboscis  sometimes with jaws or teeth; parapodia uni-, bi- or subbiramous
+................................................................................................................................................................ Hesionidae
+35.  Parapodia biramous,  only some anterior  ones can be uniramous ...................................................................... 36
+–     Parapodia uniramous, only in reproductive  stages sometimes subbiramous ...................................................... 37
+36.  Dorsal  cirri inserted behind fan-like tufts of notochaetae, which are stout  or ﬂattened  and more or less cover the dorsum; ﬁrst segment with two pairs of cirri, or anterior  two segments each with one pair of cirri; proboscis  often with one pair of stylet-like jaws; prostomium with three antennae  and two palps ...................... Chrysopetalidae
+–     Dorsal  cirri inserted above bundle of notochaetae, which are laterally arranged  capillaries; ﬁrst segment with one pair of cirri; proboscis  unarmed;  prostomium with three antennae  and two palps .......................... Lacydoniidae
+37.  Prostomium with two antennae  and two palps of similar shape; proboscis  unarmed  and proventricle  absent; ﬁrst segment with 1–2 pairs of cirri; pelagic forms ............................................................................. Lopadorhynchidae
+–     Prostomium with 0–3 antennae  and two palps differing in shape, palps can be partially  or completely fused;
+proboscis sometimes with teeth, muscular proventricle  present, often visible through  body wall; ﬁrst segment with
+0–2 pairs of cirri; benthic forms .................................................................................................................... Syllidae
+38.  Parapodia usually biramous,  only some anterior  ones might be uniramous; proboscis  without  jaws ................  39
+–     All parapodia uniramous, dorsal  and/or  ventral  cirri absent;  proboscis  with distinct  complex jaw apparatus comprising mandibles and variable number of maxillary elements ................................................... Lumbrineridae
+39.  At least abdominal segments with neurochaetal hooks  arranged  in low ridges (tori) ......................................... 40
+–     Chaetae not arranged  in tori ................................................................................................................................. 41
+40.  Prostomium conical; median segments not elongated;  thoracic  segments with capillaries and sometimes hooded hooks, abdominal noto- and neuropodial tori generally with hooded  hooks ....................................... Capitellidae
+–     Prostomium often narrow,  keel- or ridge-shaped;  some median  segments more than  twice as long as wide;
+notopodia with capillaries and neuropodial tori usually with hooks  with subdistal  beard
+............................................................................................................................................................... Maldanidae
+41.  Parapodia low ridges or completely absent,  with noto-  and neurochaetae emerging directly from body wall, one papilla might be present between bundles of chaetae  ..........................................................................................  42
+–     Parapodia more or less developed, with cirri and/or parapodial lobes and often branchiae  ............................. 44
+42.  Interramal papilla absent; prostomium not retractable ........................................................................................ 43
+–     Interramal papilla  present; prostomium retractable within some anterior  segments; chaetae  capillary  and stout spines; branchiae  absent ...................................................................................................................  Fauveliopsidae
+43.  Single ﬁliform branchia  (tentacle) arising dorsally from chaetigers  2–5; chaetae  all capillary  or additional thick spines present .......................................................................................................................................... Cossuridae
+–     Branchiae,  if present,  paired  and on variable number  of anterior  to middle segments; chaetae  vary from simple capillaries to serrated  pectinate  or dentate  forms ............................................................................. Ctenodrilidae
+44.  Parapodia lateral  in all parts  of body; without  aciculae; capillary chaetae  smooth  or faintly striated
+.............................................................................................................................................................................. 45
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428                                                           267
+
+–     Thorax  with lateral  parapodia, mostly shifted dorsally in abdominal part;  at least abdominal notopodia usually with aciculae; chaetae including crenulated  or camerated  capillaries; branchiae,  if present, oval to cylindrical and continuing  to posterior  region .................................................................................................................  Orbiniidae
+45.  Prostomium conical or rounded,  in some taxa with terminal  palpode  or one median antenna;  body not swollen anteriorly  ............................................................................................................................................................. 46
+–     Prostomium usually T- or V-shaped,  without  antenna  or palpode;  body often swollen anteriorly;  branchiae,  if present,  usually branched  and limited to ﬁrst few segments ....................................................... Scalibregmatidae
+46.  Prostomium without median antenna;  body usually grooved ventrally; branchiae, if present, cirriform or branched and present  on most segments, or restricted  to special regions ............................................................. Opheliidae
+–     Median  prostomial  antenna  can be present; body never grooved  ventrally; branchiae,  if present,  ﬂattened  and limited to some anterior  segments .........................................................................................................  Paraonidae
+
+
+General conclusions
+
+The abyssal basins seem to be homogeneous  over hundreds  or  thousands of  kilometres,  but  hardly  any- thing is known  about  their signiﬁcance as a reservoir of biodiversity.  In spite of this, they are or possibly will be misused in the near future as ﬁnal disposal sites (for, e.g., nuclear waste or ﬂuid carbon dioxide) or their supplies of raw materials (e.g. manganese nodules, methane hydrate) will be exploited if that becomes more proﬁtable,  because these  basins  are  far  away  from  mankind,   thus  hardly anyone  cares about  conservation measures.
+The examined abyssal plains of the southeast  Atlantic Ocean really can be considered as a homogeneous environment,    with   a   temperature  of   2.4870.02 1C, salinity  of  34.8170.03%,  pH  of  7.5–7.8,  and  atmo- spheric  pressure  of 395–567 atm  (Kro¨ ncke and  Tu¨ rkay
+2003; Balzer et al. 2006; Tu¨ rkay  2006). However,  they deﬁnitely  are  not  azoic  deserts,  as  evidenced  by  the capture  of more  than  23,000 polychaetes  belonging  to
+47  different   families.  Most   of  these  specimens  were very  small  (o1 cm)  and  might  have  been  overlooked or washed out in previous deep-sea studies. In any case, even  ‘monotonous  mud  deserts’  in  the  deep  sea  are densely populated and worthy  of protection.
+Some of the abyssal species were new to science, but others   were  widely  distributed;  some  of  the  benthic species even seem to be real cosmopolitans as expected by  Kirkegaard  (1994).  The  molecular   data   make   it obvious that  the enormous  rises and ridges between the basins  often  are no barriers  for the usually  planktonic larvae.  These results  might  become of great  worldwide interest,   because  any  radioactive   waste,  ﬂuid  carbon dioxide or other anthropogenic waste deposited in those basins  could  be subject  to  the  current  systems and  be spread  on  a  global  scale,  as  has  happened   with  the
+
+
+Glyceridae Grube, 1850
+
+The   Glyceridae   and   the   very  similar   Goniadidae
+Kinberg,     1865    (see    the    following    chapter)     are
+monophyletic   clades  within  the  Phyllodocida   (Pleijel
+2001d).  Their  pointed,  usually  annulated prostomium with two pairs  of terminal  appendages,  and  their long, muscular, eversible axial proboscis,  which is densely covered with papillae  and provided  with terminal  jaws, are  unique  characters  among  polychaetes  (Bo¨ ggemann
+2006). However, the two groups can be clearly separated from  each  other,  especially by the  proboscidial  arma- ture.  The  four  similar  jaws of the  glycerids are  hook- shaped   with   an   accessory   lateral   aileron,   whereas goniadids  usually have two macrognaths and a variable number of dorsal and ventral micrognaths, and sometimes additional longitudinally  arranged  rows of V-shaped chevrons   on  each  side  of  the  proboscis   (Bo¨ ggemann
+2002, 2005).
+The  Glyceridae  have  a worldwide  distribution from intertidal   to  abyssal  depths  (Bo¨ ggemann  2002).  They are  generally  considered  to  be  carnivorous, capturing prey  with  their  jaws and  killing  it by the  injection  of venom   (Ockelmann   and   Vahl   1970;  Fauchald  and Jumars  1979; Manaranche et al. 1980). In most species the  animals  form  semi-permanent  burrow   systems  in sandy or muddy sediments (Ockelmann  and Vahl 1970), which  seems  to  be  the  typical  substrate   in  deep  sea basins.  Therefore,  it is no wonder  that  some species of Glycera   Lamarck,   1818   and   the   single   species   of Glycerella  Arwidsson,  1899 are  known  even from  the abyssal zone.
+In the present study, three species of Glyceridae  were collected. Glycera capitata  Ørsted,  1842 represents  one of   the   well   known,    widely   distributed   taxa   (e.g. Averincev   1972;  Hartman  1978;  Bo¨ ggemann   2002), whereas Glycera diva sp. nov. and G. southeastatlantica sp. nov. are newly described below.
+
+Key to glycerid species from the abyssal SE Atlantic
+1.  Parapodia with two short  postchaetal lobes, notopodial prechaetal  lobes about  as long as or slightly shorter  than neuropodial lobes (Figs. 35D–K,  37D–K); main type of proboscidial  papillae conical with three indistinct  transverse ridges (Figs. 35B, 36A–C) or with a straight  median longitudinal ridge on one side (Figs. 37B; 38A, B) .................... 2
+
+–   All parapodia with one postchaetal lobe, notopodial prechaetal  lobes much shorter  than  neuropodial lobes
+(Fig. 32D–K); main type of proboscidial  papillae digitiform  with a straight  median longitudinal ridge on one side
+(Figs. 32B, 33D) ....................................................................................................................  Glycera capitata  Ørsted
+
+2.  Notopodial prechaetal  lobes slightly shorter  than  neuropodial lobes, dorsal  cirri inserted on body wall far above parapodial base (Fig. 35D–K); main type of proboscidial  papillae conical with three indistinct  transverse  ridges (Figs. 35B, 36A–C) ....................................................................................................................  Glycera diva sp. nov.
+
+–   Prechaetal  lobes of about  same length, dorsal  cirri inserted near parapodial base (Fig. 37D–K); main type of proboscidial  papillae conical with a straight  median  longitudinal  ridge on one side
+(Figs. 37B; 38A, B) ............................................................................................... Glycera southeastatlantica sp. nov.
+
+Glycera Lamarck,  1818
+Glycera capitata  Ørsted,  1842
+(Figs. 32–34, 39)
+Glycera capitata  Ørsted,  1842—Ørsted (1842, p. 123); Bo¨ ggemann (2002, p. 34, ﬁgs. 16–18)
+Glycera setosa Ørsted,  1842—Ørsted (1842, p. 124)
+Glycera Mulleri Quatrefages,  1866 [partim]—Quatre- fages (1866, p. 172)
+Glycera    kerguelensis    McIntosh,   1885—McIntosh
+(1885, p. 344; pl. 35A, ﬁgs. 3, 4)
+?Glycera  ‘‘longipes’’  [nomen   nudum]—M.   Sars   in
+Arwidsson  (1899, p. 9)
+Glycera nana Johnson,  1901—Johnson  (1901, p. 411;
+pl. 10, ﬁgs. 103, 103a)
+Hemipodia   canadensis   Treadwell,   1937—Treadwell
+(1937, p. 348, ﬁgs. 1–3)
+Glycera   mimica  Hartman,   1965—Hartman  (1965, p. 97, pl. 15a–e)
+Glycera capitata antarctica Averincev, 1972—Ave- rincev (1972, p. 136; pl. 16, ﬁgs. 1–6, 11, 12)
+Glycera  capitata  abyssicola  Averincev,  1972— Averincev  (1972,  p.  138;  pl.  16,  ﬁgs.  7–10;  pl.  17, ﬁgs. 4–6)
+
+
+Material  examined
+
+Diagnosis
+Proboscidial  papillae  mainly  digitiform  with straight median  longitudinal ridge; ailerons  with pointed  trian- gular bases; parapodia of mid-body  with slightly longer
+neuropodial than  notopodial prechaetal  lobes and  one rounded  postchaetal lobe; branchiae  absent.
+
+Description
+Body up to 20 mm long with up to 43 chaetigers. Mid-
+body segments more or less distinctly triannulate. Conical  prostomium consisting  of about  8–10 rings;
+terminal  ring with four appendages  and basal one with pair of nuchal  organs  (Figs. 32A; 33A, B).
+Proboscis  with  two  types  of papillae  with  subapical
+tufts  of  cilia,  arranged   in  more  or  less distinct  longi- tudinal   rows:  1.  numerous   digitiform   papillae   with straight,  median, longitudinal ridge on posterior  surface (Figs.  32B, 33D,  E); 2. isolated,  shorter  and  broader, oval  to  globular   papillae   without   ridges  (Figs.  32B,
+33F). Terminal part of proboscis with four hook-shaped jaws arranged  in a  cross  (Fig.  33A, C) and  accessory ailerons  with pointed  triangular base (Fig. 32C).
+First two pairs of parapodia uniramous, following parapodia biramous (Fig. 32D–K). Two slender triangular to  digitiform  prechaetal  lobes;  neuropodial lobe  always distinctly    longer   than    notopodial   lobe;   both    lobes becoming  slightly slimmer in posterior  parapodia; in last parapodia notopodial lobe much shorter than neuropodial one. One shorter,  rounded  postchaetal  lobe. Dorsal  cirri from  3rd parapodium, oval to globular;  inserted  – most clearly in anterior  part  of body – on body wall far above parapodial base. Ventral cirri slender triangular to digitiform, shorter than postchaetal lobes; in posterior parapodia slender and elongated; situated near parapodial base. Branchiae  absent.
+Noto- and neuropodia each with a single acicula. Notochaetae slender, straight or weakly recurved capillary with one side covered with spines or hairs. Neurochaetaecompound   spinigers   with   blades   of  different   lengths, covered on one side with spines or hairs.
+Pygidium  with a dorsal  anus  and  a terminal  pair  of slender, elongated  cirri.
+
+Remarks
+The deep-sea specimens of this study are usually very small;  therefore,  their  notopodial prechaetal  lobes  are
+much  shorter  than  in larger  animals,  which are  up  to
+182 mm long (Bo¨ ggemann  2002). Some of the probosci- dial papillae have additional laterally located  groups  of cilia (Fig. 33D, right side), which are also described for other  glycerid species (Bo¨ ggemann  et al. 2000).
+
+Distribution
+Angola  and Guinea  Basins; 3945–5655 m (Fig. 34).
+
+Glycera diva sp. nov.
+(Figs. 34–36, 39)
+
+Etymology
+The species epithet represents the standard abbreviation of the  project  name,  ‘Latitudinal gradients  of deep  sea bioDIVersity  in the Atlantic Ocean’. It is to be treated  as indeclinable  for the purposes  of nomenclature.
+
+Diagnosis
+Proboscidial  papillae  mainly conical with three indistinct  transverse  ridges; ailerons  with pointed triangular bases;  parapodia of  mid-body  with  slightly
+longer  neuropodial  than   notopodial  prechaetal   lobes and two short  postchaetal lobes; branchiae  absent.
+
+Description
+Body at least 54 mm long with at least 128 chaetigers. Mid-body  segments more or less distinctly triannulate.
+Conical  prostomium consisting  of about  eight rings; terminal  ring with four appendages  and basal one with pair of nuchal  organs  (Fig. 35A).
+Proboscis  with  two  types  of papillae  with  subapical tufts  of  cilia,  arranged   in  more  or  less distinct  longi- tudinal  rows:  1. numerous  conical  papillae  with  three indistinct     V-shaped    ridges    on    posterior     surface (Figs.   35B,  36A–D);   2.   isolated,   broader,    oval   to globular  papillae  probably   without  ridges  (Figs.  35B;
+36B, C).  Terminal  part  of  proboscis  with  four  hook- shaped  jaws arranged  in a cross and  accessory ailerons with pointed  triangular base (Fig. 35C).
+First  two  pairs  of  parapodia  uniramous, following parapodia biramous  (Fig.  35D–K).  Two  slender  trian- gular to digitiform prechaetal lobes; neuropodial lobe usually slightly longer and  wider than  notopodial lobe; both   lobes   becoming   slightly   slimmer   in   posterior
+300
+
+Discussion
+Glycera  diva sp.  nov.  shows  some  similarities  with G.   tesselata   Grube,    1863   in   the   structure    of   the parapodia. However, the latter species has ailerons with deeply incised bases, and mainly digitiform proboscidial papillae  with  a  straight  median  longitudinal   ridge  on one side. Concerning  the proboscidial  papillae,  G. diva sp. nov. belongs to a group  of eight congeners characterised by conical  papillae  with  three  transverse ridges. However, the shape of the ailerons and the parapodial lobes are totally  different,  and  most  of the other  species are provided  with branchiae.
+
+
+Glycera southeastatlantica sp. nov.
+
+Etymology
+The species epithet refers to the study area. It is to be treated as a compound  adjective with a Latin ﬁnal component for the purposes  of nomenclature.
+parapodia; in last parapodia notopodial lobe distinctly shorter  than  neuropodial one. Two shorter,  rounded  or blunt   triangular   postchaetal  lobes;   notopodial   lobe always  slightly  shorter   than  neuropodial  one.  Dorsal cirri  from   1st  or  2nd  parapodium,  conical  to  oval; inserted – most clearly in anterior  part of body – on body wall far above parapodial base. Ventral cirri slender triangular to digitiform,  slightly longer than  postchaetal lobes; in posterior  parapodia slender  and  elongated;  in last parapodia about  as long as neuropodial prechaetal lobe; situated  medio-ventrally  on parapodia, subtermin- ally on posterior  segments. Branchiae  absent.
+Noto- and neuropodia each with a single acicula. Notochaetae slender, straight or weakly recurved capillary with one side covered with spines or hairs. Neurochaetae compound   spinigers  with  blades  of  different   lengths, covered on one side with spines or hairs.
+Pygidium  with a dorsal  anus  and  a terminal  pair  of slender, elongated  cirri.
+
+Remarks
+The proboscidial  papillae are not well preserved; therefore,  the structure  of their posterior  sides described above is not absolutely  certain.
+
+Distribution
+Angola  and Guinea  Basins; 5143–5443 m (Fig. 34).
+
+Diagnosis
+Proboscidial   papillae   mainly   conical   with  straight median   longitudinal  ridge;   ailerons   with   triangular bases; parapodia of mid-body  with prechaetal  lobes of about same length and two short postchaetal lobes; branchiae  absent.
+
+Description
+Body  up  to  65 mm  long  with  up  to  132 chaetigers. Mid-body  segments more or less distinctly triannulate.
+Conical  prostomium consisting  of  about  7–8 rings; terminal  ring with four appendages  and basal one with pair of nuchal  organs  (Fig. 37A).
+Proboscis  with  two  types  of papillae  with  subapical
+tufts  of  cilia,  arranged   in  more  or  less distinct  longi- tudinal    rows:   1.   numerous    conical    papillae    with straight,  median, longitudinal  ridge on posterior  surface (Figs. 37B; 38A, B, D); 2. isolated,  slightly shorter  and broader,   oval   to   globular    papillae   without    ridges (Figs. 37B, 38C). Terminal  part  of proboscis  with four hook-shaped jaws arranged  in a cross and accessory ailerons with triangular base (Fig. 37C).
+First two pairs of parapodia uniramous, following parapodia biramous  (Fig.  37D–K).  Two  slender  trian- gular    to    digitiform     prechaetal     lobes    of    about same  length;  both  lobes  becoming  slightly  slimmer  in
+posterior  parapodia; in last parapodia notopodial lobe slightly shorter than neuropodial one. Two shorter, rounded  or blunt  triangular postchaetal lobes; notopo- dial lobe usually slightly shorter  than  neuropodial one. Dorsal cirri from 1st parapodium, oval to globular; inserted near parapodial base. Ventral cirri slender triangular to  digitiform,  about  as  long  as  postchaetal lobes; in posterior  parapodia slender and  elongated;  in last parapodia about  as long as neuropodial prechaetal lobe; situated  medio-ventrally  on parapodia, subtermin- ally on posterior  segments. Branchiae  absent.
+Noto- and neuropodia each with a single acicula. Notochaetae   slender,   straight    or   weakly   recurved capillary with one side covered with spines or hairs. Neurochaetae    compound    spinigers     with     blades of  different  lengths,  covered  on  one  side  with  spines or hairs.
+Pygidium  with a dorsal  anus  and  a terminal  pair  of
+slender, elongated  cirri.
+
+Remarks
+Some of the proboscidial papillae have additional laterally  located  groups  of cilia (Fig.  38A, right  side), which  are   also  described   for   other   glycerid  species (Bo¨ ggemann  et al. 2000).
+Distribution
+Angola, Cape and Guinea Basins; 3945–5460 m (Fig. 34).
+
+Discussion
+Glycera southeastatlantica sp. nov. shows some similarities  with G. guatemalensis Bo¨ ggemann  & Fiege,
+2001  in  the   structure   of  the   proboscidial   papillae. However,  the  latter   species  has  ailerons  with  deeply incised bases, and distinctly longer notopodial prechae- tal lobes and ventral  cirri in the mid-body  region.
+
+Abundance of Glyceridae
+
+A total  of 239 specimens or fragments  were found  in all  investigated  areas.  Most  of  them  (173)  belong  to Glycera capitata.  This species was present in the Angola and   Guinea    Basins   (Fig.   39),   sometimes   in   high abundance  (DIVA-1   areas   5–6  and   DIVA-2   areas
+3–4). This is in contrast  to Glycera diva sp. nov., which
+was found in the same basins, but only in the epibenthic sledge samples and in very low numbers (8 specimens or fragments).  The  48 specimens or  fragments  of Glycera southeastatlantica   sp.   nov.   were   widely   distributed
+through  all basins,  with  the  highest  abundance in the
+Angola  Basin  (DIVA-1  area  6 and  BIOZAIRE areas
+1–2). The most effective gear for collecting glycerids was the   epibenthic    sledge.   Box   corer    and    multicorer were  also  very  useful,  but  the  corresponding samples were usually ﬁxed in formalin;  therefore,  the specimens were not valuable for molecular  analyses.
+
+
+
+
+References
+
+Achari,   G.P.K.,    1975.   Studies   on   new   or   little   known polychaetes  from  the  Indian   Seas.  4.  On  a  new  record of Sigambra  tentaculata (Treadwell)  (Pilargidae),  from  the southwest  coast  of  India  along  with  observations on  its early larval stages. J. Mar.  Biol. Ass. India  17, 238–241.
+Aguado,  M.T.,  Nygren,  A.,  Siddall,  M.E.,  2007. Phylogeny  of Syllidae (Polychaeta)  based on combined molecular analysis of nuclear and mitochondrial genes. Cladistics 23, 552–564.
+Aguado, M.T., Rouse, G.W., 2006. First record of Sphae- rodoridae  (Phyllodocida:   Annelida)   from   hydrothermal vents. Zootaxa  1383, 1–21.
+Aguado,  M.T.,  San Mart´ın, G., 2008. Re-description of some enigmatic genera of Syllidae (Phyllodocida:  Polychaeta).  J. Mar.  Biol. Ass. UK  88, 35–56.
+Aguirrezabalaga, F., Ceberio, A., 2005. Sphaerodoropsis amoureuxi and  S. stellifer, two new species of Sphaerodo- ridae  (Polychaeta)   from  the  Capbreton Canyon   (Bay  of Biscay, NE Atlantic).  Cah.  Biol. Mar.  46, 9–20.
+Aguirrezabalaga, F., San Mart´ın, G., Petersen, M.E., Ceberio, A., 1999. Presencia  de Dysponetus gracilis Hartman, 1965 (Polychaeta,    Chrysopetalidae)  en   las   costas   europeas, Golfo  de Vizcaya. Bol. R. Soc. Esp. Hist. Nat.  (Sec. Biol.)
+95 (3–4), 21–25.
+Amoureux,   L.,  1982. Anne´lides Polyche`tes  recueillies sur  la pente  continentale   de  la  Bretagne  a  l’Irlande,  campagne
+1973 de la ‘‘Thalassa’’ (suite et ﬁn) avec la description  de quatre  espe`ces nouvelles pour  la science. Cah.  Biol. Mar.
+23, 29–51.
+Amoureux,  L., 1986. Anne´lides Polyche`tes abyssaux de la campagne  Abyplaine  au lage de Made`re.  Bull. Mus. Natl.
+Hist. Nat.,  4me Se´r., Sect. A. 8, 591–615.
+Apstein, C., 1900. Die Alciopiden und Tomopteriden der Plankton-Expedition,  in:  Ergebnisse  der  in  dem  Atlan- tischen   Ocean   von   Mitte   Juli   bis   Anfang   November
+1889  Ausgefu¨ hrten   Plankton-Expedition  der  Humboldt- Stiftung,   Bd.  2.  Lipsius   &  Tischer,   Kiel  and   Leipzig, pp. 1–62, pl. 1–14.
+Arwidsson,  I., 1899. Studien u¨ ber die Familien  Glyceridæ und
+Goniadidæ. Bergens Mus. Aarbog  11, 1–69.
+Audouin,   J.V.,  Milne  Edwards,   H.,  1830.  Premie`re  classe  des animaux   articule´s. Les  Anne´lides. In:  Cuvier,  G.  (Ed.),  Le Re`gne Animal Distribue´ d’apres son Organisation, pour Servir de Base a l’Histoire Naturelle des Animaux et d’Introduction a l’Anatomie Compare´e, nouv. e´d., t. III. De´terville, Paris.
+Audouin,   J.V.,  Milne  Edwards,  H.,  1833. Classiﬁcation  des Anne´lides, et description  de celles qui habitent  les coˆ tes de la France.  Ann. Sci. Nat.  29, 195–269 pl. 13–18.
+Averincev,  V.G.,  1972.  Benthic  polychaetes  Errantia from  the Antarctic  and  Subantarctic collected by the  Soviet Antarctic Expeditions   [in  Russian].   Issled.  Fauny   Morei   (=Explor. Fauna Seas) 11 (19), 88–293.
+Baco, A.R., Smith, C.R., 2003. High biodiversity levels on deep- sea whale skeletons. Mar.  Ecol. Prog. Ser. 260, 109–114. Bakken,  T.,   Wilson,   R.S.,   2005.  Phylogeny   of   nereidids
+(Polychaeta,   Nereididae)  with  paragnaths. Zool.  Scr.  34,
+507–547.
+Balzer, W., Alheit, J., Emeis, K.-C., Lass, H.U., Tu¨ rkay, M., 2006.
+South-East Atlantic  2000 Cruise No. 48, 6 July – 3 November
+2000, Walvis Bay – Walvis Bay. Meteor-Ber.  06 (5), I–XV. Banse,   K.,   1977.   Gymnonereidinae   new   subfamily:   the
+Nereididae  (Polychaeta)  with  biﬁd  parapodial  neurocirri. J. Nat.  Hist. 11, 609–628.
+Barnett,  P.R.O.,  Watson,  J., Connelly,  D.,  1984. A multiple corer  for  taking  visually  undisturbed samples  from  shelf, bathyal  and abyssal sediments.  Oceanol.  Acta 7, 399–408.
+420
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428
+
+Beesley, P.L., Ross, G.J.B., Glasby, C.J., 2000. Fauna of Australia, Polychaeta,  Myzostomida, Pogonophora, Echiura,  Sipuncula., Vol. 4A. CSIRO  Publishing,  Melbourne, pp. 1–465.
+Benham,  W.B., 1921. Polychæta.  Australasian Antarctic  Expedi- tion 1911–14. Sci. Rep., Ser. C Zool. Bot. 6 (3), 1–128 pl. 5–10,
+1 map.
+Bett,  B.J.,  Vanreusel,  A.,  Vincx,  M.,  Soltwedel,  T.,  Pfann- kuche, O., Lambshead, P.J.D.,  Gooday, A.J., Ferrero,  T., Dinet,  A., 1994. Sampler  bias in the quantitative study  of deep-sea meiobenthos. Mar.  Ecol. Prog. Ser. 104, 197–203. Bhaud,    M.,   1973.   Ancistrosyllis   groenlandica,   Pilargidae, nouvelle  espe`ce  d’Anne´lide  Polyche`te  benthique   a  larve
+planctonique. Vie Milieu, Se´r. A: Biol. Mar.  23, 263–272.
+Blake,  J.A.,  1985. Polychaeta   from  the  vicinity  of  deep-sea geothermal  vents  in the  eastern  Paciﬁc.  I: Euphrosinidae, Phyllodocidae, Hesionidae, Nereididae, Glyceridae, Dor- villeidae,  Orbiniidae   and  Maldanidae.  Biol.  Soc.  Wash. Bull. 6, 67–101.
+Blake, J.A.,  1988. New species and  records  of Phyllodocidae
+(Polychaeta)  from  Georges  Bank  and  other  areas  of  the western North  Atlantic.  Sarsia 73, 245–257.
+Blake,  J.A.,  1991. A new species of Hesiocaeca  (Polychaeta: Hesionidae)  from hydrothermal vents at the Mariana back- arc basin with notes on other  polychaetes.  Proc. Biol. Soc. Wash. 104, 175–180.
+Blake, J.A., 1994. 5. Family Lacydoniidae Bergstro¨ m, 1914, In: Blake, J.A., Hilbig, B., Scott, P.H. (Eds.), Taxonomic  Atlas of  the  Benthic   Fauna  of  the  Santa   Maria   Basin  and Western  Santa  Barbara   Channel,  vol.  4 – The  Annelida Part  1. Oligochaeta  and Polychaeta:  Phyllodocida (Phyllo- docidae  to  Paralacydoniidae). Santa  Barbara  Museum  of Natural History,  Santa  Barbara, CA, pp. 187–195.
+Blake,  J.A.,  1997a.  4. Family  Phyllodocidae  Oersted,  1843, in: Blake, J.A., Hilbig, B., Scott, P.H. (Eds.), Taxonomic  Atlas of the  Benthic  Fauna of  the  Santa  Maria  Basin  and  Western Santa Barbara  Channel,  vol. 4, rev. ed.—The Annelida Part 1. Oligochaeta  and  Polychaeta:  Phyllodocida (Phyllodocidae  to Paralacydoniidae). Santa Barbara Museum of Natural History, Santa Barbara, CA, pp. 109–177.
+Blake, J.A., 1997b. 10. Family  Pilargidae  Saint  Joseph,  1899, in: Blake,  J.A.,  Hilbig,  B., Scott,  P.H.  (Eds.),  Taxonomic Atlas  of  the  Benthic  Fauna  of  the  Santa   Maria   Basin and  Western  Santa  Barbara   Channel,   vol.  4,  rev.  ed.— The Annelida  Part  1. Oligochaeta  and Polychaeta:  Phyllo- docida     (Phyllodocidae    to     Paralacydoniidae).   Santa Barbara  Museum  of Natural History,  Santa  Barbara, CA, pp. 261–284.
+Bleidorn, C., Vogt, L., Bartolomaeus, T., 2005. Molecular phylogeny  of lugworms  (Annelida,  Arenicolidae)  inferred from three genes. Mol. Phyl. Evol. 37, 673–679.
+Bo¨ ggemann, M., 2002. Revision of the Glyceridae Grube  1850 (Annelida:  Polychaeta).  Abh. Senckenb. Naturforsch. Ges.
+555, 1–249.
+Bo¨ ggemann,  M.,  2005. Revision  of  the  Goniadidae (Annelida, Polychaeta).  Abh. Naturwiss.  Ver. Hamburg (NF) 39, 1–354.
+Bo¨ ggemann, M., 2006. Worms that might be 300 million years old. Mar.  Biol. Res. 2, 130–135.
+Bo¨ ggemann, M., Fiege, D., Purschke,  G., 2000. Ultrastructure of the  proboscidial papillae  in some Glycera species (Annelida: Polychaeta:  Glyceridae).  Cah. Biol. Mar.  41, 143–153.
+Bo¨ ggemann,  M., Purschke,  G., 2005. Abyssal benthic Syllidae (Annelida:   Polychaeta)    from   the   Angola   Basin.   Org. Divers. Evol. 5 (Suppl. 1), 221–226.
+Bohn, J.M., 2005. On two rare abyssal Myriotrochidae (Echinodermata:  Holothuroidea:  Apodida)   new  to   the South  Atlantic:  Siniotrochus myriodontus Gage and Billett,
+1986  and  Neolepidotrochus  parvidiscus  angolensis  subsp. nov. Org. Divers. Evol. 5 (Suppl. 1), 231–238.
+Borowski,  C.,  1994.  Three  new  deep-sea  species  of  Sphae-
+rodoridae (Annelida,  Polychaeta)  from the eastern tropical
+South  Paciﬁc. Zool. Scr. 23, 193–203.
+Brandt,  A., 2001. Acanthaspidia namibia sp. nov. from the deep
+Angola  Basin. Beaufortia  51, 91–101.
+Brandt,  A., 2002. New species of Nannoniscidae (Crustacea, Isopoda)  and Saetoniscus n. gen. from the deep sea of the Angola  Basin. Zootaxa  88, 1–36.
+Brandt,  A., 2004. New deep-sea species of the Macrostylidae
+(Asellota:  Isopoda:  Malacostraca) from  the Angola  Basin off Namibia  (South  West Africa). Zootaxa  448, 1–35.
+Brandt,   A.,  Barthel,   D.,   1995.  An   improved   supra-   and epibenthic sledge for catching Peracarida (Crustacea, Malacostraca). Ophelia 43, 15–23.
+Brandt, A., Brenke, N., Andres, H.-G., Brix, S., Guerrero- Kommritz,  J.,   Mu¨ hlenhardt-Siegel,    U.,   Wa¨ gele,  J.-W.,
+2005.  Diversity  of  peracarid   crustaceans   (Malacostraca) from  the abyssal  plain  of the Angola  Basin.  Org.  Divers. Evol. 5 (Suppl. 1), 105–112.
+Brenke,  N.,  Brix,  S.,  Knuschke,   T.,  2005.  A  new  deep-sea isopod  species from  the  Angola  Basin:  Prochelator  ango- lensis sp.  nov.  (Asellota:  Desmosomatidae). Org.  Divers. Evol. 5 (Suppl. 1), 179–188.
+Brito,   M.C.,   Nu´n˜ ez,  J.,  Bacallado,   J.J.,   Ocan˜ a,  O.,  1996.
+Ane´lidos  poliquetos   de   Canarias:   Orden   Phyllodocida
+(Chrysopetalidae, Pisionidae,  Glyceridae,  Sphaerodoridae, Hesionidae  y  Pilargidae).  In:  Llina´s, O.,  Gonza´lez, J.A., Rueda,  M.J. (Eds.), Oceanograf´ıa y Recursos Marinos  en el Atla´ntico Centro-Oriental. Monogr. Inst.  Canario   Cienc. Mar.  1, pp. 157–179.
+Bro¨ hldick,   K.S.T.,    2005.   A   new   taxon    of   Idyanthidae (Copepoda,  Harpacticoida)  from   the   deep   sea  of  the Angola  Basin. Org. Divers. Evol. 5 (Suppl. 1), 43–57.
+Bro¨ keland,  W.,  Wa¨gele,  J.W.,  2004.  Redescription of  three species of Haploniscus Richardson, 1908 (Isopoda,  Asello- ta,  Haploniscidae) from  the  Angola  Basin.  Org.  Divers. Evol. 4, 237–239.
+Busch, W., 1851. Beobachtungen u¨ ber Anatomie und Entwicklung einiger wirbellosen Seethiere. August Hirschwald,  Berlin.
+Buzhinskaja,  G.N.,  2001. Class Polychaeta.  In: Sirenko,  B.I. (Ed.),   List   of   Species   of   Free-living   Invertebrates   of Eurasian   Arctic  Seas and  Adjacent  Deep  Waters.  Issled. Fauny  Morei  (= Explor.  Fauna Seas). 51(59), 52–66.
+Buzhinskaja,  G.N.,  2004. Class Polychaeta,  In: Sirenko,  B.I. (Ed.),   Fauna  and   ecosystems   of  the   Laptev   Sea  and adjacent   deep  waters  of  the  Arctic  Basin,  pt.  II.  Issled. Fauny  Morei  (= Explor.  Fauna Seas). 54(62), 120–127.
+Chun,    C.,   1888.   Die   pelagische   Thierwelt   in   gro¨ sseren Meerestiefen und ihre Beziehungen zu der Oberﬂa¨ chenfau- na. Bibl. Zool. 1, 1–66 pl. 1–5.
+Corliss,   J.B.,   Dymond,   J.,   Gordon,  L.I.,   Edmond,   J.M., Herzen,  R.P.V.,  Ballard,  R.D.,  Green,  K.,  Williams,  D.,
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428                                                           421
+
+Bainbridge,  T.H.,  Crane,  K., Vanandel,  T.H.,  1979. Submarine  thermal  springs on the Galapagos rift. Science
+203, 1073–1083.
+Cristobo,  F.J.,  Urgorri,  V., R´ıos, P., 2005. Three new species of carnivorous deep-sea sponges from the DIVA-1 expedi- tion  in  the  Angola  Basin  (South  Atlantic).  Org.  Divers. Evol. 5 (Suppl. 1), 203–213.
+Dahlgren,  T.G., 1996. Two new species of Dysponetus (Polychaeta:  Chrysopetalidae) from  Italy  and  Papua  New Guinea.  Proc. Biol. Soc. Wash. 109, 575–585.
+Dahlgren,  T.G.,  Glover,  A.G.,  Baco,  A., Smith,  C.R.,  2004.
+Fauna of  whale  falls:  systematics  and  ecology  of  a  new polychaete   (Annelida:   Chrysopetalidae)  from   the   deep Paciﬁc Ocean. Deep-Sea Res. I 51, 1873–1887.
+Dahlgren,  T.G.,  Pleijel, F., 1995. On the generic allocation  of Chrysopetalum caecum Langerhans, 1880 (Polychaeta, Chrysopetalidae).    Mitt.     Hamb.     Zool.     Mus.     Inst., Erga¨nz.bd.  92, 159–173.
+Dales,  R.P.,  1955. The evolution  of the pelagic alciopid  and phyllodocid   polychaetes.  Proc.  Zool.  Soc.  London. 125,
+411–420.
+Dales,  R.P.,  1957a. Pelagic polychaetes  of the Paciﬁc Ocean.
+Bull. Scripps Inst. Oceanogr.  7, 99–168.
+Dales,   R.P.,   1957b.  Pelagic  polychaetes   from   the  Bay  of
+Biscay. Ann. Mag. Nat.  Hist.,  12th Ser. 10,, 661–664. Dales,   R.P.,   Peter,   G.,   1972.  A  synopsis   of  the   Pelagic
+Polychaeta.  J. Nat.  Hist. 6, 55–92.
+Day,   J.H.,    1963a.   Polychaete    Fauna   of   South    Africa: part 7. Species from depths between 1,000 and 3,330 metres west   of   Cape   Town.   Ann.   South   African   Mus.   46,
+353–371.
+Day,  J.H.,   1963b.  The  polychaete   fauna   of  South   Africa. part   8:  new   species   and   records   from   grab   samples and  dredgings.   Bull.  Brit.  Mus.  (Nat.   Hist.),   Zool.  10,
+381–445.
+Day, J.H., 1967. A Monograph on the Polychaeta  of Southern Africa. Part  I. Errantia and Part  II. Sedentaria.  Brit. Mus. (Nat.  Hist.),  London, Publ. 656, 1–878.
+Desbruye`res, D., 1980. Sphaerodoridae (Anne´lides Polyche`tes)
+profonds  du  Nord-Est Atlantique. Bull. Mus.  Natl.  Hist. Nat.,  Paris, 4me Se´r., Sect. A 2, 109–128.
+Desbruye`res,   D.,   Segonzac,   M.,   Bright,   M.   (Eds.),   2006.
+Handbook of Deep-Sea Hydrothermal Vent Fauna, 2nd ed. Denisia 18, pp. 1–544.
+Desbruye`res,   D.,   Toulmond,  A.,  1998.  A  new  species  of
+hesionid   worm,  Hesiocaeca  methanicola  sp.  nov.  (Poly- chaeta:  Hesionidae),  living in ice-like methane  hydrates  in the deep Gulf of Mexico. Cah.  Biol. Mar.  39, 93–98.
+Detinova,  N.N.,  1985. Polychaetous  annelids of Reykjanes  Ridge (North  Atlantic)  [in Russian].  Trudy  Inst.  Okean.  (= Trans. P.P. Shirshov Inst. Oceanol.) 120, 96–136.
+Ebbesmeyer,    C.C.,   Ingraham   Jr.,   W.J.,   1994.   Paciﬁc   toy
+spill fuels ocean current  pathways  research.  Earth  in Space 7 (2), 7–9.
+Ehlers,  E.,  1913. Die  Polychaeten-Sammlung der  Deutschen Su¨ dpolar-Expedition  1901–1903,  In:   Drygalski,   E.   von (Ed.), Deutsche Su¨ dpolar-Expedition, 1901–1903, Bd. XIII, Zool. 5(4), 397–598, pl. 26–46.
+Eibye-Jacobsen, D.,  1991. A Revision  of Eumida Malmgren,
+1865 (Polychaeta:  Phyllodocidae). Steenstrupia  17, 81–140.
+Eibye-Jacobsen, D., 1993. On the phylogeny  of the Phyllodo- cidae (Polychaeta  Annelida):  an alternative.  Z. Zool.  Syst. Evol.forsch.  31, 174–197.
+Eklo¨ f, J., Pleijel, F., Sundberg,  P., 2007. Phylogeny of benthic Phyllodocidae   (Polychaeta)   based  on  morphological and molecular  data.  Mol. Phyl. Evol. 45, 261–271.
+Eliason, A., 1951. Polychaeta.  Rep. Swedish Deep-Sea Exped.
+1947–1948. Zool. 2 (11), 129–148 pl. 1–2.
+Eliason,  A., 1962. Die Polychaeten  der  Skagerak-Expedition
+1933. Zool. Bidr. Uppsala  33, 207–293.
+Emson,  R.H.,  Young,  C.M.,  Paterson,   G.L.J.,   1993. A  ﬁre worm with a sheltered life: studies of Benthoscolex cubanus Hartman  (Amphinomidae), an  internal   associate   of  the bathyal   sea-urchin   Archeopneustes  hystrix   (A.  Agassiz,
+1880). J. Nat.  Hist. 27, 1013–1028.
+Fauchald,  K.,   1972.  Benthic   polychaetous  annelids   from deep water  off western  Mexico  and  adjacent  areas  in the eastern  Paciﬁc Ocean. Allan Hancock  Monogr. Mar.  Biol.
+7, 1–575.
+Fauchald,  K.,  1974.  Sphaerodoridae  (Polychaeta:   Errantia)
+from world-wide areas. J. Nat.  Hist. 8, 257–289.
+Fauchald, K., 1977a. The polychaete  worms.  Deﬁnitions  and keys to the orders, families and genera. Nat. Hist. Mus. Los Angeles Co., Sci. Ser. 28, 1–188.
+Fauchald,  K.,  1977b.  Some  nereid  polychaetes   from  deep water. In: Reish, D.J., Fauchald, K. (Eds.), Essays on Polychaetous Annelids  in Memory  of Dr.  Olga Hartman. Allan  Hancock  Foundation, University  of Southern  Cali- fornia  Los Angeles, pp. 157–171.
+Fauchald, K.,  Hancock, D.R.,  1981. Deep-water  polychaetes from   a   transect    off   central   Oregon.   Allan   Hancock Monogr. Mar.  Biol. 11, 1–73.
+Fauchald, K., Jumars,  P.A., 1979. The diet of worms: a study of polychaete  feeding guilds. Annu.  Rev. Oceanogr.  Mar. Biol. 17, 193–284.
+Fauchald, K.,  Rouse,  G.,  1997. Polychaete  systematics:  past and present.  Zool. Scr. 26, 71–138.
+Fauvel,    P.,   1913.   Quatrie`me    note    pre´liminaire   sur   les
+Polyche`tes provenant des campagnes  de l’Hirondelle  et de la Princesse-Alice,  ou  de´pose´es dans  le Muse´e Oce´anogra- phique de Monaco.  Bull. Mus. Oce´anogr. Monaco  270, 1–80. Feigenbaum, D.,  1979. Predation on  chaetognaths by typh- loscolecid polychaetes,  one explanation for headless speci-
+mens. J. Mar.  Biol. Ass. UK  59, 631–633.
+Ferna´ndez-A´ lamo, M.A.,  2000. Tomopterids (Annelida:  Poly- chaeta) from the eastern tropical  Paciﬁc Ocean. Bull. Mar. Sci. 67, 45–53.
+Ferna´ndez-A´ lamo,  M.A.,  2002. Composition and  distribution of Lopadorhynchidae (Annelida-Polychaeta) in the eastern tropi- cal Paciﬁc Ocean. In: Fa¨rber Lorda,  J. (Ed.), Oceanography of the Eastern  Paciﬁc II. CICESE,  pp. 41–59.
+Ferna´ndez-A´ lamo,  M.A.,  2006. Composition, abundance and distribution of holoplanktonic polychaetes from the ex- pedition   ‘‘El  Golfo   6311-12’’ of  Scripps   Institution  of Oceanography. Sci. Mar.  70S3, 209–215.
+Folmer,  O., Black,  M.,  Hoeh,  W., Lutz,  R.,  Vrijenhoek,  R.,
+1994. DNA  primers for ampliﬁcation of mitochondrial cytochrome  c oxidase subunit I from diverse metazoan invertebrates. Mol. Mar.  Biol. Biotech. 3, 294–299.
+422
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428
+
+Friedrich,  H., 1950a. Beitra¨ ge zur Kenntnis  der Polycha¨ tenfa- milie Typhloscolecidae.   (Die  pelagischen  Polychaeten  der
+’’Meteor’’-Expedition, II.) Zoolog. Jahrb.,  Abt. Syst. O¨ kol. Geogr.  Tiere 79, 309–320.
+Friedrich,  H., 1950b. Vorkommen und Verbreitung  der pelagischen   Polychaeten    im   Atlantischen   Ozean.   Auf
+Grund  der Fa¨ nge der ’’Meteor’’-Expedition. Kieler Meeres- forsch. 7, 5–23.
+Gad,  G.,  2005a. Giant  Higgins-larvae  with  paedogenetic  repro- duction from the deep sea of the Angola Basin—evidence for a new life cycle and  for  abyssal  gigantism  in Loricifera?  Org. Divers. Evol. 5 (Suppl. 1), 59–75.
+Gad,  G., 2005b. A parthenogenetic, simpliﬁed adult in the life cycle of Pliciloricus pedicularis sp. n. (Loricifera)  from  the deep sea of the Angola Basin (Atlantic).  Org. Divers. Evol.
+5 (Suppl. 1), 77–103.
+Gardiner, S.L.,  1976 (‘‘1975’’). Errant polychaete  annelids  from
+North  Carolina.  J. Elisha Mitchell Sci. Soc. 91, 77–220. Gathof,   J.M.,    1984.   Chapter    34:   Family    Lacydoniidae
+Bergstro¨ m   1814.  In:   Uebelacker,   J.M.,   Johnson,   P.G. (Eds.), Taxonomic  Guide  to the Polychaetes  of the North- ern Gulf of Mexico, Vol. 5. Vittor & Assoc., Metairie,  LA, pp. 1–5.
+Glasby, C.J., 2000a. Family Pilargidae. In: Beesley, P.L., Ross, G.J.B.,   Glasby,   C.J.   (Eds.),   Polychaetes   &  Allies:  The Southern  Synthesis. Fauna of Australia,  A Polychaeta, Myzostomida, Pogonophora, Echiura,  Sipuncula.,  Vol. 4. CSIRO  Publishing,  Melbourne, pp. 148–150.
+Glasby,   C.J.,   2000b.   Family   Syllidae.   In:   Beesley,  P.L., Ross,    G.J.B.,     Glasby,    C.J.    (Eds.),    Polychaetes     & Allies:   The   Southern    Synthesis.   Fauna  of   Australia, A Polychaeta,  Myzostomida, Pogonophora, Echiura, Sipuncula.,    Vol.    4.    CSIRO    Publishing,    Melbourne, pp. 161–167.
+Grassle, J.F., 1987. The ecology of deep-sea hydrothermal vent communities.  Adv. Mar.  Biol. 23, 301–362.
+Gravier,    C.,   1911.   Expe´dition   artarctique   franc- aise   du
+‘‘Pourquoi-Pas’’,  dirige´e par  le Dr.  J.-B.  Charcot   (1908–
+1910). Espe`ces nouvelles d’Anne´lides Polyche`tes. Bull. Mus. Natl.  Hist. Nat.  17, 310–316.
+Greeff,   R.,   1876.   Untersuchungen   u¨ ber   die   Alciopiden.
+Nova   Acta   Ksl.   Leop.-Carol.  Dt.   Akad.   Naturf.   39,
+34–132.
+Greeff, R., 1879. Ueber  pelagische Anneliden  von der Ku¨ ste der canarischen  Inseln. Z. Wiss. Zool. 32, 237–283 pl. 13–15.
+Greeff, R., 1882. U¨ ber die rosettenfo¨ rmigen Leuchtorgane der
+Tomopteriden und zwei neue Arten  von Tomopteris. Zool. Anz. 116, 1–4.
+Greeff, R., 1885. U¨ ber die pelagische Fauna an den Ku¨ sten der
+Guinea-Inseln. Z. Wiss. Zool. 42, 432–458 pl. 12–14. Guerrero-Kommritz, J., 2003a. Portaratruma, a new genus of
+deep-sea  Tanaidacea (Crustacea)  with  description  of  two
+new species. Zootaxa  282, 1–14.
+Guerrero-Kommritz, J., 2003b. Agathotanaididae (Crustacea: Tanaidacea) from the Angola  Basin. Zootaxa  330, 1–15. Guerrero-Kommritz,  J.,   2005.   Notes   on   the   Tanaidacea
+(Crustacea:  Peracarida) of the Angola  Basin. Org. Divers.
+Evol. 5 (Suppl. 1), 171–177.
+Guerrero-Kommritz, J., B"az˙ewicz-Paskowycz, M., 2004. New species of Tanaella Norman et Stebbing, 1886 (Tanaidacea:
+Crustacea)   from  the  deep-sea  of  the  Antarctic   and  the
+Angola  Basin. Zootaxa  459, 1–20.
+Guerrero-Kommritz, J., Heard,  R.W., 2003. A new genus and species of deep-sea apseudomorph tanaidacean (Crustacea: Malacostraca: Peracarida) from  the  Angola  Basin.  Mitt. Hamb.  Zool. Mus. Inst. 100, 127–137.
+Guerrero-Kommritz,  J.,   Schmidt,   A.,   Brandt,    A.,   2002.
+Paranarthura Hansen  1913 (Crustacea:  Tanaidacea) from the  Angola  Basin,  description  of Paranarthura angolensis n. sp. Zootaxa  116, 1–12.
+Halanych,   K.M.,   Cox,  L.N.,   Struck,   T.H.,   2007.  A  brief review  of  holopelagic  annelids.  Integr.   Comp.  Biol.  47,
+872–879.
+Halanych,  K.M.,  Janosik,  A.M.,  2006. A review of molecular markers  used for  annelid  phylogenetics.  Int.  Comp.  Biol.
+46, 533–543.
+Hartman,  O.,   1964.   Polychaeta    Errantia  of   Antarctica.
+Antarct.  Res. Ser. 3, 1–131.
+Hartman, O., 1965. Deep-water  benthic polychaetous annelids off  New  England  to  Bermuda  and  other  North  Atlantic areas.  Vol. 28, Allan  Hancock  Found. Publ.,  Occas. Pap. pp. 1–378.
+Hartman, O., 1967. Polychaetous  annelids collected by the USNS Eltanin  and Staten Island cruises, chieﬂy from Antarctic  Seas. Allan Hancock  Monogr. Mar.  Biol. 2, 1–387.
+Hartman, O.,  1971. Abyssal  polychaetous annelids  from  the Mozambique Basin off Southeast  Africa,  with a compen- dium  of  abyssal  polychaetous annelids  from  world-wide areas. J. Fish. Res. Bd. Can. 28, 1407–1428.
+Hartman,   O.,   1978.   Polychaeta    from   the   Weddell   Sea Quadrant, Antarctica. Biology  of  the  Antarctic  Seas VI. Antarct.  Res. Ser. 26 (4), 125–223.
+Hartman, O., Fauchald, K.,  1971. Deep-water  benthic  poly- chaetous  annelids off New England  to Bermuda  and other North  Atlantic areas Part II. Allan Hancock  Monogr. Mar. Biol. 6, 1–327.
+Hartmann-Schro¨ der, G., 1974. Polychaeten  von Expeditionen der  ‘‘Anton  Dohrn’’  in  Nordsee  und  Skagerrak. Vero¨ ff. Inst. Meeresforsch.  Bremerh.  14, 169–274.
+Hartmann-Schro¨ der,  G.,   1975.  Polychaeten   der  Iberischen
+Tiefsee, gesammelt auf der 3. Reise der METEOR im Jahre
+1966. Mitt.  Hamb.  Zool. Mus. Inst. 72, 47–73.
+Hartmann-Schro¨ der,   G.,   1977a.  The  genera   Ceratocephale Malmgren,     Olganereis    n.    gen.,    and    Profundilycastis n.  gen.  (Nereidae,  Polychaeta)   with  a  key  to  the  nereid genera without  chitinous paragnaths. In: Reish, D.J., Fauchald, K.  (Eds.),  Essays on  Polychaetous Annelids  in Memory  of Dr.  Olga  Hartman. Allan  Hancock  Founda- tion,   University   of  Southern   California,  Los   Angeles, pp. 141–155.
+Hartmann-Schro¨ der,    G.,    1977b.    Profundilycastis    profundus (Hartman, 1965) (Nereidae,  Polychaeta.  Wiederbeschreibung des Holotypus. Mitt.  Hamb.  Zool. Mus. Inst. 74, 45–48.
+Hartmann-Schro¨ der,  G.,  1979. Die  Polychaeten  der  ’’
+tischen Kuppenfahrt’’ von F.S. ’’
+1.  Proben   aus   Schleppgera¨ ten.   Meteor   Forsch.-Ergeb.,
+Reihe D Biol. 31, 63–90.
+Hartmann-Schro¨ der, G., 1983. Zur Kenntnis  einiger Foramini- ferengeha¨use bewohnender Polychaeten aus dem Nordost- atlantik. Mitt.  Hamb.  Zool. Mus. Inst. 80, 169–176.
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428                                                           423
+
+Hartmann-Schro¨ der,   G.,   1996.   Annelida,    Borstenwu¨ rmer, Polychaeta.  In: Die Tierwelt Deutschlands und der Angrenzenden  Meeresteile nach ihren Merkmalen  und nach ihrer Lebensweise, 2. Auﬂ. 58, 1–648.
+Hartmann-Schro¨ der, G., Rosenfeldt,  P., 1992. Die Polychaeten
+der   Polarstern’’-Reise ANT V/1 in die Antarktis 1986. Teil
+1:   ’’                           bis Iphitimidae.  Mitt.  Hamb.  Zool. Mus.
+Inst. 89, 85–124.
+Hessle, C., 1925. Einiges u¨ ber die Hesioniden  und die Stellung der Gattung Ancistrosyllis. Arkiv Zool. 17A (10), 1–36 pl. 1–2. Hilbig, B., 1997a. 9. Family Hesionidae  Sars, 1862. In: Blake,
+J.A., Hilbig, B., Scott, P.H. (Eds.), Taxonomic  Atlas of the
+Benthic  Fauna  of  the  Santa   Maria   Basin  and  Western Santa  Barbara   Channel,   vol.  4,  rev.  ed.—The  Annelida Part  1. Oligochaeta  and Polychaeta:  Phyllodocida (Phyllo- docidae  to  Paralacydoniidae). Santa  Barbara  Museum  of Natural History,  Santa  Barbara, CA, pp. 235–260.
+Hilbig,  B.,  1997b.  12.  Family  Nereididae   Johnston,  1845.  In: Blake, J.A., Hilbig, B., Scott, P.H. (Eds.), Taxonomic  Atlas of the  Benthic  Fauna of  the  Santa  Maria  Basin  and  Western Santa Barbara Channel,  vol. 4, rev. ed.—The Annelida Part 1. Oligochaeta and Polychaeta: Phyllodocida (Phyllodocidae to Paralacydoniidae). Santa Barbara Museum of Natural History, Santa Barbara, CA, pp. 291–316.
+Hilbig,  B.,  1997c.  13.  Family  Nephtyidae Grube,   1850.  In: Blake, J.A., Hilbig, B., Scott, P.H. (Eds.), Taxonomic  Atlas of   the    Benthic    Fauna   of   the    Santa    Maria    Basin and Western Santa  Barbara  Channel,  vol. 4, rev. ed.—The Annelida Part 1. Oligochaeta  and Polychaeta: Phyllodocida (Phyllodocidae to  Paralacydoniidae). Santa  Barbara   Mu- seum of Natural History,  Santa Barbara, CA, pp. 317–349.
+Hilbig, B., 2005. Melinnopsis angolensis (Annelida: Polychaeta: Ampharetidae), a new species from the Angola Basin. Org. Divers. Evol. 5 (Suppl. 1), 215–220.
+Hillis, D.M.,  Dixon,  M.T.,  1991. Ribosomal DNA:  molecular evolution   and  phylogenetic   inference.  Q.  Rev.  Biol.  66,
+411–453.
+Horst,   R.,   1910.  On   the   genus   Chloeia   with   some   new species   from   the   Malay-Archipelago,   partly    collected by   the    Siboga-Expedition.   Notes    Leyden    Mus.    32,
+169–175.
+Horst, R., 1912. Polychaeta  Errantia of the Siboga Expedition.
+Part I Amphinomidae. Siboga-Exped.  Uitk. Zool. Bot. Oceanogr.  Geol. Geb. Verz. Nederl.  Oost-Indie¨  1899–1900
+24a, 1–43, pl. 1–9.
+Hutchings,  P.A., 2000a. Family Amphinomidae. In: Beesley, P.L., Ross,  G.J.B.,  Glasby,  C.J.  (Eds.),  Polychaetes  & Allies: The Southern  Synthesis.  Fauna of Australia,  vol. 4A Polychaeta, Myzostomida,   Pogonophora,   Echiura,    Sipuncula. CSIRO Publishing,  Melbourne, pp. 107–110.
+Hutchings,   P.A.,  2000b.  Family  Aphroditidae.  In:  Beesley, P.L.,   Ross,   G.J.B.,    Glasby,    C.J.   (Eds.),   Polychaetes
+&  Allies:  The  Southern   Synthesis.  Fauna  of  Australia, vol. 4A Polychaeta,  Myzostomida, Pogonophora, Echiura, Sipuncula.  CSIRO  Publishing,  Melbourne, pp. 117–120.
+Hylleberg,  J., Nateewathana, A., 1988. Polychaetes  of Thailand.
+Nereididae     (Part     2):    Ceratocephale     and    Gymnonereis, with description of two new species and notes on the subfamily Gymnonereidinae.  Phuket   Mar.   Biol.  Cent.  Res.  Bull.  49,
+1–20.
+ICZN=International Commission  on  Zoological  Nomencla- ture,  1999.  International Code  of  Zoological  Nomencla- ture,  4th  ed.  International  Trust  for  Zoological Nomenclature, London.
+Imajima,  M.,  Hartman, O., 1964. The polychaetous annelids of Japan.  Part I. Allan Hancock  Found. Publ., Occas. Pap.
+26, 1–237.
+Jannasch, H.W.,  1985. Leben in der Tiefsee auf chemosynthe- tischer Basis. Naturwissenschaften 72, 285–290.
+Jannasch, H.W., Mottl,  M.J., 1985. Geomicrobiology of deep- sea hydrothermal vents. Science 229, 717–725.
+Jime´nez-Cueto,  S.,  Sua´rez-Morales,  E.,  1999.  Tomopterids
+(Polychaeta:  Tomopteridae) of the Western Caribbean Sea. Bull. Inst. R. Sci. Nat.  Belg., Biol. 69, 5–14.
+Jo¨ rdens, J., Struck, T., Purschke, G., 2004. Phylogenetic inference regarding  Parergodrilidae and Hrabeiella periglandulata (‘Poly- chaeta’ Annelida)  based on 18S rDNA,  28S rDNA  and COI sequences. J. Zool. Syst. Evol. Res. 42, 270–280.
+Johnson,   H.P.,  1901.  The  Polychaeta   of  the  Puget  Sound region. Proc. Boston Soc. Nat.  Hist. 29, 381–437.
+Jones,    M.L.    (Ed.),    1985.   Hydrothermal   Vents   of   the
+Eastern   Paciﬁc:  an  overview,  Biol.  Soc.  Wash.,  Bull.  6,
+1–547.
+Kato,  T., Pleijel, F., 2003. A revision of Paranaitis Southern,  1914 (Polychaeta:  Phyllodocidae).  Zool. J. Linn. Soc. 138, 379–429. Katzmann,  W.,  Laubier,   L.,  Ramos,   J.,  1974.  Pilargidae (Anne´lides Polyche`tes errantes) de Me´diterrane´e. Bull. Inst.
+Oce´anogr., Monaco  71 (1428), 1–40.
+Kirkegaard, J.B., 1980. Abyssal benthic  polychaetes  from the northeast Atlantic  Ocean  southwest  of  the  British  Isles. Steenstrupia  6, 81–98.
+Kirkegaard, J.B., 1983. The Polychaeta  of West Africa.  Part II. Errant  species. 1. Aphroditidae to Nereididae.  Atlantide Rep. 13, 181–240.
+Kirkegaard, J.B.,  1994.  The  biogeography of  some  abyssal Polychaetes.  In:  Dauvin,   J.-C.,  Laubier,   L.,  Reish,  D.J. (Eds.),  Actes  de  la  4e`me  Confe´rence  Internationale  des Polyche`tes. Me´m. Mus. Natn.  Hist. Nat.  162, pp. 471–477. Kirkegaard,  J.B.,   1995.  Bathyal   and   abyssal   polychaetes
+(errant  species). Galathea Rep. 17, 7–56.
+Kiseleva, M.I.,  1996. On a new name of the genus Victoriella (Polychaeta,   Chrysopetallidae [sic!]) [in Russian  with English summary]. Zool. Zh. 75, 1092.
+Knox,   G.A.,   Cameron,   D.B.,  1998.  The  marine   fauna   of the  Ross  Sea:  Polychaeta.   NIWA  Biodivers.  Mem.  108,
+1–125.
+Kojima,   S.,  Segawa,   R.,   Hashimoto,  J.,   Ohta,   S.,  1997.
+Molecular  phylogeny  of vestimentiferans  collected around Japan,  revealed  by the nucleotide  sequences of mitochon- drial DNA.  Mar.  Biol. 127, 507–513.
+Kro¨ ncke,  I.,  Tu¨ rkay,   M.,  2003.  Structural  and   functional aspects  of  the  benthic  communities  in  the  deep  Angola Basin. Mar.  Ecol. Prog. Ser. 260, 43–53.
+Kudenov,  J.D., 1987. Five new species of Sphaerodoridae (Annelida:   Polychaeta)   from  the  Gulf  of  Mexico.  Proc. Biol. Soc. Wash. 100, 927–935.
+Kudenov,  J.D.,  1993. Amphinomidae and Euphrosinidae (Anne-
+lida:  Polychaeta)   principally  from  Antarctica,  the  Southern
+Ocean,   and   Subantarctic  regions.   Antarct.   Res.   Ser.  58,
+93–150.
+424
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428
+
+Kudenov,   J.D.,   1995.  7.  Family  Amphinomidae Lamarck,
+1818.  In:   Blake,   J.A.,   Hilbig,   B.,  Scott,   P.H.   (Eds.), Taxonomic  Atlas of the Benthic Fauna of the Santa Maria Basin and Western Santa Barbara Channel, vol. 5—The Annelida  Part  2.  Polychaeta:  Phyllodocida (Syllidae  and Scale-Bearing   Families),   Amphinomida,  and   Eunicida. Santa    Barbara    Museum    of   Natural   History,    Santa Barbara, CA, pp. 207–215.
+Langerhans, P., 1880. Die Wurmfauna Madeiras.  II. Z. Wiss.
+Zool. 33, 271–316 pl. 14–17.
+Laubier,  L., 1975. Lacydonia laureci sp. n., annelide polychete nouvelle de l’e´tage abyssal de Me´diterrane´e Orientale.  Vie Milieu, Se´r. A: Biol. Mar.  25, 75–82.
+Leese,  F.,  Brenke,  N.,  2005.  Chauliodoniscus  coronatus  sp. nov., a new deep-sea species from the Angola Basin (Crustacea,  Isopoda, Asellota,  Janiroidea, Haploniscidae). Org. Divers. Evol. 5 (Suppl. 1), 189–201.
+Levenstein, R.J., 1975. The polychaetous annelids of the deep- sea trenches  of the Atlantic  sector of the Antarctic  Ocean [in Russian].  Trudy  Inst.  Okean.  (= Trans.  P.P.  Shirshov Inst. Oceanol.) 103, 119–142.
+Levinsen, G.M.R., 1879. Om to nye slægter af arctiske chætopode   Annelider.  Vidensk.  Meddel.  Naturh.  Foren. Kjo¨ benhaven  31/32, 9–18, pl. 1.
+Levinsen, G.M.R., 1885. Spolia atlantica.  Om nogle pelagiske Annulata. Vidensk.  Selsk. Skr.,  6. Række,  Naturvidensk. Math.  Afd. 3, 321–344, 1 pl.
+Licher, F., Westheide,  W., 1994. The phylogenetic  position  of the Pilargidae  with a cladistic analysis of the taxon—facts and ideas. In: Dauvin, J.-C., Laubier, L., Reish, D.J. (Eds.), Actes de la 4e`me Confe´rence Internationale des Polyche`tes. Me´m. Mus. Natn.  Hist. Nat.  162, pp. 223–235.
+Lu¨ tzen,   J.,   1961.  Sur   une   nouvelle   espe`ce  de   polyche`te
+Sphaerodoridium commensalis, n. gen., n. spec. (Polychaeta Errantia,  famille   des  Sphaerodoridae)  vivant   en  com- mensal  de  Terebellides  stroemi  Sars.  Cah.  Biol.  Mar.  2,
+409–416.
+Malyutina, M.V., Wa¨gele, J.W., Brenke, N., 2001. New records of little known  deep-sea  Echinothambematidae (Crustacea:  Iso- poda: Asellota) with redescription  of Vemathambema elongata Menzies, 1962 and description  of a new species from the Argentina  Basin. Org. Divers. Evol. 1, 321–322.
+Manaranche, R., Thieffry,  M., Israel,  M., 1980. Effect of the venom  of  Glycera  convoluta on  the  spontaneous quantal release of transmitter. J. Cell Biol. 85, 446–458.
+Martin, D., Alva, V., 1988. Un polyche`te nouveau  Sphaerodorum
+ophiurophoretos  nov.  sp.  (Polychaeta:  Sphaerodoridae), sym- biotique   de  l’ophiure  Amphipholis  squamata   (Delle  Chiaje,
+1828). Bull. Inst. R. Sci. Nat.  Belg., Biol. 58, 45–49.
+Martin,   D.,   Britayev,   T.A.,   1998.  Symbiotic   polychaetes:
+review of known species. Annu. Rev. Oceanogr.  Mar.  Biol.
+36, 217–340.
+Mart´ınez  Arbizu, P., Schminke, H.K.,  2005. DIVA-1 expedition to  the  deep sea of the  Angola  Basin in 2000 and  DIVA-1 workshop  in 2003. Org. Divers. Evol. 5 (Suppl. 1), 1–2.
+Mattson, S., 1981. Burrowing and feeding of Goniada maculata
+Ørsted  (Polychaeta).  Sarsia 66 (1), 49–51.
+McIntosh, W.C.,  1879. On the Annelida  obtained  during  the Cruise of H.M.S.  ‘Valorous’ to Davis Strait in 1875. Trans. Linn. Soc. London, 2nd Ser., Zool. 1, 499–511 pl. 65.
+McIntosh, W.C.,  1885.  Report   on  the  Annelida  Polychæta collected by H.M.S.  Challenger  during  the years 1873–76. Rep.  Sci. Res.  Voyage H.M.S.  Challenger  1873–76. Zool.
+12, 1–554.
+McIntyre,  A.D., Warwick, R.M.,  1984. Meiofauna techniques.
+In:    Holme,    N.A.,    McIntyre,    A.D.    (Eds.),    Methods for   the   Study   of  Marine   Benthos.   Blackwell,  Oxford, pp. 217–244.
+Mettam, C., 1980. On the feeding habits of Aphrodita aculeata and commensal polynoids.  J. Mar.  Biol. Ass. UK 60, 833–834. Monro, C.C.A.,  1930. Polychaete  worms.  Discovery  Rep.  2,
+1–222.
+Monro,  C.C.A.,  1936. Polychaete  worms.  II.  Discovery  Rep.
+12, 59–198.
+Moreira,  J., Cacabelos, E., Troncoso,  J.S., 2004. A new species of   Sphaerodoropsis   (Polychaeta:    Sphaerodoridae)  from north-east  Atlantic,   with  comments   on  other  species  of the genus. J. Mar.  Biol. Ass. UK  84, 995–1000.
+Mu¨ hlenhardt-Siegel,  U.,  2003. A new Cumacea  genus (Crus- tacea:  Peracarida: Diastylidae)  from  the  deep-sea  expedi- tion DIVA-1 with RV ‘‘Meteor’’ to the Angola Basin. Beaufortia  53, 159–165.
+Mu¨ hlenhardt-Siegel,  U.,  2005a. New Cumacea  species (Crus- tacea:  Peracarida) from  the  deep-sea  expedition  DIVA-1 with  RV  ‘‘Meteor’’  to  the  Angola  Basin  in  July  2000. Families  Lampropidae, Bodotriidae. Org. Divers. Evol. 5, (Suppl. 1), 113–130.
+Mu¨ hlenhardt-Siegel,  U.,  2005b. Cumacea  species (Crustacea: Peracarida) from the deep-sea expedition  DIVA-1 with RV
+‘‘Meteor’’  to   the   Angola   Basin   in  July   2000.  Family
+Nannastacidae. Org. Divers. Evol. 5 (Suppl. 1), 131–149. Mu¨ hlenhardt-Siegel,  U.,  2005c. Cumacea  species (Crustacea:
+Peracarida) from the deep-sea expedition  DIVA-1 with RV
+‘‘Meteor’’  to   the   Angola   Basin   in  July   2000.  Family
+Nannastacidae. Org. Divers. Evol. 5 (Suppl. 1), 151–170. Nicholas,  K.B., Nicholas,  H.B. Jr., 1997. GeneDoc:  a Tool for
+Editing   and  Annotating  Multiple   Sequence  Alignments. Software  distributed  by the authors.
+Ockelmann, K.W., Vahl, O., 1970. On the biology of the polychaete   Glycera   alba,   especially   its   burrowing   and feeding. Ophelia 8, 275–294.
+O’Connor,   B.D.S.,   Shin,   P.K.S.,   1983.  Hesiospina   similis (Hessle) (Polychaeta,  Hesionidae)  from  Galway  Bay, west coast  of Ireland,  with  notes  on  its taxonomic  status  and distribution. Cah.  Biol. Mar.  24, 355–361.
+Øresland,  V., Pleijel, F., 1991. An ectoparasitic typhloscolecid polychaete  on the chaetognath Eukrohnia hamata  from the Antarctic  Peninsula.  Mar.  Biol. 108, 429–432.
+Øresland, V., Bray, R.A., 2005. Parasites and headless chaetognaths   in   the   Indian    Ocean.   Mar.    Biol.   147,
+725–734.
+Ørsted,    A.S.,   1842.   Udtog    af   en   beskrivelse   af   Grøn- lands   Annulata  dorsibranchiata.  Naturhist.  Tidsskr.   4,
+109–127.
+Orensanz,  J.M.,  1972. Los  anelidos  poliquetos  de  la  Provincia Biogeograﬁca  Argentina. I. Palmyridae  (= Chrysopetalidae), Amphinomidae y Euphrosinidae. Physis 31 (83), 485–501.
+Orrhage,  L., Eibye-Jacobsen, D., 1998. On the anatomy  of the central  nervous  system of Phyllodocidae  (Polychaeta)  and
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428                                                           425
+
+the  phylogeny  of  phyllodocid  genera:  a  new  alternative. Acta Zool. 79, 215–234.
+Oug,  E.,  1980.  On  feeding  and  behavior   of  Ophiodromus flexuosus  (Delle  Chiaje)   and   Nereimyra   punctata   (O.F. Mu¨ ller) (Polychaeta,  Hesionidae).  Ophelia 19, 175–191.
+Palumbi,  S., Martin,  A., Romano, S., McMillan,  W.O., Stice, L., Grabowski, G., 1991. The Simple Fool’s Guide to PCR. University  of Hawaii,  Honolulu Ver. 2.0.
+Paterson,  G.L.J.,  Glover, A.G.,  2000. A new species of Sigambra (Polychaeta,    Pilargidae)   from   the   abyssal   plains   of   the NE   Atlantic.   Bull.  Nat.   Hist.   Mus.,   London   (Zool.)   66,
+167–170.
+Paull,  C.K.,  Hecker,  B., Commeau,  R.,  Freemanlynde, R.P., Neumann, C., Corso,  W.P., Golubic,  S., Hook,  J.E., Sikes, E., Curray,  J., 1984. Biological communities  at the Florida escarpment  resemble hydrothermal vent taxa.  Science 226,
+965–967.
+Pettibone,  M.H.,  1963. Marine  polychaete  worms of the New England  region. 1. Families Aphroditidae through  Trocho- chaetidae.   US   Natl.   Mus.,   Smithson.   Inst.,   Bull.  227,
+1–356.
+Pettibone,  M.H.,  1966. Revision  of the Pilargidae  (Annelida: Polychaeta),  including descriptions of new species, and redescription of the pelagic Podarmus ploa Chamberlin (Polynoidae).  Proc. US Natl.  Mus. 118 (3525), 155–207.
+Pettibone,     M.H.,     1970.    Polychaeta     Errantia    of    the Siboga-Expedition. Part  IV:  some  additional  polychaetes of the Polynoidae, Hesionidae, Nereidae, Goniadidae, Eunicidae,   and   Onuphidae,  selected  as  new  species  by the    late    Dr.    Hermann   Augener    with    remarks    on other   related   species.  Siboga-Exped.   Monogr.  24  (1d),
+199–270.
+Pettibone,  M.H.,  1971. Revision  of some species referred  to Leptonereis,  Nicon,  and  Laeonereis  (Polychaeta:   Nereidi- dae). Smithson.  Contr.  Zool. 104, 1–53.
+Piatkowski,   U.,   Diekmann,  R.,   2005.  A  short   note   on  the cephalopods  sampled in the Angola Basin during the DIVA-1 expedition.  Org. Divers. Evol. 5 (Suppl. 1), 227–230.
+Pleijel, F., 1988. Phyllodoce (Polychaeta,  Phyllodocidae) from northern Europe.  Zool. Scr. 17, 141–153.
+Pleijel, F., 1991. Phylogeny and classiﬁcation  of the Phyllodo-
+cidae (Polychaeta).  Zool. Scr. 20, 225–261.
+Pleijel,  F.,   1993a.  Polychaeta   Phyllodocidae.   Mar.   Invert.
+Scandinavia  8, 1–159.
+Pleijel, F.,  1993b. Taxonomy  of European species of Amphi- duros and Gyptis (Polychaeta:  Hesionidae).  Proc. Biol. Soc. Wash. 106, 158–181.
+Pleijel, F.,  1993c. Gyptis crypta,  a new hesionid  species from the  USA  east  coast,  with  a  redescription   of  G.  vittata Webster  & Benedict,  1887 (Annelida:  Polychaeta).   Proc. Biol. Soc. Wash. 106, 237–242.
+Pleijel, F.,  1998. Phylogeny  and  classiﬁcation  of Hesionidae
+(Polychaeta).  Zool. Scr. 27, 89–163.
+Pleijel, F.,  2001a. Amphinomida Lamarck, 1818. In:  Rouse, G.W.,  Pleijel,  F.  (Eds.),  Polychaetes.   Oxford  University Press, Oxford,  pp. 145–147.
+Pleijel, F., 2001b. Aphroditoidea Malmgren,  1867. In: Rouse, G.W.,  Pleijel,  F.  (Eds.),  Polychaetes.   Oxford  University Press, Oxford,  pp. 73–76.
+Pleijel,  F.,  2001c.  Chrysopetalidae Ehlers,  1864.  In:  Rouse, G.W.,  Pleijel,  F.  (Eds.),  Polychaetes.   Oxford  University Press, Oxford,  pp. 89–90.
+Pleijel, F.,  2001d. Glyceriformia  Fauchald, 1977. In:  Rouse, G.W.,  Pleijel,  F.  (Eds.),  Polychaetes.   Oxford  University Press, Oxford,  pp. 111–114.
+Pleijel, F.,  2001e. Hesionidae  Grube,  1850. In: Rouse,  G.W., Pleijel, F. (Eds.), Polychaetes. Oxford University Press, Oxford,  pp. 91–93.
+Pleijel, F.,  2001f. Lacydonia  Marion,  1874. In: Rouse,  G.W., Pleijel, F. (Eds.), Polychaetes. Oxford University Press, Oxford,  pp. 117–118.
+Pleijel,  F.,  2001g.  Lopadorhynchidae  Clapare`de,   1868.  In:
+Rouse,   G.W.,   Pleijel,   F.   (Eds.),   Polychaetes.   Oxford
+University  Press, Oxford,  pp. 119–120.
+Pleijel,   F.,   2001h.   ‘Minor’   holopelagic   Phyllodocida.  In: Rouse,   G.W.,   Pleijel,   F.   (Eds.),   Polychaetes.   Oxford University  Press, Oxford,  pp. 121–123.
+Pleijel, F.,  2001i. Nephtyidae Grube,  1850. In: Rouse,  G.W., Pleijel, F. (Eds.), Polychaetes. Oxford University Press, Oxford,  pp. 127–129.
+Pleijel, F., 2001j. Nereididae  Johnston, 1865. In: Rouse, G.W., Pleijel, F. (Eds.), Polychaetes. Oxford University Press, Oxford,  pp. 96–98.
+Pleijel,  F.,  2001k.  Phyllodocidae   O¨ rsted,  1843a.  In:  Rouse,
+G.W.,  Pleijel,  F.  (Eds.),  Polychaetes.   Oxford  University
+Press, Oxford,  pp. 132–135.
+Pleijel,  F.,  2001l.  Pilargidae  Saint-Joseph, 1899.  In:  Rouse, G.W.,  Pleijel,  F.  (Eds.),  Polychaetes.   Oxford  University Press, Oxford,  pp. 99–101.
+Pleijel,   F.,   2001m.   Sphaerodoridae  Malmgren,    1867.   In:
+Rouse,   G.W.,   Pleijel,   F.   (Eds.),   Polychaetes.   Oxford
+University  Press, Oxford,  pp. 136–138.
+Pleijel,  F.,  2001n.  Syllidae  Grube,   1850.  In:  Rouse,  G.W., Pleijel, F. (Eds.), Polychaetes. Oxford University Press, Oxford,  pp. 102–105.
+Pleijel, F.,  2001o. Tomopteridae Johnston, 1865. In:  Rouse, G.W.,  Pleijel,  F.  (Eds.),  Polychaetes.   Oxford  University Press, Oxford,  pp. 132–135.
+Pleijel, F., 2004. A revision of Hesiospina (Psamathini, Hesionidae,  Polychaeta).  J. Nat.  Hist. 38, 2547–2566.
+Pleijel, F.,  Dahlgren,  T.G.,  1998. Position  and  delineation  of
+Chrysopetalidae and Hesionidae (Annelida, Polychaeta, Phyllodocida).  Cladistics 14, 129–150.
+Pleijel, F.,  Dales,  R.P.,  1991. Polychaetes:  British  phyllodo-
+coideans,  typhloscolecoideans and tomopteroideans. In: Kermack,   D.M.,  Barnes,  R.S.K.  (Eds.),  Synopses  of  the British Fauna (New Series) 45, 1–202.
+Pleijel, F.,  Fauchald, K.,  1993. Scalispinigera  oculata  Hartman,
+1967 (Scalibregmatidae: Polychaeta.  senior synonym of Lacy- donia antarctica  (Lacydoniidae)  Hartmann-Schro¨ der & Rosen- feldt, 1988. Proc. Biol. Soc. Wash. 106, 673–677.
+Pleijel, F., Rouse,  G.W.,  Ruta,  C., Wiklund,  H., Nygren,  A.,
+2008. Vrijenhoekia balaenophila, a new hesionid polychaete from  a whale fall off California. Zool.  J. Linn.  Soc. 152,
+625–634.
+Pleijel,  F.,  Rouse,  G.,  Nygren,  A.,  2009.  Five  colour  morphs and   three   new  species  of  Gyptis  (Hesionidae,   Annelida) under  a jetty in Edithburgh, South  Australia.  Zool.  Scr. 38,
+89–99.
+426
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428
+
+Posada,    D.,    Crandall,    K.A.,    1998.   ModelTest:    testing the   model   of   DNA    substitution.   Bioinformatics    14,
+817–818.
+Quatrefages,  A.  de,  1866  (‘‘1865’’). Histoire   Naturelle   des
+Annele´s Marins  et d’Eau Douce.  Anne´lides et Ge´phyriens,
+3 vols. plus Atlas. Roret,  Paris.
+Reibisch, J., 1895. Die pelagischen Phyllodociden  und Typhlosco- leciden der Plankton-Expedition. Ergebnisse der in dem Atlantischen   Ocean  von  Mitte  Juli  bis  Anfang   November
+1889 Ausgefu¨ hrten  Plankton-Expedition  der  Humboldt-Stif- tung,   Bd.  2.  Lipsius  &  Tischer,  Kiel  and   Leipzig,  1–63, pl. 1–8.
+Reibisch, J., 1905. Anneliden. Nordisches Plankton, Zool. Teil
+3 (10), 1–10.
+Rice, S.A., 1987. Reproductive biology, systematics, and evolution  in the  polychaete  family  Alciopidae.  Biol. Soc. Wash. Bull. 7, 114–127.
+Rouse, G.W., Goffredi, S.K., Vrijenhoek, R.C., 2004. Osedax: Bone-eating  marine  worms with dwarf males. Science 305,
+668–671.
+Rouse, G.W., Pleijel, F., 2001. Polychaetes. Oxford University
+Press, Oxford.
+Rousset,   V.,  Pleijel,  F.,  Rouse,   G.W.,   Erse´us,  C.,  Siddall, M.E.,  2007. A molecular  phylogeny  of annelids.  Cladistics
+23, 41–63.
+Ruta,   C.,  Nygren,  A.,  Rousset,   V.,  Sundberg,   P.,  Tillier,  A., Wiklund, H., Pleijel, F., 2007. Phylogeny of Hesionidae (Aciculata,    Polychaeta),    assessed   from   morphology,   18S rDNA,   28S  rDNA,   16S  rDNA   and  COI.  Zool.  Scr.  36,
+99–107.
+Salazar-Vallejo,  S.I.,  1986. Pilargidae  (Annelida:  Polychaeta) de  Mexico:  Lista  de  especies,  nueva  especie  y  biograﬁa. Cah.  Biol. Mar.  27, 193–209.
+San Mart´ın, G., 1991. Grubeosyllis and Exogone (Exogoninae, Syllidae,  Polychaeta)   from   Cuba,   the  Gulf  of  Mexico, Florida  and Puerto  Rico, with a revision of Exogone. Bull. Mar.  Sci. 49, 715–740.
+San  Mart´ın, G.,  2003. Annelida,  Polychaeta  II:  Syllidae. In: Ramos,   M.A.      (Ed.),   Fauna  Ibe´rica,  vol.  21.  Museo Nacional  de Ciencias Naturales CSIC, Madrid,  pp. 1–554.
+San Mart´ın, G., 2005. Exogoninae  (Polychaeta:  Syllidae) from Australia  with the description  of a new genus and twenty- two new species. Rec. Aust. Mus. 57, 39–152.
+San   Mart´ın,  G.,   Ceberio,   A.,  Aguirrezabalaga,  F.,   1996.
+Exogone  species (Polychaeta:  Syllidae:  Exogoninae)  from the Capbreton Canyon  (Bay of Biscay, NE Atlantic).  Cah. Biol. Mar.  37, 249–258.
+San Mart´ın, G., Parapar, J., 1990. Exogone acerata  (Exogoninae: Syllidae: Polychaeta),  a new species without  antennae  from the Mediterranean Sea. Proc. Biol. Soc. Wash. 103, 687–690.
+Sars,  M.,  1862.  Uddrag   af  en  af  detaillerede   afbildninger ledsaget udførlig  beskrivelse over følgende norske  Anneli- der. Forh.  Vidensk. Kristiania 1861, 87–95.
+Schmid, C., Brenke, N., Wa¨gele, J.W., 2002. On abyssal isopods (Crustacea:    Isopoda:    Asellota)   from   the   Angola   Basin: Eurycope tumidicarpus n. sp. and redescription  of Acanthocope galathea Wolff, 1962. Org. Divers. Evol. 2, 87–88.
+Schram,  T.A.,  Haaland, B.,  1984.  Larval  development   and metamorphosis   of   Nereimyra    punctata    (O.F.    Mu¨ ller) (Hesionidae,  Polychaeta).  Sarsia 69, 169–181.
+Shaffer, P.L., 1979. The feeding biology of Podarke pugettensis
+(Polychaeta:  Hesionidae).  Biol. Bull. 156, 343–355.
+Smith,   C.R.,   Baco,  A.R.,   2003.  The  ecology  of  whale  falls at  the  deep-sea  ﬂoor.  Annu.  Rev.  Oceanogr.  Mar.  Biol. 41,
+311–354.
+Smith,   C.R.,    Baco,   A.R.,    Glover,    A.G.,    2002.   Faunal succession    on    replicate    deep-sea    whale    falls:    time scales  and  vent-seep  relationships.  Cah.   Biol.  Mar.   43,
+293–297.
+Southern, R.,  1909. Polychaeta  of the  coasts  of Ireland.  II.
+Pelagic Phyllodocidae.  Sci. Invest.,  Dept.  Agr. Tech. Instr. Ireland,  Fish. Branch  3 5, 1–11 pl. 1–3.
+Southward, E.C.,  1982. Bacterial  symbionts  in Pogonophora.
+J. Mar.  Biol. Ass. UK  62, 889–906.
+Støp-Bowitz, C., 1948. Polychaeta  from the ‘‘Michael Sars’’ North Atlantic  deep-sea  expedition  1910. Rep.  Sci. Res.  ‘‘Michael Sars’’ North  Atlantic  Deep-Sea Exped. 5 (8), 1–91.
+Støp-Bowitz,  C., 1949. Polyche´tes pe´lagiques des expe´ditions
+norve´giennes  antarctiques  de  la  )Norvegia*  1927–1928,
+1928–1929 et 1930–1931. Sci. Res. Norw.  Antarctic  Exped.
+1927–1928 et sqq 31, 1–25.
+Støp-Bowitz,  C.,  1951. Polyche´tes pe´lagiques de l’expe´dition sue´doise antarctique 1901–1903. Further Zool. Res. Swed.
+Antarctic  Exped. 1901–1903 4 (7), 1–14.
+Støp-Bowitz,  C., 1977. Polyche´tes pe´lagiques des expe´ditions
+du  ’’Willem   Barendsz’’  1946–1947  et  1947–1948  et  du
+’’Snellius’’ 1929–1930. Zool. Meded.  51, 1–23.
+Støp-Bowitz,  C.,  1984.  A  short  note  on  the  problems  with
+systematics  of  some  pelagic  polychaetes.   In:  Hutchings, P.A.  (Ed.),  Proceedings  of  the  First  International  Poly- chaete  Conference,  Sydney, Australia,  July 1983. Linnean Society New South  Wales, Kingsford,  pp. 86–90.
+Støp-Bowitz,  C., 1992. Polyche´tes Pe´lagiques des Campagnes
+de )l’Ombango* dans  les Eaux  Equatoriales et Tropicales
+Ouest-africaines.  Editions  ORSTROM, Paris.
+Struck, T., Hessling, R., Purschke,  G., 2002. The phylogenetic position  of the  Aeolosomatidae and  Parergodrilidae, two enigmatic  oligochaete-like  taxa  of the  ‘Polychaeta’,  based on molecular data from 18S rDNA  sequences. J. Zool. Syst. Evol. Res. 40, 155–163.
+Swofford,  D.L.,  2002. PAUP*.  Phylogenetic  Analysis  Using Parsimony (*and Other Methods). ver. 4.0b. Sinauer Associates,  Sunderland, MA.
+Tebble, N., 1960. The distribution of pelagic polychaetes in the
+South  Atlantic  Ocean. Discovery  Rep. 30, 161–299. Tebble,   N.,   1962.  The  distribution  of  pelagic  polychaetes
+across  the  North   Paciﬁc  Ocean.  Bull.  Brit.  Mus.  (Nat.
+Hist.),  Zool. 7, 371–492.
+Thompson, J.D.,  Gibson,  T.J., Plewniak, F., Jeanmougin, F., Higgins,   D.G.,   1997.  The  ClustalX   windows   interface: ﬂexible strategies for multiple sequence alignment  aided by quality analysis tools. Nucleic Acids Res. 24, 4876–4882.
+Treadwell,  A.L., 1937. Hemipodia canadensis a new polychae- tous   annelid   from   Nova   Scotia.   J.  Biol.  Bd.  Can.   3,
+348–349.
+Tu¨ rkay, M., 2006. South-East Atlantic  2000 Part 1 Cruise No.
+48, Leg 1, 6 July – 2 August 2000, Walvis Bay – Walvis Bay. Meteor-Ber.  06-5, 1–37.
+Uebelacker,   J.M.,   1984.  Chapter    28:  Family   Hesionidae
+Sars,  1862.  In:  Uebelacker,   J.M.,  Johnson,   P.G.  (Eds.),
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428                                                           427
+
+Taxonomic  Guide to the Polychaetes of the Northern Gulf of Mexico, vol. 4. Vittor & Assoc., Metairie,  LA, pp. 1–39. Uljanin,  M.,  1878. Sur  le genre Sagitella  (N.  Wagn.).  Arch.
+Zool. Exp. Ge´n. 7, 1–32 pl. 1–4.
+Uschakov,  P.V., 1958. Two new species of marine Polychaeta of  the  family  Phyllodocidae   from  abyssal  depths  of  the Kuril-Kamchatka trench  [in Russian].  Trudy  Inst.  Okean. (=Trans. P.P. Shirshov  Inst. Oceanol.) 27, 204–207.
+Uschakov,   P.V.,  1962.  Polychaetous  annelids   of  the  fam.
+Phyllodocidae   and  Aphroditidae from  the  Antarctic  and Subantarctic [in Russian].  Issled. Fauny  Morei (= Explor. Fauna Seas) 1 (9), 129–189.
+Uschakov,   P.V.,  1972.  Fauna  of  the  USSR.   Polychaetes.
+Volume  I.  Polychaetes  of  the  suborder   Phyllodociformia of  the  Polar   Basin  and   the  northwestern  part   of  the Paciﬁc (Families Phyllodocidae,  Alciopidae, Tomopteridae, Typhloscolecidae,      and     Lacydoniidae)      [in    Russian]. Akad.  Nauk  SSSR,  New  Ser. 102, 1–271 [English transl.
+1974   by   Israel    Program    for   Scientiﬁc   Translations,
+Jerusalem].
+Uschakov,  P.V., 1975. Deep-water Pyhllodocidae  (Polychaeta)
+from  the  South-Sandwich  Trench  collected  by  the  R/V
+)Akademic   Kurchatov*   in   1971   [in   Russian].   Trudy
+Inst.  Okean.  (= Trans.  P.P. Shirshov  Inst.  Oceanol.)  103,
+143–150.
+Vanho¨ ffen,  E.,  1897.  Die  Fauna und  Flora   Gro¨ nlands.  In: Drygalski,   E.  von  (Ed.),   Gro¨ nland-Expedition  der  Ge- sellschaft  fu¨ r Erdkunde zu Berlin 1891–93, Bd. 2, Teil 1. Gesellschaft  fu¨ r Erdkunde, Berlin, pp. 1–383.
+Veit-Ko¨ hler,  G.,  2005.  First   deep-sea  record   of  the  genus Kliopsyllus Kunz, 1962 (Copepoda: Harpacticoida) with the description  of Kliopsyllus diva sp. n.—the  most  abundant member  of Paramesochridae at  two  different  sites of the Angola  Basin. Org. Divers. Evol. 5 (Suppl. 1), 29–41.
+Viguier, C., 1886. E´ tudes sur les animaux  infe´rieurs de la Baie
+d’Alger.  Recherches  sur  les  Anne´lides  pe´lagiques. Arch. Zool. Exp. Ge´n., Se´r. 2 (4), 347–442.
+Wagner,  N., 1872. Nouveau  groupe  d’Anne´lides [in Russian].
+Trudy  St.-Peterb.   Obscestva  Estest.  (= Trav.  Soc.  Nat. Saint-Pe´tersbourg). 3, 344–347.
+Watson Russell, C., 1986. Paleaequor, a New Genus of polychaete worm (Chrysopetalidae). Rec. Aust. Mus. 38, 153–174.
+Watson Russell, C., 1991. Strepternos didymopyton Watson Russell in Bhaud  & Cazaux,  1987 (Polychaeta:  Chrysope- talidae)    from    experimental    wooden    panels    in   deep waters  of  the  western  North   Atlantic.  Ophelia  Suppl.  5,
+283–294.
+Watson  Russell,  C.,  2000. Family  Chrysopetalidae. In:  Beesley, P.L.,  Ross,  G.J.B.,  Glasby,  C.J. (Eds.), Polychaetes  & Allies: The   Southern    Synthesis.   Fauna  of   Australia,    vol.   4A Polychaeta,  Myzostomida, Pogonophora, Echiura,  Sipuncula. CSIRO  Publishing,  Melbourne, pp. 121–125.
+Wesenberg-Lund, E., 1951. Polychaeta. Zool. Iceland 2 (19), 1–182. Westheide,  W., Hass-Cordes, E., 2001. Molecular  taxonomy: description    of   a   cryptic   Petitia    species   (Polychaeta: Syllidae)  from   the  island   of  Mahe´  (Seychelles,  Indian Ocean) using RAPD  markers  and ITS2 sequences. J. Zool.
+Syst. Evol. Res. 39, 103–111.
+Westheide,   W.,   Haß-Cordes,  E.,   Krabusch,  M.,   Mu¨ ller, M.C.M., 2003. Ctenodrilus serratus  (Polychaeta:  Ctenodri-
+lidae)   is  a   truly   amphi-Atlantic  meiofauna    species   –
+evidence from molecular  data.  Mar.  Biol. 142, 637–642. Wiklund,  H.,  Glover,  A.G.,  Johannessen, P.J.,  Dahlgren,  T.G.,
+2009.  Cryptic   speciation   at   organic-rich   marine   habitats: a   new   bacteriovore    annelid    from    whale-fall   and    ﬁsh farms  in  the  North-East Atlantic.  Zool.  J.  Linn.  Soc.  155,
+774–785.
+Wiklund,  H., Nygren,  A., Pleijel, F., Sundberg,  P., 2008. The phylogenetic  relationships between Amphinomidae, Archi- nomidae and Euphrosinidae (Amphinomida: Aciculata: Polychaeta),   inferred  from  molecular  data.  J.  Mar.  Biol. Ass. UK  88, 509–513.
+Willen, E., 2005. A new species of Paranannopus  Lang,  1936 (Copepoda,  Harpacticoida,  Pseudotachidiidae)  with atrophic  mouthparts from the abyssal of the Angola Basin. Org. Divers. Evol. 5 (Suppl. 1), 19–27.
+Wilson,  R.S.,  2000a.  Family  Alciopidae.  In:  Beesley,  P.L., Ross, G.J.B., Glasby, C.J. (Eds.), Polychaetes & Allies: The Southern   Synthesis.  Fauna  of  Australia,   vol.  4A  Poly- chaeta,  Myzostomida, Pogonophora,  Echiura,  Sipuncula. CSIRO  Publishing,  Melbourne, pp. 115–117.
+Wilson,  R.S.,  2000b.  Family  Hesionidae.   In:  Beesley, P.L., Ross, G.J.B., Glasby, C.J. (Eds.), Polychaetes & Allies: The Southern   Synthesis.  Fauna  of  Australia,   vol.  4A  Poly- chaeta,  Myzostomida, Pogonophora,  Echiura,  Sipuncula. CSIRO  Publishing,  Melbourne, pp. 131–133.
+Wilson,  R.S.,  2000c. Family  Lacydoniidae. In: Beesley, P.L., Ross, G.J.B., Glasby, C.J. (Eds.), Polychaetes & Allies: The Southern   Synthesis.  Fauna  of  Australia,   vol.  4A  Poly- chaeta,  Myzostomida, Pogonophora,  Echiura,  Sipuncula. CSIRO  Publishing,  Melbourne, pp. 134.
+Wilson,     R.S.,     2000d.    Family     Lopadorhynchidae.   In: Beesley,  P.L.,   Ross,   G.J.B.,   Glasby,   C.J.   (Eds.),   Poly- chaetes   &  Allies:  The   Southern    Synthesis.   Fauna   of Australia,   vol.  4A  Polychaeta,   Myzostomida,  Pogono- phora,  Echiura,  Sipuncula.  CSIRO  Publishing,  Melbourne, pp. 134–136.
+Wilson,  R.S.,  2000e.  Family  Nephtyidae. In:  Beesley, P.L., Ross, G.J.B., Glasby, C.J. (Eds.), Polychaetes & Allies: The Southern   Synthesis.  Fauna  of  Australia,   vol.  4A  Poly- chaeta,  Myzostomida, Pogonophora,  Echiura,  Sipuncula. CSIRO  Publishing,  Melbourne, pp. 136–137.
+Wilson,  R.S.,  2000f.  Family  Nereididae.   In:  Beesley,  P.L., Ross, G.J.B., Glasby, C.J. (Eds.), Polychaetes & Allies: The Southern   Synthesis.  Fauna  of  Australia,   vol.  4A  Poly- chaeta,  Myzostomida, Pogonophora,  Echiura,  Sipuncula. CSIRO  Publishing,  Melbourne, pp. 138–141.
+Wilson, R.S., 2000g. Family  Phyllodocidae.  In: Beesley, P.L., Ross, G.J.B., Glasby, C.J. (Eds.), Polychaetes & Allies: The Southern   Synthesis.  Fauna  of  Australia,   vol.  4A  Poly- chaeta,  Myzostomida, Pogonophora,  Echiura,  Sipuncula. CSIRO  Publishing,  Melbourne, pp. 145–148.
+Wilson, R.S., 2000h. Family Sphaerodoridae. In: Beesley, P.L., Ross, G.J.B., Glasby, C.J. (Eds.), Polychaetes & Allies: The Southern   Synthesis.  Fauna  of  Australia,   vol.  4A  Poly- chaeta,  Myzostomida, Pogonophora,  Echiura,  Sipuncula. CSIRO  Publishing,  Melbourne, pp. 160–161.
+Wilson,  R.S.,  2000i. Family  Tomopteridae. In: Beesley, P.L., Ross,  G.J.B.,  Glasby,  C.J.  (Eds.),  Polychaetes  &  Allies: The   Southern   Synthesis.   Fauna  of  Australia,   vol.  4A
+428
+M. Bo¨ ggemann  / Organisms,  Diversity & Evolution  9 (2009) 251–428
+
+Polychaeta, Myzostomida, Pogonophora, Echiura, Sipuncula. CSIRO  Publishing,  Melbourne, pp. 167–168.
+Wilson,  R.S.,  2000j. Family  Typhloscolecidae.  In: Beesley, P.L., Ross,   G.J.B.,   Glasby,   C.J.   (Eds.),   Polychaetes   &  Allies: The   Southern    Synthesis.   Fauna  of   Australia,    vol.   4A Polychaeta,  Myzostomida, Pogonophora, Echiura,  Sipuncula. CSIRO  Publishing, Melbourne, pp. 168–169.
+Worsaae,  K., Nygren,  A., Rouse,  G.W.,  Giribet,  G., Persson, J., Sundberg,  P., Pleijel, F., 2005. Phylogenetic  position  of
+Nerillidae  and Aberranta  (Polychaeta,  Annelida),  analysed by direct optimization of combined molecular and morpho- logical data.  Zool. Scr. 34, 313–328.
+Wu, B., Hua, L., 1994. Phylogeny of Alciopidae (pelagic polychaetes):    a   cladistic   analysis.    In:   Dauvin,    J.-C., Laubier,    L.,   Reish,   D.J.    (Eds.),   Actes   de   la   4e`me Confe´rence  Internationale  des  Polyche`tes.   Me´m.  Mus. Natn.  Hist. Nat.  162, 317–321.

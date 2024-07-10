@@ -1,0 +1,145 @@
+Introduction to polychaetes
+
+Polychaetes (poly=many, chaeta=bristles) is a class under Phylum Annelida with usually marine forms distributed widely form poles to tropics. Majority of the polychaetes species are benthic forms, while some pelagic species. Based on the body structure, feeding habits etc. polychaetes are of two different types- Errants and Sedents. Errants have well-developed parapodia, which make them fast crawlers and swimmers and are scavengers or predators as they possess strong jaws. Sedents are tube dwelling or burrowing forms, with reduced parapodia (uncini), mainly feeding on  deposited organic matter  (deposit feeders) on  the sediment or suspended particles (suspension feeders) in the water column (Fauchald and Jumars, 1979). The substratum, mainly sediment texture and grain size along with organic matter in the sediments, are main factors for  their establishment in a region (Gray and Elliott,
+2009) along with bottom water dissolved oxygen, temperature and salinity. In addition, bottom currents also play a major role in their colonisation.
+Polychaetes play a key role in benthic-pelagic coupling in the marine realm (Griffith et al., 2017). They are major contributors of secondary production, as they obtain energy by feeding on other organisms or detritus falling on the sediments. They form a key link in the energy transfer between primary producers and tertiary consumers especially by forming food of demersal fishes and shellfishes (Parulekar et al., 1980). Organic matter falling on the sediments are ingested by polychaetes and egested as faecal pellets. These faecal pellets are degraded by microorganisms and release nutrients back to water column. The reworking of sediment particles by polychaetes through movement, tube building and sediment engulfing enhances pore ventilation, and mixing of organic matter to deeper layers of sediments, which makes the organic matter available for microbial remineralization – a process termed as ‘bioturbation’ (Hutchings, 1998). Most of the polychaetes have meroplanktonic larval stages, thereby connects benthic and pelagic realms. Polychaetes are found in extreme environmental environments like hydrothermal vents, methane seeps, cold seeps, and oxygen minimum zones etc. as certain species are well adapted to these conditions (Levin, 2003). Due to the sedentary nature and their ability to respond environmental stress, polychaetes can be used as indicators of organic enrichment, organic contaminants, heavy metals etc.
+
+
+Study Area
+
+The Andaman and Nicobar Islands are one of the significant oceanic islands in the northern Indian Ocean.   It lies between 6° N and 14° N latitude and 92° E to 94° E longitude. The Andaman and Nicobar Islands, comprise of 572 islands and the island arc separates Bay of Bengal and Andaman Sea. These islands are volcanic in origin, located on the Andaman Nicobar Ridge system, at the edge of the Burma plate. The islands are covered by fringing reefs (Brown, 2007) and the uniqueness of the Andaman and Nicobar Islands, is that it houses rich biodiversity, with tropical rainforest and coral reefs. The position of this archipelago among repositories of biodiversity like the Indian subcontinent, Myanmar, Malay Archipelago, Sumatra and  coral  triangle through Malacca  Strait, makes it  an exceptional biodiversity hotspot.
+
+
+Sampling and Preservation
+
+Systematic stratified sampling was carried out onboard Fishery and Oceanographic Research Vessel (FORV) Sagar Sampada along the insular margin of the Andaman and Nicobar archipelago in three depth strata - 50m, 100m and 200m. A modified Smith-McIntyre grab was used for collecting sediments (Eleftheriou, 2013). Test sieve of 300μm were used for separating polychaetes and the residual sediments were collected in a tray. The organisms were narcotised using magnesium chloride solution and kept for 10 min. Then the organisms were preserved in 8% buffered formalin solution and labelled. Polychaetes were stained using Rose Bengal solution. The pink colour stained polychaetes were sorted out of the sediments using fine forceps.
+Polychaetes were identified to family and genus level using stereozoom microscope (Leica EZ4) and up to species level using compound microscope (Leica DM1000). The identification of polychaetes up to family and genus levels was done using standard keys of Fauchald (1977) and Rouse and Pleijel (2001). Species identification was done using standard keys (Fauvel, 1953; Day, 1967), taxonomic revisions (Glyceridae: Böggemann, 2002, 2005) and species reported from Andaman Sea (Böggemann and Eibye-Jacobsen, 2002) and other areas of the world in the tropical zone (e.g. Uebelacker and Johnson, 1984). Validity and status of taxa (species, genera etc.) were checked and updated using the World Register of Marine Species (WoRMS, 2020). The distribution of species was based on the records of Ocean Biogeographic Information System (OBIS) and WoRMS.
+
+
+Classification
+
+Kingdom:      Animalia
+
+Phylum:         Annelida
+
+Class:             Polychaeta Grube, 1850
+
+Subclass:       Errantia Audouin & H Milne Edwards, 1832
+
+Order:            Phyllodocida Dales, 1962
+
+Suborder:      Glyceriformia
+
+Glyceriformia includes 4 families
+
+       Glyceridae Grube, 1850
+
+       Goniadidae Kinberg, 1866
+
+       Paralacydoniidae Pettibone 1963
+
+       Lacydoniidae Bergström, 1914
+
+
+Identification Characters of Families
+
+Glyceridae are called as blood worms, which are found venomous causing inflammations in the skin after the bite (Böggemann, 2002). They are distributed from intertidal to abyssal depths. Glyceridae and Goniadidae possess elongate body, with numerous segments giving them a visual similarity. But there are remarkable variations in their body appendages and proboscis. In Glyceridae, the prostomium is long, annulated and conical bearing 4 antennae at its tip. Proboscis is very long, with dense papillae of different types arranged in a manner. The jaw supports or ailerons are V shaped, which vary in shapes among species. In Goniadidae, the prostomium is similar to Glyceridae, but marked variations are present in the case of proboscis. Proboscis bears papillae, with jaws supported by large teeth or macrognaths and denticles or micrognaths which forms a circle around the mouth. V shaped chevrons are arranged in longitudinal row on either side of proboscis is a sole feature in Goniadidae. The number and shape of macrognaths, micrognaths and chevrons (number only) vary among species which form the major identification character. In Glyceridae, the first chaetiger bears uniramous parapodia and rest of the body bears biramous parapodia while in Goniadidae, the anterior region bears uniramous parapodia and posterior region with biramous parapodia. Branchiae is present in Glyceridae while it is absent in Goniadidae. Both families have capillaries as notochaetae and compound spinigers as neurochaetae.
+The families Paralacydoniidae and Lacydoniidae have similarities among each other, as the Paralacydonia was under the family Lacydoniidae, later it was erected as separate family (Pettibone, 1963). Prostomium truncate in Paralacydoniidae, whereas rounded in Lacydoniidae with both bearing a pair of antennae and palps. Large, single pair of eyes in Lacydoniidae while small subdermal eyes in Paralacydoniidae. In Lacydoniidae, a pair of cirri present in persitomium with next 2-3 segments uniramous and subsequent segments with biramous parapodia. In Paralacydoniidae, cirri absent with peristomium being apodus, with next one segment only uniramous and all other segments bears biramous parapodia. Both families bear notochaetae as simple capillaries and neurochaetae as compound spinigers.
+
+
+Family: Glyceridae Lamarck, 1818
+Glycera alba (O.F. Müller, 1776)
+Type locality: Norwegian EEZ
+
+Description: Prostomium (9-11 rings) conical in shape. Proboscis bearing 3 types of papillae:
+1) numerous papillae with terminal fingernail structure with long stalk and some longitudinal ridges on nail; 2) less numerous digitiform papillae with straight, median longitudinal ridge; 3) isolated, broader, oval to globular papillae without ridges. The base of ailerons is pointed and triangular. The parapodia of first 2 segments are uniramous while all other chaetigers bear biramous parapodia. The parapodia middle portion bears 2 slender triangular to digitiform prechaetal lobes of about same length and two shorter postchaetal lobes, with slender triangular short notopodial lobe, more or less rounded neuropodial lobe. Dorsal cirri conical to oval in shape, starting from chaetiger 3 inserted on body wall slightly above parapodial base. Ventral cirri slender, triangular to digitiform in shape. It is as long as neuropodial postchaetal lobe in the anterior chaetigers whereas in posterior parapodia it becomes slender and elongated. Branchiae simple and digitiform situated dorsal side of parapodia, starting from chaetiger 17–
+23 as long as prechaetal lobe.
+Distribution: Red Sea, Madagascar, Thailand, India - Arabian Sea, Andaman and Nicobar Islands
+
+
+Glycera benguellana Augener, 1931
+Type locality: Southwest Africa
+Description: Prostomium long, with numerous indistinct rings. Proboscis with 2 types of papillae 1) few broadly conical papillae and 2) numerous digitiform ones with 10-16 rings. Aileron are blade-like, the shorter limb being a mere expansion at the base of the other. Parapodia with two triangular prechaetal lobes with superior one is slightly shorter in the middle of the body and in posterior segments. The postchaetal lobe is low and rounded. Dorsal cirrus is relatively large and arises in the junction of the parapodium with the body. Branchiae absent.
+Distribution: Africa, India - Arabian Sea, Andaman and Nicobar Islands
+
+
+Glycera lancadivae Schmarda, 1861
+Type locality: Sri Lanka
+Description: Prostomium (9-12 rings) conical in shape. Proboscis bearing 2 types of papillae:
+1) numerous digitiform papillae with undulating ridges, 2) few shorter and broader, conical to oval papillae without ridges. Ailerons with slight dent in pointed triangular base. The parapodia of first 2 segments are uniramous while following chaetigers bear biramous parapodia. Two slender, triangular to digitiform prechaetal lobes and neuropodial lobes were twice longer than notopodial lobes. One short rounded postchaetal lobe. Dorsal cirri oval to globular in shape, starting from chaetiger 3 inserted on body wall above parapodial base. Ventral cirri slender, triangular to digitiform in shape, about as long as postchaetal lobe whereas in posterior parapodia it becomes slender and elongated. Branchiae absent.
+Distribution: Red Sea, Madagascar, India - Arabian Sea, Andaman and Nicobar Islands
+
+
+Glycera lapidum Quatrefages, 1866
+Type locality: Berwick Bay, England
+Description: Prostomium conical in shape and long (as long as 9 chaetigers), consisting of about 15 rings. Proboscideal papillae of two types 1) numerous, digitiform papillae sometimes with discreet undulating ridge, 2) isolated, shorter and broader, conical papillae without ridges. Aileron with pointed triangular base. The parapodia of first 2 chaetigers uniramous, following parapodia biramous, with two triangular to digitiform prechaetal lobes. Notopodial lobe usually smaller than neuropodial lobe. Single, short and rounded postchaetal lobe. Dorsal cirrus oval to round in shape, inserted dorsolaterally on body wall far from parapodial base starting from chaetiger 3. Ventral cirrus triangular to digitiform slightly smaller than postchaetal lobe, starting from ﬁrst parapodium. Notosetae simple capillaries covered with minute serrations. Neurosetae compound spinigers with smooth shafts and blades with minute serrations Branchiae absent. Pygidium rounded.
+Distribution: Australia, Indonesia, India - off Cape Comorin, Andaman and Nicobar Islands
+
+
+Glycera longipinnis Grube, 1878
+Type locality: Philippines
+Description: Prostomium (12 rings) conical in shape. Proboscis with 2 types of papillae 1) long cylindrical papillae without rings 2) few stout forms. Aileron with two long slender rami, one twice the length of the other and narrowly united at the base. Prechaetal lobes elongate, pointed and subequal whereas postchaetal lobes single low, rounded or faintly bilobed structure. Dorsal cirrus ovoid. Ventral cirrus triangular, much shorter than the prechaetal lobes. Notochaetae and neurochaetae with rows of minute spinules along the blades. Branchiae present from the 20th chaetiger. Branchiae is a single filament situated on the dorsal edge of the parapodia longer than the prechaetal lobes.
+Distribution: Red Sea, Sumatra, India - Arabian Sea, Bay of Bengal, Andaman and Nicobar Islands
+
+
+Glycera natalensis Day, 1957
+Type locality: Durban, South Africa
+Description: Prostomium (16-21 rings) conical in shape. Proboscis bearing 3 types of papillae:
+1) numerous papillae with terminal fingernail structure with long stalk with V shaped ridges and some longitudinal ridges on nail, 2) less numerous digitiform papillae with indistinct straight, median longitudinal ridge; 3) isolated, broader, oval to globular papillae without ridges. The base of ailerons is triangular. The parapodia of first 2 segments are uniramous while all other chaetigers bear biramous parapodia. The parapodia bears 2 slender triangular to digitiform prechaetal lobes of about same length. Two shorter postchaetal lobes with rounded lobes in the anterior region whereas in the following chaetigers notopodial lobe slender triangular and slightly longer than rounded neuropodial lobe. Dorsal cirri conical to oval in shape, starting from chaetiger 3 inserted on body wall slightly above parapodial base. Ventral cirri slender, triangular to digitiform in shape, about as long as neuropodial postchaetal lobe whereas in posterior parapodia it becomes slender and elongated. Branchiae simple and digitiform, situated termino-dorsally on parapodia, starting from chaetiger 32-53rd chaetiger to near posterior end.
+Distribution: Africa, Sri Lanka, India - Arabian Sea, Andaman and Nicobar Islands
+
+
+Glycera papillosa Grube, 1857
+Type locality: Chile
+Description: Prostomium conical with 8 rings. The papillae on the proboscis includes 2 types
+1) a few ovoid forms and 2) numerous long, slender forms without rings. Aileron are deeply forked and slender, the shorter limb being half the length of the longer one and united to it. The superior prechaetal lobe is small, the inferior one large and pointed. Single rounded postchaetal lobe present. Dorsal cirrus is small arises from body wall above the parapodium. Ventral cirrus has a length of postchaetal lobe. Branchiae absent.
+Distribution: India - Arabian Sea, Bay of Bengal, Andaman and Nicobar Islands
+
+
+Glycera subaenea Grube, 1878
+Type locality: Philippines
+Description: Prostomium with 8 rings. Aileron with one well developed prong and the other prong short and completely united to the first by an oblique shelf. Proboscis with 2 types of papillae 1) numerous bluntly conical papillae with 1-2 rings 2) subspherical papillae without rings. Parapodia with 2 long, equal pointed prechaetal lobes. The superior postchaetal lobe is pointed, the inferior one is shorter and blunt. Branchiae starting from chaetiger 12 situated on the anterior end of parapodium, with 2 to 5 branched digitiform lobes.
+Distribution: Australia, Madagascar, India - Arabian Sea, Andaman and Nicobar Islands
+
+
+Glycera tesselata Grube, 1863
+Type locality: Mediterranean Sea
+Description: Prostomium conical, long (as long as ﬁrst 12 chaetigers) with indistinct rings. Proboscideal papillae of two types 1) numerous digitiform papillae posteriorly with straight, median, longitudinal ridge 2) isolated, shorter and broader, conical papillae, posteriorly with more or less distinctly straight, median, longitudinal ridge. Anterior margins of both papillae smooth. Aileron with deeply incised base. Parapodia of first 2 chaetigers uniramous, with single prechaetal and postchaetal lobe. The parapodia in the subsequent chaetigers biramous, with 2 triangular to digitiform prechaetal lobes of about same length. Notopodial lobe slightly shorter than the neuropodial lobe on anterior to median parapodia whereas notopodial lobe usually slightly shorter than neuropodial lobe on median to posterior parapodia. Two short, rounded postchaetal lobes, about same length, but both lobes becoming slender on posterior parapodia. Dorsal cirrus conical to oval in shape, inserted on body wall near parapodial base starting from chaetiger 3. Ventral cirrus triangular to digitiform, shorter than the postchaetal lobes. Parapodia with simple capillary notochaetae and compound spinigerous neurochaeta. Branchiae absent.
+Distribution: Red Sea, Madagascar, India - Arabian Sea, Bay of Bengal, Andaman and Nicobar Islands
+
+
+Glycera tridactyla Schmarda, 1861
+Type locality: Atlantic Ocean
+Description: Conical prostomium (13–15 rings) terminal ring with 4 appendages. Proboscis with 3 types of papillae: 1) numerous papillae with terminal fingernail structure on posterior surface, with short stalk and some longitudinal ridges on nail; 2) less numerous and slightly shorter conical papillae; 3) isolated, broader, oval to globular papillae without ridges. Proboscis with 4 hook-shaped jaws. Ailerons with triangular base. The parapodia in first two chaetigers uniramous while in following chaetigers parapodia biramous. Two triangular to digitiform prechaetal lobes of about same length. In last parapodia notopodial lobe shorter than neuropodial one. Two shorter postchaetal lobes, anteriorly both lobes rounded and in following parapodia notopodial lobe elongated and slender triangular, distinctly longer than rounded. Neuropodial lobe blunt and triangular. Notopodial lobe in posterior parapodia slender and elongated. In last parapodia notopodial lobe generally shorter. Dorsal cirri is conical to oval in shape, inserted on body wall slightly above parapodial base starting from 3rd chaetiger. Ventral cirri slender, triangular to digitiform in shape, about as long as neuropodial postchaetal lobe in the anterior chaetigers. In posterior parapodia, ventral cirri is slender and elongated. Notopodia and neuropodia each with a single acicula. Notochaetae capillaries. Neurochaetae compound spinigers with blades of different lengths. Branchiae non-retractile, simple, digitiform starting from about 21- 32nd parapodium to near posterior end, situated termino-dorsally on parapodia. Pygidium with dorsal anus and terminal pair of slender, elongated cirri.
+Distribution: Red Sea, Gulf of Oman, Gulf of Aden, Africa, Madagascar, Australia, India - Arabian Sea, Bay of Bengal, Andaman and Nicobar Islands
+
+
+Glycera nicobarica Grube, 1866
+Type locality: Nicobar Islands
+Description: Conical prostomium consisting of about 9–11 rings. Proboscis with two types of papillae 1) numerous conical papillae with 3 U shaped ridges, 2) isolated, broader and globular papillae without ridges. Ailerons with triangular base. First 2 parapodia uniramous, following parapodia biramous. Biramous parapodia consists of 2 slender triangular to digitiform prechaetal lobes of about same length. Two shorter postchaetal lobes present with slender triangular notopodial and shorter, rounded neuropodial postchaetal lobe. Dorsal cirri from chaetiger 2, conical to oval, inserted on body wall slightly above parapodial base. Ventral cirri slender triangular to digitiform, about as long as neuropodial postchaetal lobe whereas in posterior paraspodia slender and elongated, situated termino-ventrally on parapodia. Branchiae simple and digitiform starting from parapodium 18–30 to near posterior end, situated medially on anterior side of parapodia, which may extend beyond prechaetal lobes in the middle portion of the body.
+Distribution: Australia, Thailand, India - Andaman and Nicobar Islands
+
+
+References
+
+Böggemann, M. (2002). Revision of the Glyceridae Grube 1850 (Annelida: Polychaeta). Abhandlungen der Senckenbergischen naturforschenden Gesellschaft. 555: 1-249
+Böggemann, M. (2005). Revision of the Goniadidae (Annelida: Polychaeta). Abhandlungen des Naturwissenschaftlichen Vereins in Hamburg. (Neue Folgen) 39: 1-354.
+Böggemann, M. and Eibye-Jacobsen, D. (2002). The Glyceridae and Goniadidae (Annelida: Polychaeta) of the BIOSHELF Project, Andaman Sea, Thailand. Phuket Marine Biological Center Special Publication, 24, 149-196.
+Brown. (2007). Coral reefs of the Andaman Sea- An integrated perspective In: Oceanography and marine biology: an annual review (Eds. Gibson RN, Atkinson RJA & Gordon JD). CRC press 45: 173-194.
+Day, J. H. (1967). A monograph on the Polychaeta of Southern Africa. Part 1. Errantia. British
+Museum (Natural History), London. 458 pp.
+Eleftheriou, A. (2013). Methods for the study of marine benthos. 4th edn. John Wiley & Sons, UK.
+Fauchald, K. (1977). The polychaete worms. Definitions and keys to the orders, families and genera. Natural History Museum of Los Angeles County, Science Series. 28:1-190.
+Fauchald, K., and Jumars, P. A. (1979). The diet of worms: a study of polychaete feeding guilds. Oceanography and marine biology: an annual review. 17, 193-284.
+Fauvel,  P.  (1953).  The  Fauna of  India including  Pakistan,  Ceylon,  Burma and  Malaya. Annelida Polychaeta. Indian Press, Allahabad, 12, 507pp.
+Gray, J.S. and Elliott, M. (2009). Ecology of marine sediments: from science to management. 2nd edn. Oxford University Press on Demand. 256pp.
+Griffiths, J. R., Kadin, M., Nascimento, F. J., Tamelander, T., Törnroos, A., Bonaglia, S., Bonsdorff, E., Brüchert, V., Gårdmark, A., Järnström, M. and Kotta, J. (2017). The importance of benthic–pelagic coupling for marine ecosystem functioning in a changing world. Global Change Biology 23(6): 2179-2196.
+Hutchings,    P.    (1998).    Biodiversity    and    functioning    of    polychaetes    in    benthic sediments. Biodiversity and Conservation, 7(9), 1133-1145.
+Imajima, M. (2003). Polychaetous Annelids from Sagami Bay and Sagami Sea collected by the Emperor Showa of Japan and deposited at the Showa Memorial Institute, National Science Museum, Tokyo (II). Orders included within the Phyllodocida, Amphinomida, Spintherida and Eunicida. National Science Museum Monographs. 23: 1-221.
+Levin.  (2003).  Oxygen  minimum  zone  benthos:  Adaptation  and  community response  to hypoxia. In: Oxygen minimum zone benthos: adaptation and community response to hypoxia (Eds. Gibson RN & Atkinson RJA, 2003), Oceanography and marine biology: an annual review
+41, 1-45.
+Parulekar, A. H., Harkantra, S. N. and Ansari, Z. A. (1982). Benthic production and assessment of demersal fishery resources of the Indian seas. Indian Journal of Marine Science, 11:107–
+114.
+Rouse, G. and Pleijel, F. (2001). Polychaetes. Oxford University Press. 354 pp.
+Uebelacker, J. M. and Johnson, P. G. (1984). Taxonomic guide to the polychaetes of the
+Northern Gulf of Mexico (Vol. 5). Barry A. Vittor & Associates. 32-34.
