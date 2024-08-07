@@ -71,7 +71,7 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
 2. Run the ingestion script:
     - For the semistructured dataset
    
-      ``` python ingest_semi.py
+      ``` python ingest_semi.py ```
       
     - For the unstructured data
       
