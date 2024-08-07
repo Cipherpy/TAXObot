@@ -51,10 +51,10 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 ## Knowledge Base
 The knowledge base is a collection of information that TAXObot uses to answer your questions. It's like a library that contains detailed taxonomic information on Glyceridae. When you ask a question, the RAG model searches through this knowledge base to find relevant information and then uses it to generate a precise and accurate answer.
 
-* **PDF Data**
+* **UNSTRUCTURED Data**
  
     - One part of the knowledge base consists of PDF documents that contain extensive taxonomic information on Glyceridae. These PDFs have been processed and indexed to allow the RAG model to retrieve relevant sections based on your queries.
-* **TEXT Data**
+* **SEMI-STRUCTURED Data**
   
     - Another part of the knowledge base consists of custom-created text data files. These files contain detailed descriptions and taxonomic keys specifically tailored by our team to enhance the accuracy and relevance of the information provided by TAXObot. This bespoke text data ensures that the model has access to the most precise and up-to-date information
 
@@ -66,13 +66,17 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
 ### Running the Ingest Script
 1. Ensure your data is placed in the appropriate folders:
 
-    - PDF documents should be placed in `un_structured/`
-    - Custom text data files should be placed in `semi_structured/`
+    - Unstructured documents should be placed in `un_structured/`
+    - Custom semi structured data files should be placed in `semi_structured/`
 2. Run the ingestion script:
+    - For the semistructured dataset
    
         python ingest_semi.py
-
-        python ingest_semi.py
+      
+    - For the unstructured data
+      
+        python ingest_unstrd.py
+      
 This will process and index the data, making it available for retrieval by TAXObot.
 
 ## Sample Questions and Answers
