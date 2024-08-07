@@ -42,7 +42,7 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 
 ### 5. Run the Streamlit app
 
-        streamlit run streamlit_front.py
+        streamlit run streamlit_semi.py
 
 ## Usage
 * Once the app is running, open your web browser and go to http://localhost:8501.
@@ -58,7 +58,7 @@ The knowledge base is a collection of information that TAXObot uses to answer yo
   
     - Another part of the knowledge base consists of custom-created text data files. These files contain detailed descriptions and taxonomic keys specifically tailored by our team to enhance the accuracy and relevance of the information provided by TAXObot. This bespoke text data ensures that the model has access to the most precise and up-to-date information
 
-The knowledge bases for the RAG model are stored in the `pdf/` and `text/` folders, respectively.
+The knowledge bases for the RAG model are stored in the `un_structured/` and `semi_structured/` folders, respectively.
 
 ## Data Ingestion
 To ingest data into the RAG model, use the `ingest.py` script. This script processes the data files and indexes them for retrieval by the model.
@@ -66,12 +66,13 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
 ### Running the Ingest Script
 1. Ensure your data is placed in the appropriate folders:
 
-    - PDF documents should be placed in `pdf/`
-    - Custom text data files should be placed in `text/`
+    - PDF documents should be placed in `un_structured/`
+    - Custom text data files should be placed in `semi_structured/`
 2. Run the ingestion script:
    
-        python ingest.py
+        python ingest_semi.py
 
+        python ingest_semi.py
 This will process and index the data, making it available for retrieval by TAXObot.
 
 ## Sample Questions and Answers
