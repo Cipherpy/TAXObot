@@ -77,7 +77,9 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
       
     - For the unstructured data
       
+      ```
       python ingest_unstrd.py
+      ```
       
 This will process and index the data, making it available for retrieval by TAXObot.
 
