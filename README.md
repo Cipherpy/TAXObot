@@ -61,7 +61,7 @@ The knowledge base is a collection of information that TAXObot uses to answer yo
 The knowledge bases for the RAG model are stored in the `un_structured/` and `semi_structured/` folders, respectively.
 
 ## Data Ingestion
-To ingest data into the RAG model, use the `ingest.py` script. This script processes the data files and indexes them for retrieval by the model.
+To ingest data into the RAG model, use the data ingestion script. This script processes the data files and indexes them for retrieval by the model.
 
 ### Running the Ingest Script
 1. Ensure your data is placed in the appropriate folders:
@@ -94,14 +94,14 @@ The `Sample/` folder contains a set of sample questions and answers to help you 
     - **Answer**: Glyceridae are commonly found in marine environments, particularly in sandy or muddy substrates where they burrow and hunt for prey.
 
 ## Project Structure
-- `streamlit_front.py`: Main application script.
+- `streamlit_semi.py`, `streamlit_unstrd.py`: Main application script.
 - `core/`: Core functions and utilities.
-- `knowledge_base/`: Contains the knowledge bases for the RAG model.
-    - `pdf_data/`: Contains PDF documents.
-    - `text_data/`: Contains custom-created text data files.
-- `samples/`: Contains sample questions and answers.
+- Knowledge bases for the RAG model contained in.
+    - `un_structured/`: Contains unstructured documents.
+    - `semi_structured/`: Contains custom-created text data files.
+- `Sample/`: Contains sample questions and answers.
 - `vectorstore/`: Directory for storing vector database.
-- `ingest.py`: Script to ingest data into the RAG model.
+- `ingest_semi.py`,  `ingest_unstrd.py`: Script to ingest data into the RAG model.
 - `requirements.txt`: List of dependencies.
 - `README.md`: This file.
 - `.env`: Environment variables file (not included, must be created manually).
