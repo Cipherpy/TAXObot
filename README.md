@@ -73,7 +73,6 @@ To ingest data into the RAG model, use the `ingest.py` script. This script proce
    
       ```
       python ingest_semi.py
-
       ```
       
     - For the unstructured data
