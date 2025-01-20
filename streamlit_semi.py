@@ -11,8 +11,8 @@ from core.ui import is_query_valid
 # Set page configuration
 st.set_page_config(layout="wide")
 
-os.environ["OPENAI_API_KEY"] = st.secrets['openai']["OPENAI_API_KEY"]
-#load_dotenv()
+# os.environ["OPENAI_API_KEY"] = st.secrets['openai']["OPENAI_API_KEY"]
+load_dotenv()
 
 DB_FAISS_PATH = 'vectorstore/db_faiss_semi'
 
