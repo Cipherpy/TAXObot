@@ -91,7 +91,7 @@ This will process and index the data, making it available for retrieval by TAXOb
 
 ## Sample Questions and Answers
 
-The file `Sample/Questions`.xlsx contains a curated set of sample questions and corresponding expected answers used for evaluation, testing, and demonstration of TAXObot’s capabilities. These questions reflect the different types of queries that users can pose to the system, including general, taxonomic, and descriptive questions.
+The file `Supplementary_data/Questions.xlsx` contains a curated set of sample questions and corresponding expected answers used for evaluation, testing, and demonstration of TAXObot’s capabilities. These questions reflect the different types of queries that users can pose to the system, including general, taxonomic, and descriptive questions.
 Here are a few examples:
 
 1. **Question**: What are the key identifying features of Glyceridae?
