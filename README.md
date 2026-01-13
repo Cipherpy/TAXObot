@@ -1,6 +1,6 @@
 # TAXObot
 
-TAXObot is an AI assistant designed for Marine Taxonomists, particularly focusing on the taxonomic information of 500 marine species representing multiple taxonomic groups, including Polychaeta, Crustacea, Asteroidea, Holothuroidea, Chondrichthyes, and Pisces This Streamlit application leverages Retrieval-Augmented Generation (RAG) to provide accurate and detailed taxonomic information based on user queries.
+TAXObot is an AI assistant designed for Marine Taxonomists, particularly focusing on the taxonomic information of 500 marine species representing multiple taxonomic groups, including Polychaeta, Crustacea, Asteroidea, Holothuroidea, Chondrichthyes, and Pisces. This Streamlit application leverages Retrieval-Augmented Generation (RAG) to provide accurate and detailed taxonomic information based on user queries.
 
 ## Features
 
@@ -44,11 +44,11 @@ https://github.com/Cipherpy/TAXObot/assets/27478550/d6981001-8ad8-4e26-853b-843b
 * Start interacting with TAXObot by typing your queries related to marine polychaetes in the input box.
 
 ## Knowledge Base
-The knowledge base is a collection of information that TAXObot uses to answer your questions. It's like a library that contains detailed taxonomic information on Glyceridae. When you ask a question, the RAG model searches through this knowledge base to find relevant information and then uses it to generate a precise and accurate answer.
+The knowledge base is a collection of information that TAXObot uses to answer your questions. It's like a library that contains detailed taxonomic information on selected species spanning multiple groups . When you ask a question, the RAG model searches through this knowledge base to find relevant information and then uses it to generate a precise and accurate answer.
 
 * **UNSTRUCTURED Data**
  
-    - One part of the knowledge base consists of PDF documents that contain extensive taxonomic information on Glyceridae. These PDFs have been processed and indexed to allow the RAG model to retrieve relevant sections based on your queries.
+    - One part of the knowledge base consists of PDF documents that contain extensive taxonomic information on different species. These PDFs have been processed and indexed to allow the RAG model to retrieve relevant sections based on your queries.
 * **SEMI-STRUCTURED Data**
   
     - Another part of the knowledge base consists of custom-created text data files. These files contain detailed descriptions and taxonomic keys specifically tailored by our team to enhance the accuracy and relevance of the information provided by TAXObot. This bespoke text data ensures that the model has access to the most precise and up-to-date information
