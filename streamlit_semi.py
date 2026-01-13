@@ -178,12 +178,12 @@ with col1:
         unsafe_allow_html=True
     )
 
-   st.warning(
-    "TAXObot does not provide exhaustive coverage of all marine species.\n\n"
-    "The current version is limited to a selected subset of species within the listed taxonomic groups.\n\n"
-    "This application is a prototype developed for research and evaluation purposes.\n\n"
-    "Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases."
-)
+    st.warning(
+        "TAXObot does not provide exhaustive coverage of all marine species.\n\n"
+        "The current version is limited to a selected subset of species within the listed taxonomic groups.\n\n"
+        "This application is a prototype developed for research and evaluation purposes.\n\n"
+        "Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases."
+    )
 
 
 
