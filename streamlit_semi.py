@@ -175,11 +175,11 @@ with col1:
 
         <div class="col1-container"
              style="
-                background-color: #fff8e6;
+                
                 border-left: 5px solid #f4b400;
                 padding: 15px 18px;
              ">
-            <p style="margin: 0; font-size: 0.9em; color: #444;">
+            <p>
                 <span style="font-size: 1.2em;">⚠️</span>
                 <strong style="margin-left: 6px;">Disclaimer</strong><br><br>
 
