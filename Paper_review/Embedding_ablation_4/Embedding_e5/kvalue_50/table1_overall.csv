@@ -1,2 +1,0 @@
-Embedding,Question_type,Best@5,MRR@10,nDCG@10,Hit@5,Recall@10,num_chunks_retrieved_raw,num_chunks_retrieved_dedup,dedup_ratio
-e5-large-v2,ALL,0.24557752341311134,0.10954053317476835,0.258248056779514,0.6519250780437045,0.31644120707596257,50.0,50.0,1.0
