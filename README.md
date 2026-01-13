@@ -90,7 +90,9 @@ To ingest data into the RAG model, use the data ingestion script. This script pr
 This will process and index the data, making it available for retrieval by TAXObot.
 
 ## Sample Questions and Answers
-The `Sample/` folder contains a set of sample questions and answers to help you get started with the kinds of queries you can ask TAXObot. Here are a few examples:
+
+The file `Sample/Questions`.xlsx contains a curated set of sample questions and corresponding expected answers used for evaluation, testing, and demonstration of TAXObot’s capabilities. These questions reflect the different types of queries that users can pose to the system, including general, taxonomic, and descriptive questions.
+Here are a few examples:
 
 1. **Question**: What are the key identifying features of Glyceridae?
    
