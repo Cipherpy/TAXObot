@@ -73,7 +73,7 @@ To ingest data into the RAG model, use the data ingestion script. This script pr
 1. Ensure your data is placed in the appropriate folders:
 
     - Unstructured documents should be placed in `un_structured/`
-    - Custom semi structured data files should be placed in `semi_structured/`
+    - Custom semi structured data is placed in `Supplementary_data/Supplementary data 1.docx`
 2. Run the ingestion script:
     - For the semistructured dataset
    
@@ -102,13 +102,13 @@ Here are a few examples:
     - **Answer**: Glyceridae are commonly found in marine environments, particularly in sandy or muddy substrates where they burrow and hunt for prey.
 
 ## Project Structure
-- `streamlit_semi.py`, `streamlit_unstrd.py`: Main application script.
+- `streamlit_semi.py`: Main application script.
 - `core/`: Core functions and utilities.
 - Knowledge bases for the RAG model contained in.
     - `un_structured/`: Contains unstructured documents.
-    - `semi_structured/`: Contains custom-created text data files.
-- `Sample/`: Contains sample questions and answers.
-- `vectorstore/`: Directory for storing vector database.
+    - `Supplementary_data/Supplementary data 1.doc`: Cntains custom-created text data files.
+- `Supplementary_data/Supplementary Questions.xlsx`: Contains sample questions and answers.
+- `embedding/`: Directory for storing vector database.
 - `ingest_semi.py`,  `ingest_unstrd.py`: Script to ingest data into the RAG model.
 - `requirements.txt`: List of dependencies.
 - `README.md`: This file.
