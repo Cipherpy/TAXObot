@@ -1,0 +1,2 @@
+Embedding,Question_type,Best@5,MRR@10,nDCG@10,Hit@5,Recall@10,num_chunks_retrieved_raw,num_chunks_retrieved_dedup,dedup_ratio
+bge-large-en-v1.5,ALL,0.7580645161290323,0.6473204994797087,0.5438306405743318,0.8720083246618107,0.48033298647242456,25.0,25.0,1.0
