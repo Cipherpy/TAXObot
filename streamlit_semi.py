@@ -172,19 +172,19 @@ with col1:
                 and helps with identification, diagnostic characters, and general biological information derived from the embedded reference documents.
             </p>
         </div>
-
-        st.markdown(
-        "**⚠ Disclaimer**  \n"
-        "TAXObot does not provide exhaustive coverage of all marine species.  \n"
-        "The current version is limited to a selected subset of species within the listed taxonomic groups.  \n"
-        "This application is a prototype developed for research and evaluation purposes.  \n"
-        "Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases."
 )
 
         ''',
         unsafe_allow_html=True
     )
 
+    st.markdown(
+        "**⚠ Disclaimer**  \n"
+        "TAXObot does not provide exhaustive coverage of all marine species.  \n"
+        "The current version is limited to a selected subset of species within the listed taxonomic groups.  \n"
+        "This application is a prototype developed for research and evaluation purposes.  \n"
+        "Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases."
+    )
 
 
 
