@@ -64,17 +64,12 @@ The knowledge bases for the RAG model are stored in the `un_structured/` and `se
 A custom chunking strategy was implemented to distinguish between general descriptive text and taxonomic species descriptions. General content is segmented using header detection based on bold-character ratio, where paragraphs exceeding a predefined boldness threshold are treated as section headers and initiate new chunks. Taxonomic content is chunked using explicit “Species name:” tags, which act as hard anchors defining the start of each species-specific block. All text following a species tag is grouped into a single taxonomic chunk until the next species tag appears, preserving diagnostic continuity.
 
 ### Metadata-Enriched Chunk Representation
-Each chunk is stored with structured metadata to support filtering, evaluation, and explainability:
-
-    - chunk_type: general / taxonomic
-
-    - species_name: present only for taxonomic chunks
-
-    - section_label: header or subsection name
-
-    - source_document: original reference
-
-    - chunk_text: cleaned textual content
+Each chunk is stored with structured metadata to support filtering, evaluation, and explainability
+- `chunk_type`: general / taxonomic.
+- `species_name`: present only for taxonomic chunks.
+- `section_label`: header or subsection name.
+- `source_document`: original reference.
+- `chunk_text`: cleaned textual content.
 
 ## Data Ingestion
 To ingest data into the RAG model, use the data ingestion script. This script processes the data files and indexes them for retrieval by the model.
