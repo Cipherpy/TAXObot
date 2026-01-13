@@ -25,9 +25,9 @@ st.set_page_config(layout="wide", page_title="TAXObot")
 if "openai" in st.secrets and "OPENAI_API_KEY" in st.secrets["openai"]:
     os.environ["OPENAI_API_KEY"] = st.secrets["openai"]["OPENAI_API_KEY"]
 
-if not OPENAI_API_KEY:
-    st.error("Missing OPENAI_API_KEY. Add it to environment or .env")
-    st.stop()
+# if not OPENAI_API_KEY:
+#     st.error("Missing OPENAI_API_KEY. Add it to environment or .env")
+#     st.stop()
 
 # -----------------------------
 # CONSTANT CONFIG (NO SIDEBAR)
