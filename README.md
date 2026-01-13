@@ -2,6 +2,8 @@
 
 TAXObot is an AI assistant designed for Marine Taxonomists, particularly focusing on the taxonomic information of 500 marine species representing multiple taxonomic groups, including Polychaeta, Crustacea, Asteroidea, Holothuroidea, Chondrichthyes, and Pisces This Streamlit application leverages Retrieval-Augmented Generation (RAG) to provide accurate and detailed taxonomic information based on user queries.
 
+## Features
+
 * **Conversational AI**: Interact with TAXObot using natural language to get detailed taxonomic information.
 * **RAG Implementation**: Combines language generation and retrieval for precise and contextually accurate answers.
 * **User-Friendly Interface**: Clean and intuitive interface built with Streamlit.
@@ -110,15 +112,11 @@ The `Sample/` folder contains a set of sample questions and answers to help you 
 - `README.md`: This file.
 - `.env`: Environment variables file (not included, must be created manually).
 
-
 ## ⚠️ Disclaimer
 
 - TAXObot does not provide exhaustive coverage of all marine species.
-
 - The current version is limited to a selected subset of species within the listed taxonomic groups.
-
 - This application is a prototype developed for research and evaluation purposes.
-
 - Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases.
 
 ## Contributing
