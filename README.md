@@ -134,5 +134,5 @@ Here are a few examples:
 ## Contact
 For questions or issues, please open an issue in this repository or contact the maintainers
 
-#### Name: Reshma B, Nosad Sahu
-#### Email: reshmababuraj89@gmail.com, nosadsahu@gmail.com
+#### Name: Reshma B
+#### Email: reshmababuraj89@gmail.com
