@@ -172,7 +172,7 @@ with col1:
                 and helps with identification, diagnostic characters, and general biological information derived from the embedded reference documents.
             </p>
 
-            <hr style="margin: 15px 0;">
+            
 
             <p style="font-size: 0.9em; color: #555;">
                 <strong>Disclaimer</strong><br>
