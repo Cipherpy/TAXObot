@@ -175,7 +175,7 @@ with col1:
             
 
             <p style="font-size: 0.9em; color: #555;">
-                <strong>Disclaimer</strong><br>
+                
                 TAXObot does not provide exhaustive coverage of all marine species.<br>
                 The current version is limited to a selected subset of species within the listed taxonomic groups.<br>
                 This application is a prototype developed for research and evaluation purposes.<br>
