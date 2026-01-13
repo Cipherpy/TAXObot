@@ -181,10 +181,7 @@ with col1:
     st.markdown(
         """
     > ⚠️ **Disclaimer**  
-    > TAXObot does not provide exhaustive coverage of all marine species.  
-    > The current version is limited to a selected subset of species within the listed taxonomic groups.  
-    > This application is a prototype developed for research and evaluation purposes.  
-    > Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases.
+    > TAXObot does not provide exhaustive coverage of all marine species.  The current version is limited to a selected subset of species within the listed taxonomic groups.Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases.
     """
     )
 
