@@ -68,7 +68,7 @@ try:
     n_docs = vectordb._collection.count()
     #st.caption(f"✅ Knowledge base loaded ({n_docs} chunks)")
 except Exception:
-    #st.caption("✅ Knowledge base loaded")
+    st.caption("✅ Knowledge base loaded")
 
 # -----------------------------
 # Retrieval
