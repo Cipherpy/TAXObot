@@ -25,9 +25,9 @@ if "openai" in st.secrets and "OPENAI_API_KEY" in st.secrets["openai"]:
 
 # load_dotenv()
 # OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
-if not OPENAI_API_KEY:
-    st.error("Missing OPENAI_API_KEY. Add it to Streamlit secrets or environment.")
-    st.stop()
+# if not OPENAI_API_KEY:
+#     st.error("Missing OPENAI_API_KEY. Add it to Streamlit secrets or environment.")
+#     st.stop()
 
 
 # -----------------------------
