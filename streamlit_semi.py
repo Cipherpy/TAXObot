@@ -173,22 +173,14 @@ with col1:
             </p>
         </div>
 
-        <div class="col1-container"
-             style="
-                background-color: #fff8e6;
-                border-left: 5px solid #f4b400;
-                padding: 15px 18px;
-             ">
-            <p style="margin: 0; font-size: 0.9em; color: #444;">
-                <span style="font-size: 1.2em;">⚠️</span>
-                <strong style="margin-left: 6px;">Disclaimer</strong><br><br>
+        st.markdown(
+        "**⚠ Disclaimer**  \n"
+        "TAXObot does not provide exhaustive coverage of all marine species.  \n"
+        "The current version is limited to a selected subset of species within the listed taxonomic groups.  \n"
+        "This application is a prototype developed for research and evaluation purposes.  \n"
+        "Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases."
+)
 
-                TAXObot does not provide exhaustive coverage of all marine species.<br>
-                The current version is limited to a selected subset of species within the listed taxonomic groups.<br>
-                This application is a prototype developed for research and evaluation purposes.<br>
-                Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases.
-            </p>
-        </div>
         ''',
         unsafe_allow_html=True
     )
