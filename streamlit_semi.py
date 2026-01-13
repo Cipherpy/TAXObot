@@ -171,15 +171,12 @@ with col1:
                 TAXObot is an AI assistant designed for Marine Taxonomists. It supports queries across multiple marine taxonomic groups
                 and helps with identification, diagnostic characters, and general biological information derived from the embedded reference documents.
             </p>
+        </div>
 
-            
-
-            <p style="font-size: 0.9em; color: #555;">
-                
-                TAXObot does not provide exhaustive coverage of all marine species.<br>
-                The current version is limited to a selected subset of species within the listed taxonomic groups.<br>
-                This application is a prototype developed for research and evaluation purposes.<br>
-                Additional species, taxonomic groups, and enhanced functionalities will be incorporated in future releases.
+        <div class="col1-container">
+            <p>
+                TAXObot is an AI assistant designed for Marine Taxonomists. It supports queries across multiple marine taxonomic groups
+                and helps with identification, diagnostic characters, and general biological information derived from the embedded reference documents.
             </p>
         </div>
         """,
